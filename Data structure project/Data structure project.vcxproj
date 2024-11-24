@@ -129,7 +129,6 @@
   <ItemGroup>
     <ClInclude Include="AVL.h" />
     <ClInclude Include="Btree.h" />
-    <ClInclude Include="RedBlack.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp" />
