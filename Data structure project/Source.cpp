@@ -67,7 +67,7 @@ void FileReading(String filename) {
 
 int main()
 {
-   String file = "C:/Users/ha797/Downloads/HealthCare-dataset/healthcare_dataset.csv";  //add the file path of csv file 
+   String file = "csv file path here";  //add the file path of csv file 
    FileReading(file);
 
  
