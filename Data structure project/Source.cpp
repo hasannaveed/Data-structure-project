@@ -48,13 +48,14 @@ void FileReading(String filename) {
         char newchar[10];  // temp character array for string 
         toString(i, newchar);  //int to string func 
 
-        String newFile = newchar;  // Convert number to String
-        String lastTxt = ".txt";  //adding the file extension 
+        String newfile = "path of folder where to store all files";  //path of folder to sstore files 
+        String mid = newchar;
+       String lastTxt = ".txt";  //adding the file extension 
 
 
-        newFile = newFile + lastTxt;  // concatenating
+       String total = newfile + mid + lastTxt;
 
-        ofstream file1(newFile.getdata(), ios::out);  //for writing
+        ofstream file1(total.getdata(), ios::out);  //for writing
 
         file1 << rowReading;  // Write the row data to the new file
 
@@ -67,10 +68,11 @@ void FileReading(String filename) {
 
 int main()
 {
-   String file = "csv file path here";  //add the file path of csv file 
+   String file = "csv file path";  //add the file path of csv file 
    FileReading(file);
 
- 
+  
+
 
 
     return 0;
