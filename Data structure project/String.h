@@ -1,8 +1,6 @@
 #pragma once
 
-//Name:Muhammad Hasan Naveed
-//Roll no: 23I-0797
-//Assignment #2
+
 
 #include <iostream>
 using namespace std;
