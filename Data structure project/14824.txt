@@ -1,0 +1,1 @@
+LANCE keITH,32,Male,B+,Cancer,2021-04-20,John Warner,Lucas-Dixon,Cigna,7131.594997560721,496,Elective,2021-04-21,Aspirin,Abnormal

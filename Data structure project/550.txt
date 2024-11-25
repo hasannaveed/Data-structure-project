@@ -1,0 +1,1 @@
+DAvID ORTiz,80,Male,O-,Arthritis,2022-02-05,Michael Walters,"Richardson Mccormick, Cruz and",Cigna,40178.46329436952,396,Elective,2022-02-18,Penicillin,Inconclusive

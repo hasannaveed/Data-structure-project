@@ -1,0 +1,1 @@
+RobeRT RoSS,68,Female,O-,Hypertension,2022-11-16,Andrew Neal,"Murphy, and Garcia Jones",Blue Cross,29526.321525099618,384,Elective,2022-11-21,Aspirin,Inconclusive

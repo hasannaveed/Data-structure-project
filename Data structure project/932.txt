@@ -1,0 +1,1 @@
+LiSa fRanKLin,32,Female,A+,Arthritis,2022-05-21,Luke York,"Chan, Goodman and Gould",Cigna,22545.929230901325,294,Emergency,2022-05-25,Penicillin,Inconclusive

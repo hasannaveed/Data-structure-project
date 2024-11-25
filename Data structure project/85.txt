@@ -1,0 +1,1 @@
+DIAnE brAnch,44,Male,O+,Obesity,2020-05-30,Juan Acevedo,Perez and Sons,Cigna,22841.363876905678,410,Emergency,2020-06-14,Aspirin,Inconclusive

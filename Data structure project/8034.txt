@@ -1,0 +1,1 @@
+John BLAck,63,Male,B+,Asthma,2024-05-02,Todd Chang,Arellano-Kelly,Medicare,26320.031703920256,275,Elective,2024-05-16,Aspirin,Normal

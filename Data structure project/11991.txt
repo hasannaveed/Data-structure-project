@@ -1,0 +1,1 @@
+ERIc jordan,81,Female,B+,Diabetes,2023-09-27,April Smith,Vaughn-Nguyen,Blue Cross,13880.008363999867,185,Urgent,2023-10-26,Aspirin,Normal

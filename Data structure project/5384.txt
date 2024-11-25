@@ -1,0 +1,1 @@
+dOMIniQUE SmIth,63,Male,AB-,Arthritis,2020-06-21,Tyler Merritt,Moore Ltd,Blue Cross,48320.8279620228,128,Emergency,2020-06-27,Aspirin,Inconclusive

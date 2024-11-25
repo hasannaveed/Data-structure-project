@@ -1,0 +1,1 @@
+mArY broWn,20,Male,O+,Asthma,2020-03-21,Zachary Harrell,"and Wright Hughes, Ortiz",Blue Cross,12287.921978435706,288,Emergency,2020-03-26,Lipitor,Inconclusive

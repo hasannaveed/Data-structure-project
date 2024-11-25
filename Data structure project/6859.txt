@@ -1,0 +1,1 @@
+stUArT HOLmES,55,Male,A+,Diabetes,2020-06-07,Richard Williams,Gray-Joyce,Cigna,30366.88809028577,331,Elective,2020-06-08,Paracetamol,Abnormal

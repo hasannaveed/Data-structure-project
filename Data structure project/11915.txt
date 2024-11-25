@@ -1,0 +1,1 @@
+LISA hArvEY,63,Male,AB-,Diabetes,2020-12-04,Christopher Watson,Anderson Group,Blue Cross,33902.73590939161,122,Emergency,2020-12-23,Lipitor,Abnormal

@@ -1,0 +1,1 @@
+SCOtt AguilAR,82,Female,A+,Obesity,2021-05-06,James Barker,"Burton, Bentley Duran and",Cigna,13994.631931608292,255,Emergency,2021-05-24,Ibuprofen,Normal

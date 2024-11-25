@@ -1,0 +1,1 @@
+CarL HARRis,70,Male,O+,Arthritis,2020-08-05,Shawn Williams,"Wallace, and Olson Jacobs",Aetna,35597.89879595034,411,Urgent,2020-08-27,Lipitor,Normal

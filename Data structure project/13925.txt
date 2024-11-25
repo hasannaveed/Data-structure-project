@@ -1,0 +1,1 @@
+tina COBb,61,Male,A+,Arthritis,2022-11-17,Michael Ellison,Stephens-Fisher,Medicare,19805.176093711052,202,Elective,2022-12-01,Lipitor,Inconclusive

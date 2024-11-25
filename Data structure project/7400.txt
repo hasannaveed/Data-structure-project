@@ -1,0 +1,1 @@
+scoTt adams,74,Male,A+,Diabetes,2023-05-13,Rita King,"Simmons Estrada and Smith,",Cigna,35750.097725848056,434,Urgent,2023-05-15,Aspirin,Normal

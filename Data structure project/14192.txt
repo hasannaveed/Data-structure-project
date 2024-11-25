@@ -1,0 +1,1 @@
+BENjaMIN grEEN,33,Female,A+,Cancer,2019-09-07,Joseph Alvarado,"Walker and Wheeler, Duncan",Cigna,18849.078080694442,204,Emergency,2019-09-28,Aspirin,Normal

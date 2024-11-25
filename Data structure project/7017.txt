@@ -1,0 +1,1 @@
+jackSON lOpez,21,Female,B+,Asthma,2020-08-03,Jeffery Martinez,Brewer-Marquez,Medicare,9471.80097056492,192,Emergency,2020-08-08,Lipitor,Normal

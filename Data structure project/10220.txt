@@ -1,0 +1,1 @@
+heatHER friedMan,31,Male,B-,Asthma,2020-07-26,Ryan Macdonald,"Stanley Perkins, and Stanley",Medicare,25512.661936016786,335,Urgent,2020-08-10,Penicillin,Normal

@@ -1,0 +1,1 @@
+jOse wIlsoN,45,Male,A-,Asthma,2021-01-08,Monica Rodriguez,Velazquez-Evans,Medicare,30070.451174848717,385,Emergency,2021-01-24,Aspirin,Normal

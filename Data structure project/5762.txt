@@ -1,0 +1,1 @@
+andrEw GARza,25,Female,O+,Arthritis,2020-07-21,John Miller,"Miller and Gomez, Gross",Medicare,34924.43913700326,371,Emergency,2020-08-04,Aspirin,Normal

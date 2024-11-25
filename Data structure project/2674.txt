@@ -1,0 +1,1 @@
+AlisON RoSE,81,Female,B+,Diabetes,2020-06-22,Robert Wright,"Young and Conway, Ross",Aetna,20225.621969738317,234,Emergency,2020-06-28,Penicillin,Abnormal

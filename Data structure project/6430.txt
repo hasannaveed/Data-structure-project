@@ -1,0 +1,1 @@
+LISa haMPTON,40,Male,B-,Asthma,2020-07-17,Bryan Castillo,Robinson Inc,Aetna,43979.6071472275,263,Urgent,2020-07-29,Penicillin,Inconclusive

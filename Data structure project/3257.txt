@@ -1,0 +1,1 @@
+TiNA CRaWFOrd,30,Female,A+,Cancer,2023-05-13,Annette Williams,"White and Smith Villegas,",Blue Cross,20270.529175469757,270,Urgent,2023-05-25,Ibuprofen,Abnormal

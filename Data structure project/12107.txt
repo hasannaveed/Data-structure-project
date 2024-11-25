@@ -1,0 +1,1 @@
+john cARPeNtEr,35,Female,AB-,Cancer,2021-11-17,Dr. Scott Molina,Wolf-Smith,Blue Cross,25940.80188859039,208,Emergency,2021-12-12,Aspirin,Abnormal

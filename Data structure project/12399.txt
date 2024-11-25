@@ -1,0 +1,1 @@
+lIsa BaNKs,46,Male,O-,Obesity,2020-07-04,Martin Herring,"Mccall, Lang and Henderson",Blue Cross,41158.25982448749,415,Emergency,2020-07-23,Lipitor,Abnormal

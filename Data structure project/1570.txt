@@ -1,0 +1,1 @@
+AllIsOn pricE,53,Male,AB+,Asthma,2022-03-20,Jennifer Johnson,Munoz-Swanson,Medicare,28858.720854859886,308,Urgent,2022-04-04,Penicillin,Abnormal

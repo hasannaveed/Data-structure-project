@@ -1,0 +1,1 @@
+RObERt BakEr,42,Female,A+,Asthma,2020-01-19,Miss Roberta Mason,Davis Group,Blue Cross,49540.37116963764,102,Urgent,2020-02-16,Penicillin,Abnormal

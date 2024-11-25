@@ -1,0 +1,1 @@
+TRAcy alLen,61,Female,AB+,Arthritis,2020-08-14,Carrie Vang,Short-Sanders,Blue Cross,5474.290895847653,488,Elective,2020-08-29,Lipitor,Inconclusive

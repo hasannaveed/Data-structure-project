@@ -1,0 +1,1 @@
+tRAvIS kING,64,Female,B-,Cancer,2020-10-01,Mary Gallagher MD,Adams-Stuart,Cigna,28118.435650847365,337,Urgent,2020-10-02,Penicillin,Abnormal

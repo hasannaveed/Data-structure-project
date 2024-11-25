@@ -1,0 +1,1 @@
+RoBerT HernANDEZ,32,Male,O+,Asthma,2020-05-12,John Anderson,LLC Taylor,Medicare,31077.794467111227,245,Urgent,2020-06-02,Lipitor,Inconclusive

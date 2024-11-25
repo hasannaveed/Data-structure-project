@@ -1,0 +1,1 @@
+roBErt MEDINA,33,Male,AB+,Diabetes,2022-03-09,Alison Nash,"Stanton and Harding, Hicks",Aetna,18494.663890951702,486,Emergency,2022-03-21,Ibuprofen,Normal

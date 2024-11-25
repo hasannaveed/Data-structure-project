@@ -1,0 +1,1 @@
+CHARLES jOHNsON,67,Male,A-,Arthritis,2022-03-27,Mrs. Hannah Davis MD,Baker-Duffy,Medicare,22214.362438934488,342,Urgent,2022-03-30,Paracetamol,Normal

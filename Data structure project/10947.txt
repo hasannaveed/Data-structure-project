@@ -1,0 +1,1 @@
+DavId PErez,43,Male,B+,Asthma,2023-05-06,Jasmine Levy,Sons Fernandez and,Blue Cross,32672.56696071948,447,Emergency,2023-05-26,Penicillin,Normal

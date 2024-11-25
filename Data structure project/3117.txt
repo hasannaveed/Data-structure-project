@@ -1,0 +1,1 @@
+CAtHeriNe knox,40,Female,O-,Obesity,2019-06-06,Robert Jackson,Inc Key,Cigna,12664.23147415173,464,Emergency,2019-06-25,Paracetamol,Inconclusive

@@ -1,0 +1,1 @@
+SEaN carDenaS,55,Male,B-,Diabetes,2021-02-07,Todd Sanchez,"Holmes and Hughes, Phillips",Cigna,34758.256750986024,331,Emergency,2021-03-05,Aspirin,Normal

@@ -1,0 +1,1 @@
+racHEL WalkER,22,Female,B+,Cancer,2022-03-02,Jack Dixon,Hardy Group,Aetna,14301.93655474384,280,Emergency,2022-03-14,Lipitor,Normal

@@ -1,0 +1,1 @@
+Erica wagNER,45,Male,B-,Diabetes,2019-11-08,Shelly Fowler,LLC Garner,UnitedHealthcare,12288.79014050836,376,Urgent,2019-11-23,Penicillin,Inconclusive

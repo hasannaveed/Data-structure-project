@@ -1,0 +1,1 @@
+leslie genTry,38,Female,AB-,Diabetes,2022-07-26,Travis Schultz,"Mclaughlin, Bernard Pearson and",Cigna,19858.670318890076,429,Elective,2022-08-21,Lipitor,Inconclusive

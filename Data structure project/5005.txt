@@ -1,0 +1,1 @@
+andrEw wilsON,42,Male,A+,Asthma,2019-11-06,Abigail White,"and Burgess Bell, Walker",Medicare,27504.996025804907,276,Urgent,2019-11-26,Aspirin,Abnormal

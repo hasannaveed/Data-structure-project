@@ -1,0 +1,1 @@
+lorI ScHroEder,45,Female,A+,Diabetes,2021-03-07,David Soto,Richardson Inc,Cigna,25893.35840690072,159,Emergency,2021-03-24,Ibuprofen,Inconclusive

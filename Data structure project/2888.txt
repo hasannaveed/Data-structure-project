@@ -1,0 +1,1 @@
+ANN MATHIS,37,Female,A+,Obesity,2022-05-29,Kathryn Henson,Inc Taylor,Medicare,22091.58763453596,472,Emergency,2022-05-30,Lipitor,Abnormal

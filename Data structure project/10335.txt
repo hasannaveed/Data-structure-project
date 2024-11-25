@@ -1,0 +1,1 @@
+GlENn BIRD,77,Female,A+,Asthma,2020-10-24,Alisha Adams,PLC Mosley,Cigna,21503.59820571437,410,Emergency,2020-10-28,Lipitor,Inconclusive

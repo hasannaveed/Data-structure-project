@@ -1,0 +1,1 @@
+DebrA THOmas,47,Female,B-,Hypertension,2019-08-05,Melissa James,"Cline, and Brewer Smith",Medicare,22278.33287772622,416,Emergency,2019-08-30,Aspirin,Abnormal

@@ -1,0 +1,1 @@
+ERIn RioS,26,Female,B-,Diabetes,2020-09-18,Morgan Smith,"Gray, and Carr Martin",Medicare,37349.149131795944,184,Emergency,2020-09-25,Ibuprofen,Inconclusive

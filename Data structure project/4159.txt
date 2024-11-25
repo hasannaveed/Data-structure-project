@@ -1,0 +1,1 @@
+BROoke cASEY,30,Male,B-,Asthma,2021-10-05,Maria Edwards,Allison-Cameron,Aetna,38578.53614823904,268,Emergency,2021-10-10,Penicillin,Abnormal

@@ -1,0 +1,1 @@
+paUla GOnzAles,83,Male,B+,Cancer,2022-09-17,Gregory Campos,Garcia-Wagner,Blue Cross,20444.01802563826,159,Emergency,2022-09-22,Penicillin,Normal

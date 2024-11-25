@@ -1,0 +1,1 @@
+vIrginIA carTER,65,Male,AB+,Diabetes,2021-09-30,Dawn Whitehead,LLC Daniel,Cigna,38216.432936630656,233,Elective,2021-10-15,Aspirin,Normal

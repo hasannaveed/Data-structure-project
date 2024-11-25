@@ -1,0 +1,1 @@
+DAVId SelLerS,73,Male,A-,Cancer,2020-08-20,Patrick Sharp,"Hall, and Cole Carpenter",Aetna,50033.528586394124,494,Elective,2020-08-29,Penicillin,Normal

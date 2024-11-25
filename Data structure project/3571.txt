@@ -1,0 +1,1 @@
+ChArLES jeNKiNS,24,Male,AB+,Asthma,2020-03-20,Ronald Lutz,Group Rodriguez,Blue Cross,41789.645586591265,102,Emergency,2020-03-28,Ibuprofen,Abnormal

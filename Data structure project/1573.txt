@@ -1,0 +1,1 @@
+JAsOn MartINeZ,32,Male,O-,Diabetes,2022-03-04,Veronica Smith,"Juarez Sims, Henry and",Medicare,42492.112601072935,312,Emergency,2022-03-21,Lipitor,Normal

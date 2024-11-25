@@ -1,0 +1,1 @@
+tyRONe NEWMan,42,Male,AB+,Cancer,2022-08-03,Shawn Russell,Inc Gonzalez,Medicare,37907.06425087226,415,Emergency,2022-08-18,Penicillin,Inconclusive

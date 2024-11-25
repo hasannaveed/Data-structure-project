@@ -1,0 +1,1 @@
+roBERt jaCKsOn,35,Male,AB+,Diabetes,2020-02-09,Jason Aguirre,"and Patterson Newton Espinoza,",Aetna,6848.836388935808,210,Emergency,2020-02-17,Lipitor,Inconclusive

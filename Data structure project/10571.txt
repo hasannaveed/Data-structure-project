@@ -1,0 +1,1 @@
+lukE tuRner,70,Female,O+,Cancer,2022-01-09,Robert Finley,Daniels-Pham,Aetna,15063.831490629726,432,Emergency,2022-01-16,Paracetamol,Abnormal

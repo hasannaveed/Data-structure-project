@@ -1,0 +1,1 @@
+sCOtt NElson,30,Male,B-,Diabetes,2023-01-21,Alejandra Ruiz,Hill-Velez,Cigna,13362.755913980502,269,Elective,2023-01-22,Penicillin,Normal

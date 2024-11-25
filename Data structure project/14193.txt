@@ -1,0 +1,1 @@
+REGInaLd FiScher,66,Male,B+,Cancer,2020-02-16,Mary Dean,Hernandez-Martinez,Blue Cross,35549.52118175993,244,Elective,2020-02-20,Penicillin,Normal

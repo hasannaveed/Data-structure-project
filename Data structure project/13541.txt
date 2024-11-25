@@ -1,0 +1,1 @@
+AndREW RoBERtS,45,Female,O-,Diabetes,2022-12-18,Hailey Pollard,Miller LLC,UnitedHealthcare,31780.526212961606,191,Elective,2022-12-31,Penicillin,Normal

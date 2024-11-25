@@ -1,0 +1,1 @@
+tRaCy pARKER,57,Female,A+,Arthritis,2020-07-02,Juan Rocha,"Morgan Fitzgerald, and Olsen",Aetna,40818.14324867176,323,Emergency,2020-07-18,Ibuprofen,Abnormal

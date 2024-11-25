@@ -1,0 +1,1 @@
+jasON MorRow,63,Female,AB+,Obesity,2020-11-23,Christina Duncan,"Griffin and Dickerson, Ramos",Aetna,38312.50735482071,239,Emergency,2020-12-16,Penicillin,Abnormal

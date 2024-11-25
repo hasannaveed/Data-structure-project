@@ -1,0 +1,1 @@
+sPenCEr wAGNer,51,Male,B+,Diabetes,2020-05-08,Jordan Lopez,Rogers-Wood,Cigna,5081.735922832716,146,Emergency,2020-05-14,Aspirin,Normal

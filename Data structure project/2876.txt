@@ -1,0 +1,1 @@
+TEResA GomEZ,51,Male,O-,Obesity,2020-05-08,David Diaz,"Saunders Curry, Jones and",Medicare,35103.89415410025,423,Urgent,2020-05-18,Aspirin,Abnormal

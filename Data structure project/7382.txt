@@ -1,0 +1,1 @@
+marTIN tAyLor,64,Female,A-,Obesity,2020-01-07,Mark Perez,and Sons Adams,Blue Cross,1487.9546216735523,439,Emergency,2020-01-15,Aspirin,Inconclusive

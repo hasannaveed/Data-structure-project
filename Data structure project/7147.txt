@@ -1,0 +1,1 @@
+EUGene JaCObs,39,Female,O-,Arthritis,2019-10-15,Elizabeth Moore,Henry Inc,Blue Cross,21942.654881090406,287,Elective,2019-11-01,Aspirin,Normal

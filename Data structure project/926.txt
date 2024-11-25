@@ -1,0 +1,1 @@
+geoFFrEy DANiELs,36,Male,B-,Obesity,2020-09-15,Stanley Moreno,Roberts Inc,Cigna,5624.288668755982,380,Emergency,2020-09-26,Paracetamol,Inconclusive

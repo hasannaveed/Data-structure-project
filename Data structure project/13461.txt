@@ -1,0 +1,1 @@
+lIsA ARNOld,73,Female,O+,Obesity,2021-06-20,Jason Lee,"and Beard Carlson, Ortiz",Cigna,5059.559208852766,138,Urgent,2021-06-22,Aspirin,Inconclusive

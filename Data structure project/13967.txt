@@ -1,0 +1,1 @@
+MarCUs key,22,Male,AB-,Arthritis,2019-07-11,Erin Burnett,PLC Hull,Cigna,30303.496015429097,376,Elective,2019-07-20,Ibuprofen,Normal

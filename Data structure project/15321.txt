@@ -1,0 +1,1 @@
+barBAra paRSonS,67,Male,B-,Hypertension,2021-07-20,Patricia Jennings,Garcia-Moore,Blue Cross,20211.545543462722,468,Elective,2021-07-24,Aspirin,Normal

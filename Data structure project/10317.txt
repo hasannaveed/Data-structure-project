@@ -1,0 +1,1 @@
+kEllY walKER,25,Male,AB+,Asthma,2020-03-01,Thomas Johnson,"Walker and Jones, Weber",Cigna,50615.140654274786,459,Urgent,2020-03-19,Penicillin,Abnormal

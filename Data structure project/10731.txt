@@ -1,0 +1,1 @@
+DIane robertson,42,Male,B-,Hypertension,2019-08-15,Cristian Cruz,Barnes Inc,Aetna,2142.4543183719557,188,Urgent,2019-08-24,Lipitor,Normal

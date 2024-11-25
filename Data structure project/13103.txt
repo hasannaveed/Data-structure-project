@@ -1,0 +1,1 @@
+LISa simON,34,Male,B+,Hypertension,2020-01-01,Christian Phillips,Inc Thomas,Aetna,30861.893517561075,440,Emergency,2020-01-13,Lipitor,Inconclusive

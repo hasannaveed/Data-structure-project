@@ -1,0 +1,1 @@
+nOrman cROSS,84,Female,B-,Asthma,2022-07-11,Jonathan White,Sanchez-Cunningham,Aetna,44137.8138263286,118,Elective,2022-07-15,Aspirin,Inconclusive

@@ -1,0 +1,1 @@
+kurT SMith,67,Male,B+,Obesity,2020-01-01,Dawn Rodriguez,"George Salazar Walker, and",Cigna,14599.012157390682,380,Urgent,2020-01-14,Aspirin,Inconclusive

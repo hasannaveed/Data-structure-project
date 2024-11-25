@@ -1,0 +1,1 @@
+BarBarA riOS,59,Male,AB+,Hypertension,2020-10-28,Scott Rios,"and Fields, Garcia Marshall",Cigna,5606.318257888702,456,Emergency,2020-11-05,Paracetamol,Abnormal

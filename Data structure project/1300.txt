@@ -1,0 +1,1 @@
+connIE pAGe,42,Female,A+,Cancer,2024-02-06,Jeremy Johnson,"Cowan Cardenas Allen, and",UnitedHealthcare,6257.128987997334,259,Elective,2024-02-27,Ibuprofen,Abnormal

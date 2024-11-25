@@ -1,0 +1,1 @@
+trAcy garciA,20,Male,AB-,Cancer,2019-05-11,Dr. Joseph Mitchell,"and Walsh, Floyd Owens",Aetna,35776.637069418735,313,Urgent,2019-05-12,Lipitor,Abnormal

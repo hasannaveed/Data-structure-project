@@ -1,0 +1,1 @@
+nataLIE Ball,56,Male,O-,Cancer,2021-01-09,Bradley Alvarado,Simmons-Torres,Blue Cross,10514.417043213409,260,Urgent,2021-02-04,Lipitor,Normal

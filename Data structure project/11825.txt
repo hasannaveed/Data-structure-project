@@ -1,0 +1,1 @@
+sEAN sTEpHEnS,85,Male,B-,Cancer,2020-10-10,Nathan Hughes,Campos-Hernandez,Blue Cross,9968.875163764176,142,Emergency,2020-10-28,Ibuprofen,Normal

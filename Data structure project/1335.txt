@@ -1,0 +1,1 @@
+lUIs BarNES,82,Male,O-,Diabetes,2020-08-12,Dustin Mcdaniel,PLC Phillips,Aetna,23437.296075334325,120,Emergency,2020-09-07,Penicillin,Inconclusive

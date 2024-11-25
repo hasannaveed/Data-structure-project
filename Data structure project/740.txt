@@ -1,0 +1,1 @@
+stephAnIe martIN,61,Male,A+,Obesity,2020-08-10,Kevin Tucker,Perez-Smith,Aetna,29810.04691793525,346,Emergency,2020-09-06,Penicillin,Normal

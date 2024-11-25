@@ -1,0 +1,1 @@
+ann stEwaRT,75,Male,O+,Arthritis,2021-08-22,Adam Wilson,Lambert-Lane,Blue Cross,11279.582988393346,245,Emergency,2021-09-01,Ibuprofen,Inconclusive

@@ -1,0 +1,1 @@
+ChristINa barber,42,Male,AB-,Obesity,2021-12-28,Nicholas Reed,Long-Santos,Blue Cross,31942.9225586576,331,Elective,2022-01-26,Aspirin,Inconclusive

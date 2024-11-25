@@ -1,0 +1,1 @@
+sUSAN NicHOLs,46,Female,A+,Diabetes,2020-10-05,John Barker,"Smith Rodriguez and Buchanan,",Aetna,41392.78012487011,331,Elective,2020-10-07,Aspirin,Abnormal

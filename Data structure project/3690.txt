@@ -1,0 +1,1 @@
+charLes dELgADO,85,Female,O-,Diabetes,2019-11-04,Patrick Green,"Jackson, Griffith and Conner",Medicare,15819.884422136407,131,Emergency,2019-11-12,Penicillin,Normal

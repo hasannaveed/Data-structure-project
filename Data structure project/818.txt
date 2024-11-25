@@ -1,0 +1,1 @@
+RoBerT gRavEs,53,Male,A+,Obesity,2019-08-06,Angela Rogers,Johnson-Garcia,UnitedHealthcare,3338.2155112066584,362,Emergency,2019-09-03,Lipitor,Normal

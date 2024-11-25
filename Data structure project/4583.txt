@@ -1,0 +1,1 @@
+RosE hAlL,80,Male,AB-,Diabetes,2020-04-22,Barbara Perez,"Martin Oconnor, and Smith",Blue Cross,36776.01574559335,338,Elective,2020-04-23,Ibuprofen,Abnormal

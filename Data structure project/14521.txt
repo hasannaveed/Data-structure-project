@@ -1,0 +1,1 @@
+deNNis BANKS,85,Male,O-,Asthma,2022-06-04,Scott Gonzales,Hayes-Thomas,Blue Cross,32535.04006235062,170,Emergency,2022-06-07,Aspirin,Normal

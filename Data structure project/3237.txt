@@ -1,0 +1,1 @@
+tINA davis,46,Female,B-,Arthritis,2021-07-18,Alicia Harris,"Smith, Williams Wilkins and",Blue Cross,15118.946441028485,211,Urgent,2021-07-21,Paracetamol,Inconclusive

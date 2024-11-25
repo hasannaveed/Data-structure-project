@@ -1,0 +1,1 @@
+vIncENT hOFFMAn,33,Male,B-,Arthritis,2019-05-15,Gary Richardson,Johnson-Dillon,Medicare,40142.46803837085,155,Elective,2019-05-25,Lipitor,Abnormal

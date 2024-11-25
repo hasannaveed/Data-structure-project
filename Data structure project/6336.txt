@@ -1,0 +1,1 @@
+StEVEN SmIth,72,Female,A+,Arthritis,2021-10-07,Eric Mccoy,"Long White, Wells and",Blue Cross,10795.411651229488,182,Emergency,2021-10-12,Paracetamol,Abnormal

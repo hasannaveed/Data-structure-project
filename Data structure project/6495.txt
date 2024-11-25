@@ -1,0 +1,1 @@
+lIsA Koch,20,Male,AB+,Arthritis,2021-04-08,Amanda Barton,Young-Hernandez,Blue Cross,8658.690277693131,307,Emergency,2021-05-08,Penicillin,Normal

@@ -1,0 +1,1 @@
+THomaS smiTh,78,Male,AB-,Cancer,2019-07-27,Charles Rivers,"Rios, Harrell and Ferguson",UnitedHealthcare,42819.6439434855,220,Elective,2019-08-22,Penicillin,Inconclusive

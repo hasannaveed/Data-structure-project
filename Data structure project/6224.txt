@@ -1,0 +1,1 @@
+WayNE SotO,41,Male,A-,Asthma,2019-08-05,Linda Smith,Torres-Hayden,Medicare,18999.32843405176,216,Urgent,2019-08-25,Penicillin,Abnormal

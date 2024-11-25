@@ -1,0 +1,1 @@
+debBiE scOtt,50,Male,A-,Arthritis,2021-10-07,Ellen Bailey,Smith LLC,Cigna,37340.17186942508,427,Urgent,2021-10-08,Ibuprofen,Abnormal

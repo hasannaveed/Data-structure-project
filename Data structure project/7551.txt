@@ -1,0 +1,1 @@
+WillIAM VALdEZ,70,Female,AB-,Arthritis,2020-08-07,Joseph Schultz,"Baker and Wright Pitts,",Medicare,22119.76436903264,498,Emergency,2020-08-28,Aspirin,Inconclusive

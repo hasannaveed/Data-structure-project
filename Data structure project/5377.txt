@@ -1,0 +1,1 @@
+DaRLenE HARriSON,32,Female,O+,Obesity,2019-05-22,Douglas Mccoy,Morrison-Weber,UnitedHealthcare,46783.39525617996,328,Emergency,2019-05-31,Penicillin,Abnormal

@@ -1,0 +1,1 @@
+saRA hall,68,Male,A+,Diabetes,2020-12-05,Lisa Davenport,"and Hess, Nguyen Everett",Medicare,6078.838574632307,478,Emergency,2020-12-18,Ibuprofen,Inconclusive

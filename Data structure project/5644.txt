@@ -1,0 +1,1 @@
+ROBerT sMITH,51,Female,A-,Arthritis,2023-05-29,Kathryn Nguyen,"Johnson Bishop, and Russell",Aetna,23086.54966032657,338,Urgent,2023-05-31,Penicillin,Inconclusive

@@ -1,0 +1,1 @@
+GrEgORY EllIS,45,Female,O-,Diabetes,2022-06-02,Alexander Miller,"Collins and Wright, Garrison",Medicare,40056.92882115591,494,Emergency,2022-06-07,Aspirin,Abnormal

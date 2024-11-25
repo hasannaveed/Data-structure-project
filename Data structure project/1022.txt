@@ -1,0 +1,1 @@
+coDy TAYLOR,45,Female,AB+,Asthma,2023-07-15,Shannon Hicks,Owens-Adkins,Medicare,13534.109452421952,219,Urgent,2023-07-23,Ibuprofen,Abnormal

@@ -1,0 +1,1 @@
+Lori towNsEND,51,Male,A-,Obesity,2020-07-11,Frank Farmer,"Myers Kline, and Mcdonald",Blue Cross,30713.055772127835,250,Emergency,2020-07-16,Paracetamol,Inconclusive

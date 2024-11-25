@@ -1,0 +1,1 @@
+BRent rogeRs,78,Female,AB+,Diabetes,2022-04-20,Regina Foster,"and Tran Lara, Nguyen",Medicare,18002.542205131842,324,Emergency,2022-04-28,Lipitor,Normal

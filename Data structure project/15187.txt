@@ -1,0 +1,1 @@
+SPenCER ADAms,31,Male,AB-,Diabetes,2023-05-24,David Flowers,Thomas LLC,Medicare,49775.948459164734,323,Elective,2023-06-14,Lipitor,Normal

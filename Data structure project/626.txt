@@ -1,0 +1,1 @@
+linDa cARdeNas,23,Male,A-,Asthma,2021-06-11,Zachary Scott,"Rich and Roach, King",Blue Cross,47491.39238680917,305,Elective,2021-06-27,Ibuprofen,Abnormal

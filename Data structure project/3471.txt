@@ -1,0 +1,1 @@
+MeGAn whitE,42,Male,O+,Cancer,2021-08-01,Yvonne Hernandez,Harris-Dominguez,Medicare,25962.975198953525,298,Urgent,2021-08-26,Lipitor,Normal

@@ -1,0 +1,1 @@
+carLa evaNs,38,Female,A-,Asthma,2020-08-03,Thomas Collins,Cruz PLC,Medicare,19403.477731720333,338,Urgent,2020-08-15,Aspirin,Normal

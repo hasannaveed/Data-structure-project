@@ -1,0 +1,1 @@
+moniCA sampSon,49,Male,B-,Diabetes,2021-03-27,Robin Brown,"Gregory, Rosario and Bruce",Medicare,7330.475550892902,500,Elective,2021-04-10,Penicillin,Normal

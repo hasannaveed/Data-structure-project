@@ -1,0 +1,1 @@
+erIcA jacKSON,83,Female,B+,Arthritis,2020-01-01,Darrell Reed,"Campbell Davies, and Yates",Medicare,1577.9045427636304,164,Emergency,2020-01-20,Paracetamol,Inconclusive

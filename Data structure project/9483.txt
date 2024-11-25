@@ -1,0 +1,1 @@
+chrIstIna FrEeman,42,Female,A+,Diabetes,2022-07-25,Mark Smith,"Love and Ramirez, Herrera",Medicare,44587.75356604802,335,Emergency,2022-08-15,Aspirin,Inconclusive

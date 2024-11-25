@@ -1,0 +1,1 @@
+SHANNOn key,83,Female,B-,Hypertension,2021-09-19,Evan George,"Thomas and Lambert, Young",Blue Cross,40850.924880202976,347,Emergency,2021-09-29,Aspirin,Abnormal

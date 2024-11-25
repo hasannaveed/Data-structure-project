@@ -1,0 +1,1 @@
+jACOB bRight,42,Female,A-,Cancer,2022-08-01,Joy Wiley,Sanchez LLC,Medicare,31662.4662160144,315,Emergency,2022-08-08,Ibuprofen,Normal

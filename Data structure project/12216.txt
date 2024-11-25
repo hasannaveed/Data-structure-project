@@ -1,0 +1,1 @@
+LISA TOwNSENd,70,Male,B+,Diabetes,2019-12-17,Megan Johnson,Rodriguez-Edwards,Blue Cross,36553.01432636526,497,Elective,2019-12-26,Penicillin,Normal

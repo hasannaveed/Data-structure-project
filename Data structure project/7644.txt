@@ -1,0 +1,1 @@
+natHAN white,27,Male,A-,Obesity,2021-01-28,James Willis,"Davis, Guzman and Hill",Aetna,24814.0913293023,369,Elective,2021-02-24,Lipitor,Abnormal

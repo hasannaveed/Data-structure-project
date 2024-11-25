@@ -1,0 +1,1 @@
+randAlL wagNER,55,Female,A+,Arthritis,2023-01-03,Kaitlyn Case MD,"James and Hernandez, Kennedy",Cigna,26090.718170255135,126,Elective,2023-01-13,Lipitor,Inconclusive

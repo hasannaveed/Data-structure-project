@@ -1,0 +1,1 @@
+ChaRleS le,54,Female,AB+,Asthma,2023-06-17,David Allen,Moore-Cox,Cigna,6458.889958842745,469,Emergency,2023-06-20,Ibuprofen,Abnormal

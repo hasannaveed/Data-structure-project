@@ -1,0 +1,1 @@
+JAson RIVerA,27,Male,AB+,Arthritis,2021-01-07,Curtis Smith,"Velasquez, Hansen Bennett and",Aetna,9413.753235726545,187,Urgent,2021-01-20,Lipitor,Abnormal

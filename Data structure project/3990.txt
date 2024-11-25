@@ -1,0 +1,1 @@
+CAROLINe PRicE,70,Female,O+,Asthma,2019-11-07,Alexis Espinoza,Brooks Ltd,Aetna,31884.51972035534,489,Emergency,2019-11-24,Penicillin,Normal

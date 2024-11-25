@@ -1,0 +1,1 @@
+PatriCIa sMITH,54,Male,AB+,Cancer,2022-06-14,Mr. Jason Alvarado,"Myers Estrada, Perez and",Cigna,50162.330690153976,150,Emergency,2022-06-20,Aspirin,Abnormal

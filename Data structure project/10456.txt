@@ -1,0 +1,1 @@
+SCOTt SmiTh,32,Female,A+,Asthma,2019-12-02,Dr. Bobby Smith,Inc Cortez,Cigna,13184.63505111309,331,Emergency,2019-12-14,Aspirin,Abnormal

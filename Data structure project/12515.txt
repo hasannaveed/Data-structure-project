@@ -1,0 +1,1 @@
+JuLIA aLleN,30,Male,A+,Arthritis,2019-10-09,Richard Wilson,Morgan Ltd,Aetna,47162.5804195453,134,Urgent,2019-10-14,Aspirin,Inconclusive

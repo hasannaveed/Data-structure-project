@@ -1,0 +1,1 @@
+anA WHEEleR,85,Male,B+,Asthma,2020-06-03,Nicholas Weaver,"Fisher Caldwell, and Sandoval",Medicare,5609.948808322688,339,Urgent,2020-06-26,Aspirin,Inconclusive

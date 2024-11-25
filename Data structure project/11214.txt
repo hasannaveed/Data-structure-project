@@ -1,0 +1,1 @@
+ERIC DIAZ,39,Male,AB-,Hypertension,2022-01-10,Jennifer Garcia,Henderson Group,Cigna,5561.283519449581,463,Emergency,2022-01-20,Penicillin,Normal

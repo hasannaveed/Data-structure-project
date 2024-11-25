@@ -1,0 +1,1 @@
+TarA LI,37,Female,O+,Cancer,2023-01-18,Kurt Flowers,Pratt Inc,Aetna,25816.41988975139,130,Emergency,2023-02-04,Aspirin,Inconclusive

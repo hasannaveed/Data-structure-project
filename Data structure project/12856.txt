@@ -1,0 +1,1 @@
+LISA chArlEs,43,Female,AB+,Obesity,2021-05-07,Zachary Poole,Cruz-Ramos,UnitedHealthcare,44640.94542046126,307,Emergency,2021-05-31,Aspirin,Normal

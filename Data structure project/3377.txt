@@ -1,0 +1,1 @@
+chRIsToPHER RussEll,85,Male,O-,Cancer,2022-11-08,Susan Brandt,Paul Ltd,Cigna,41036.372174800046,276,Elective,2022-11-20,Lipitor,Inconclusive

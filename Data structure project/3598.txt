@@ -1,0 +1,1 @@
+niCole PereZ,62,Male,B-,Hypertension,2020-08-09,Dr. Ian Bentley,"and Schmidt Schultz, Smith",Blue Cross,43211.66619891581,486,Emergency,2020-08-24,Ibuprofen,Inconclusive

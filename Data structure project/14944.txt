@@ -1,0 +1,1 @@
+carla alLEn,38,Male,AB+,Hypertension,2020-02-06,Mary Jackson,"and Conley, Shields Suarez",Medicare,25941.642796535765,183,Urgent,2020-02-11,Lipitor,Inconclusive

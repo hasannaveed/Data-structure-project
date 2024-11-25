@@ -1,0 +1,1 @@
+kIm fIeLdS,42,Female,B-,Diabetes,2021-09-07,David Buchanan,"and Stone, Smith Matthews",Blue Cross,41248.21515520056,461,Emergency,2021-09-27,Penicillin,Normal

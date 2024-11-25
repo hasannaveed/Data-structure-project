@@ -1,0 +1,1 @@
+HeIDI CarLSON,30,Male,A-,Cancer,2019-10-13,John Johnson,"Delgado, and Mcdonald Berry",Aetna,15267.301126506307,237,Elective,2019-11-08,Penicillin,Abnormal

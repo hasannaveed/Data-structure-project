@@ -1,0 +1,1 @@
+DALToN dAvis,74,Female,A+,Obesity,2021-07-03,Jessica Page,"Jones, Walker Moore and",Blue Cross,37957.26659971875,138,Elective,2021-07-24,Aspirin,Normal

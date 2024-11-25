@@ -1,0 +1,1 @@
+BRUCE ParkEr,57,Female,B+,Arthritis,2023-10-17,Brian Vargas,"Huffman Lozano, and Mckenzie",Aetna,37015.18723536557,313,Emergency,2023-10-18,Ibuprofen,Abnormal

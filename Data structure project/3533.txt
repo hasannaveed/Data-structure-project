@@ -1,0 +1,1 @@
+LOrI PRICE,23,Male,B-,Cancer,2022-07-07,Michael Anderson,LLC Sullivan,Cigna,39109.31581829967,212,Emergency,2022-08-04,Paracetamol,Abnormal

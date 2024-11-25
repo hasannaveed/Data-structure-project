@@ -1,0 +1,1 @@
+CaseY AnTHOnY,43,Female,O+,Cancer,2019-10-20,Stephen Escobar,"Cunningham, Larsen Alexander and",Aetna,11604.271808616213,276,Emergency,2019-10-27,Lipitor,Normal

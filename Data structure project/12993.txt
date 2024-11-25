@@ -1,0 +1,1 @@
+sHaRon SINglETON,36,Male,AB-,Diabetes,2020-03-01,Calvin Lee,Garcia-Juarez,Cigna,36028.85876909452,318,Elective,2020-03-22,Aspirin,Inconclusive

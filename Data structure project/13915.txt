@@ -1,0 +1,1 @@
+scOTt MALOne,63,Male,A+,Diabetes,2024-02-03,Dennis Macdonald,Wood-Daniels,Aetna,35529.6715212111,153,Emergency,2024-02-28,Aspirin,Normal

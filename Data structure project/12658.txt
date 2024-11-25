@@ -1,0 +1,1 @@
+MicHelLe menDOza,53,Male,A+,Arthritis,2020-01-05,Patricia Roberson,"Wyatt, and Phillips Weaver",Aetna,28955.65502423006,266,Emergency,2020-01-08,Aspirin,Inconclusive

@@ -1,0 +1,1 @@
+jaMES king,78,Male,A-,Obesity,2019-07-18,Victoria Smith,Allen-Baker,Cigna,30679.1985959179,261,Elective,2019-07-21,Ibuprofen,Abnormal

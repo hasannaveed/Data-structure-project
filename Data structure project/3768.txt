@@ -1,0 +1,1 @@
+ViCkI hOWarD,42,Female,O-,Asthma,2019-06-15,David Tate,Lucas Group,Cigna,24201.500074234224,213,Urgent,2019-06-23,Aspirin,Normal

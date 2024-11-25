@@ -1,0 +1,1 @@
+DoNALd anDERSON,45,Male,AB-,Cancer,2021-12-03,Ian Baker,LLC Robinson,Medicare,47128.14193944006,153,Elective,2021-12-25,Aspirin,Abnormal

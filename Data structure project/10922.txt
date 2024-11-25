@@ -1,0 +1,1 @@
+roBERt arNold,18,Female,B+,Diabetes,2022-06-21,Carmen Mooney,"and Hawkins, Smith Montgomery",Blue Cross,21378.227606851775,405,Emergency,2022-07-10,Ibuprofen,Normal

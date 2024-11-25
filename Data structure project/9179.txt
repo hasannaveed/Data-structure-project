@@ -1,0 +1,1 @@
+KEvin penA,65,Male,B-,Obesity,2022-10-03,Robert Smith,"Aguilar Guzman, and Pratt",Cigna,31250.554347570924,153,Emergency,2022-10-14,Aspirin,Normal

@@ -1,0 +1,1 @@
+sTEVEN James,19,Male,A+,Hypertension,2020-06-27,Patrick Ross,"Lee Pugh, and Orozco",Medicare,26660.448204658707,109,Urgent,2020-07-23,Aspirin,Normal

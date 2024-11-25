@@ -1,0 +1,1 @@
+lisA ClaRk,18,Female,B+,Diabetes,2020-11-20,Samantha Spencer,Perez-Wang,Aetna,24815.041623554564,193,Emergency,2020-11-25,Paracetamol,Inconclusive

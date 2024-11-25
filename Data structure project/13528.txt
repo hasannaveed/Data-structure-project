@@ -1,0 +1,1 @@
+PamEla kEllY,20,Male,AB+,Diabetes,2019-11-07,Thomas Kirk,"Beck and Martinez, Salinas",Blue Cross,24321.454451715494,347,Elective,2019-11-21,Paracetamol,Inconclusive

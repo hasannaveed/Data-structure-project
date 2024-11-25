@@ -1,0 +1,1 @@
+RIchaRd RAY,28,Female,A+,Diabetes,2019-06-08,John Brown,Inc Rodriguez,Aetna,7297.4709818187785,442,Emergency,2019-06-13,Ibuprofen,Inconclusive

@@ -1,0 +1,1 @@
+JuLIa ROsAriO,49,Female,O-,Asthma,2021-02-03,Dale Chambers,"Brown Baldwin and David,",Medicare,12043.659508295024,310,Urgent,2021-02-04,Penicillin,Normal

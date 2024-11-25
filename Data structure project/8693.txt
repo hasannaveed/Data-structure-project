@@ -1,0 +1,1 @@
+CoLE webER,81,Female,A+,Hypertension,2023-01-02,Kerry Carey,Inc Davis,Aetna,8458.208900860644,353,Elective,2023-02-01,Aspirin,Inconclusive

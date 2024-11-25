@@ -1,0 +1,1 @@
+charLENE cOlON,44,Male,A+,Cancer,2022-06-10,Robert Hernandez,"Odonnell Smith Moreno, and",Aetna,4584.940407880549,463,Emergency,2022-06-27,Lipitor,Normal

@@ -1,0 +1,1 @@
+JEnNiFEr COOpER,25,Male,A+,Obesity,2020-04-26,Mary Williams,Wells-Price,Aetna,49934.13796344043,258,Elective,2020-05-02,Aspirin,Abnormal

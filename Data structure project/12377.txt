@@ -1,0 +1,1 @@
+TInA smith,69,Male,O-,Asthma,2022-03-01,Evan Higgins,Allen-Cooke,Aetna,9949.006707747638,500,Emergency,2022-03-08,Ibuprofen,Normal

@@ -1,0 +1,1 @@
+LINda BuCKley,50,Female,O-,Obesity,2020-01-11,Kara Brooks,Cox Group,Aetna,17287.119980852094,454,Emergency,2020-01-28,Aspirin,Inconclusive

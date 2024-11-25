@@ -1,0 +1,1 @@
+GinA sImpSOn,42,Male,AB-,Arthritis,2020-12-25,Jose Simon,Group Reilly,Cigna,14475.61099453877,165,Emergency,2021-01-15,Paracetamol,Normal

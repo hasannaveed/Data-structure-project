@@ -1,0 +1,1 @@
+CHAD taYLOR,59,Male,B-,Diabetes,2020-01-01,James Williamson,Ray-Michael,Medicare,11568.799712032958,319,Urgent,2020-01-05,Penicillin,Abnormal

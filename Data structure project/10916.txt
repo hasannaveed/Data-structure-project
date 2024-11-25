@@ -1,0 +1,1 @@
+PAUL Li,84,Male,AB-,Obesity,2020-11-09,Michael Hall,Chambers-Griffin,Aetna,24471.273225338937,263,Urgent,2020-11-22,Penicillin,Normal

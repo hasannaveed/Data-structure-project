@@ -1,0 +1,1 @@
+LiSA SmIth,68,Female,B-,Diabetes,2024-01-18,Andrew Garcia,"Lynn, and Perez Ewing",Medicare,26194.40672133176,205,Urgent,2024-01-29,Aspirin,Inconclusive

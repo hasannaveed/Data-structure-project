@@ -1,0 +1,1 @@
+LISA aLLiSON,23,Male,A-,Hypertension,2021-12-09,Frank Caldwell,"Johnson, and Snyder Roberts",Aetna,17329.054851722278,438,Elective,2021-12-12,Paracetamol,Abnormal

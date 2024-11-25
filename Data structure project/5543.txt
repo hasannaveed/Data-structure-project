@@ -1,0 +1,1 @@
+brittany MCbriDE MD,42,Male,AB+,Diabetes,2023-08-08,Monica Anderson,"Anderson, Fisher Skinner and",Cigna,43758.83907027589,498,Urgent,2023-08-20,Paracetamol,Normal

@@ -1,0 +1,1 @@
+DavId COX,46,Male,B+,Cancer,2022-04-16,Kevin Duran,Cummings-Barnes,Blue Cross,22731.43862623445,289,Elective,2022-05-13,Aspirin,Abnormal

@@ -1,0 +1,1 @@
+gRAcE barBER,43,Female,O+,Hypertension,2023-08-28,Mark Bell Jr.,"Garner, and King Smith",UnitedHealthcare,41738.70742935922,498,Emergency,2023-09-18,Ibuprofen,Abnormal

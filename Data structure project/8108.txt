@@ -1,0 +1,1 @@
+BRaDLEY beCk,30,Female,B+,Asthma,2021-01-13,Jennifer Wood,"Martinez Diaz and Ballard,",UnitedHealthcare,12000.867320849295,327,Emergency,2021-01-29,Penicillin,Inconclusive

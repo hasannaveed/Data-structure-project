@@ -1,0 +1,1 @@
+MICHAEL yu,77,Male,AB-,Arthritis,2022-07-18,Jeffrey Schmidt,"Olson, Andrade and Dixon",Medicare,33749.85876855787,112,Emergency,2022-08-07,Paracetamol,Abnormal

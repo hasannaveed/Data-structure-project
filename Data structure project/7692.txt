@@ -1,0 +1,1 @@
+dAniEL watson,78,Male,AB+,Asthma,2024-02-12,John Bradley,"Johnson, Brown and Holland",Medicare,28850.277972752272,138,Emergency,2024-02-14,Lipitor,Abnormal

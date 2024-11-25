@@ -1,0 +1,1 @@
+John BELl,21,Male,B-,Arthritis,2022-12-13,Heidi Valenzuela,"Jones, Cannon and Evans",Aetna,37954.085083806815,224,Urgent,2023-01-09,Ibuprofen,Abnormal

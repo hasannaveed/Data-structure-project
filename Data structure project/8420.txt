@@ -1,0 +1,1 @@
+dAvID AuSTiN,67,Female,B+,Diabetes,2020-01-17,Sierra Cortez,Morrow-Ramirez,Aetna,38843.333477870794,454,Elective,2020-01-28,Aspirin,Normal

@@ -1,0 +1,1 @@
+jamIE STEWarT,58,Female,AB+,Diabetes,2020-06-12,Antonio Rios,PLC Landry,Cigna,30578.857346083005,451,Emergency,2020-06-19,Aspirin,Inconclusive

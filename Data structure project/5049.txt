@@ -1,0 +1,1 @@
+MARK shaW,67,Male,O+,Cancer,2023-06-09,Jeffrey Miller,Adams-Gates,Blue Cross,41706.37916833271,500,Elective,2023-06-17,Aspirin,Inconclusive

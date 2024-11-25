@@ -1,0 +1,1 @@
+CARoL ayaLA,20,Female,B+,Asthma,2021-03-09,Kari Alvarez,George LLC,Blue Cross,47683.97609658245,369,Elective,2021-03-10,Lipitor,Normal

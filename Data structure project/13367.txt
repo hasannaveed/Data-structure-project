@@ -1,0 +1,1 @@
+joDI GaRcIa,20,Female,A+,Cancer,2020-06-22,Kevin Wolf,"Riley, and Ramirez Anderson",Blue Cross,28976.363835108663,205,Emergency,2020-06-28,Ibuprofen,Inconclusive

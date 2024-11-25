@@ -1,0 +1,1 @@
+GinA FORd,42,Male,O-,Hypertension,2021-02-19,Richard Murphy,"Douglas Williams, and Rivera",Blue Cross,16601.085570926894,462,Emergency,2021-02-26,Penicillin,Inconclusive

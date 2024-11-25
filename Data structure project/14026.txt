@@ -1,0 +1,1 @@
+TraceY johnson,75,Female,A+,Diabetes,2022-04-08,Jessica Porter,Anderson Inc,Medicare,29986.71093574044,273,Emergency,2022-05-02,Aspirin,Inconclusive

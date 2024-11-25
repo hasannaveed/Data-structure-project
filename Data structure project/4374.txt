@@ -1,0 +1,1 @@
+JaMes BroWn,67,Male,A+,Diabetes,2020-02-04,Heather Lin,"and Brown Lawson, Gardner",Aetna,9544.832739755997,438,Elective,2020-02-05,Ibuprofen,Abnormal

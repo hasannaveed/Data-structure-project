@@ -1,0 +1,1 @@
+terEsA Fox,25,Male,AB-,Obesity,2022-11-01,Jose Miller,Caldwell Ltd,Aetna,46268.350439196875,461,Elective,2022-11-02,Lipitor,Abnormal

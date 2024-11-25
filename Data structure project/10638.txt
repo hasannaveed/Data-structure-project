@@ -1,0 +1,1 @@
+NicHOlaS ADAMS mD,73,Female,O-,Asthma,2022-01-05,Frederick Ashley,Williamson Inc,Cigna,42286.50920735673,470,Urgent,2022-01-12,Penicillin,Normal

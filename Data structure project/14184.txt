@@ -1,0 +1,1 @@
+sanDRA dOuGlAS,27,Male,A-,Obesity,2019-06-03,Scott Fisher,Smith-Graham,Cigna,2550.1303709666067,283,Emergency,2019-06-08,Lipitor,Inconclusive

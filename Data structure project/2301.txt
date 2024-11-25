@@ -1,0 +1,1 @@
+dana SCOTT,22,Female,B-,Arthritis,2019-12-31,Sean Scott,Ochoa-Edwards,Medicare,9585.07136569674,424,Emergency,2020-01-21,Ibuprofen,Normal

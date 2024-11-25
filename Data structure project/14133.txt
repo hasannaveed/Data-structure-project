@@ -1,0 +1,1 @@
+RoBERt cOmBs,30,Female,A-,Diabetes,2023-07-25,Michael Park,PLC Hart,UnitedHealthcare,33800.81085472025,346,Urgent,2023-08-20,Paracetamol,Normal

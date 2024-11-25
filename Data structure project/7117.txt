@@ -1,0 +1,1 @@
+CynThia jordaN,55,Female,AB+,Diabetes,2019-10-04,Alexis Jones,Campbell-Miller,Blue Cross,13304.503221240268,496,Urgent,2019-10-07,Penicillin,Abnormal

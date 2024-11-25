@@ -1,0 +1,1 @@
+ANDrE king,50,Male,O+,Hypertension,2022-12-02,Lisa Padilla,Brown PLC,Cigna,22361.29684207536,265,Elective,2022-12-17,Penicillin,Inconclusive

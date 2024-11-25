@@ -1,0 +1,1 @@
+KeViN ColLIns,60,Male,A-,Asthma,2022-05-09,Kevin Ayala,Levy Inc,Blue Cross,2565.1632737602963,296,Elective,2022-05-27,Penicillin,Inconclusive

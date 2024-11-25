@@ -1,0 +1,1 @@
+mELanIE SmITH,65,Male,A-,Diabetes,2021-11-20,Wayne Matthews,"Hicks, Wilson and Johnson",Blue Cross,19934.223659526706,365,Elective,2021-11-24,Aspirin,Abnormal

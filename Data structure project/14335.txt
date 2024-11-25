@@ -1,0 +1,1 @@
+ERIKA vaLenCIa,32,Female,A+,Asthma,2021-10-05,Samuel Ellison,"Goodman Mullins and Gilmore,",Cigna,4951.040875289516,380,Urgent,2021-10-20,Aspirin,Normal

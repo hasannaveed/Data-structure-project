@@ -1,0 +1,1 @@
+RICHARD aLlen,36,Female,A+,Arthritis,2021-05-27,Deanna Gonzalez,"Gonzalez Garcia Jones, and",Aetna,36644.845265472875,276,Elective,2021-05-28,Penicillin,Inconclusive

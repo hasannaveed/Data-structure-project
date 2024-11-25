@@ -1,0 +1,1 @@
+daViD evaNs,62,Male,O-,Diabetes,2019-10-22,Charles Riley,Jimenez-Hernandez,Aetna,17549.9841648283,337,Emergency,2019-10-28,Aspirin,Abnormal

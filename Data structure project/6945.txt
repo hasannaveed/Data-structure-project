@@ -1,0 +1,1 @@
+CaRLos gaRcIA,48,Male,B+,Asthma,2020-05-08,Ashley Castaneda,Burgess-West,Medicare,48883.77090837273,494,Emergency,2020-05-13,Aspirin,Normal

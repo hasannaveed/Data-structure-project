@@ -1,0 +1,1 @@
+CHarLEs AnDerSoN,23,Male,AB-,Obesity,2020-11-09,Nicole Haas,"Schmidt Hendrix, Alvarez and",Blue Cross,3315.787039849557,375,Elective,2020-11-29,Penicillin,Normal

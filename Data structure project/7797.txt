@@ -1,0 +1,1 @@
+jenNIFEr mEdina,34,Female,AB-,Cancer,2021-08-04,Joshua Hoover,"Castillo, and Ross Miles",Blue Cross,11326.164962099132,275,Emergency,2021-08-22,Aspirin,Abnormal

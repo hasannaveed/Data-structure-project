@@ -1,0 +1,1 @@
+JohN DIaz,83,Male,O-,Asthma,2020-09-10,Matthew Walsh,"Fry and Drake, Schwartz",Blue Cross,15053.64634031889,466,Elective,2020-09-25,Aspirin,Abnormal

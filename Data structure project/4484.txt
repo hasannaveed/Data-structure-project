@@ -1,0 +1,1 @@
+StEPhanIE BAKEr,42,Male,AB+,Arthritis,2022-11-12,William Lozano,Mathis-Scott,Medicare,4392.479969488751,192,Emergency,2022-12-09,Aspirin,Inconclusive

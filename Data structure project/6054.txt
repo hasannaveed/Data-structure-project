@@ -1,0 +1,1 @@
+StEvEn BeaN,25,Female,AB+,Hypertension,2022-09-28,Denise Francis,Jenkins-Fields,Aetna,6333.763296992257,322,Elective,2022-10-06,Aspirin,Inconclusive

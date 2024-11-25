@@ -1,0 +1,1 @@
+vicTOr DUKE,33,Male,B-,Asthma,2023-05-25,Jessica Vasquez,"Rice, Cooper Rivera and",Aetna,45199.27330881416,388,Elective,2023-05-29,Lipitor,Abnormal

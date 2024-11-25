@@ -1,0 +1,1 @@
+sAMUEL LanG md,76,Male,O+,Obesity,2024-01-10,Dr. Clifford Oliver,Kelly Inc,Medicare,26318.235117552245,391,Emergency,2024-01-21,Penicillin,Normal

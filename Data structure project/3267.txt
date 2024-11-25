@@ -1,0 +1,1 @@
+donAld WhITE,45,Male,A+,Obesity,2020-08-19,Justin Ayala,Sons and Garcia,Blue Cross,14559.333990408475,228,Emergency,2020-08-28,Lipitor,Normal

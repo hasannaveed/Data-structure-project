@@ -1,0 +1,1 @@
+lIsA McCLure,58,Male,A-,Arthritis,2022-09-07,James Chen,Henson-Harmon,UnitedHealthcare,27565.26065728902,414,Emergency,2022-09-29,Paracetamol,Normal

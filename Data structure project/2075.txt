@@ -1,0 +1,1 @@
+meGAN pauL,70,Female,O+,Arthritis,2020-08-31,Paula Anderson,PLC Richard,Aetna,13575.163626456297,246,Elective,2020-09-09,Lipitor,Inconclusive

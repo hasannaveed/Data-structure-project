@@ -1,0 +1,1 @@
+AriANA roBERtSon,18,Female,B+,Diabetes,2020-02-09,Stacie Hardin,"Conway Harper, and Ochoa",Aetna,18483.05050746876,201,Emergency,2020-03-05,Aspirin,Inconclusive

@@ -1,0 +1,1 @@
+pAtrICia RHoDES,32,Male,B+,Arthritis,2019-09-09,Amy Joseph,"Hardy Espinoza and Robinson,",Aetna,12874.684651606476,487,Urgent,2019-09-28,Penicillin,Abnormal

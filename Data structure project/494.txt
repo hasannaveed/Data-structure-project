@@ -1,0 +1,1 @@
+daVId CuRTIs,22,Female,B+,Hypertension,2021-05-14,Lisa Grimes,"Hernandez and Delacruz, Kramer",Cigna,24451.289481048025,413,Emergency,2021-05-28,Paracetamol,Abnormal

@@ -1,0 +1,1 @@
+JAMEs Ross,83,Female,A+,Diabetes,2024-01-13,Michael Baker,Cox-Hester,Blue Cross,10352.20848674086,394,Urgent,2024-01-22,Aspirin,Abnormal

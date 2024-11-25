@@ -1,0 +1,1 @@
+ANdRE andErSon,71,Female,O+,Arthritis,2020-09-12,Noah Schultz,"Gomez and Espinoza, Wilson",Aetna,14564.74608273018,446,Emergency,2020-09-18,Paracetamol,Normal

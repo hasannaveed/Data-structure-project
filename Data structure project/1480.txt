@@ -1,0 +1,1 @@
+RObERT edWArds,29,Female,AB-,Asthma,2020-06-19,Thomas Miranda,Black-Stevens,Aetna,4288.608247540553,500,Urgent,2020-07-08,Ibuprofen,Normal

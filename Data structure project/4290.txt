@@ -1,0 +1,1 @@
+MARY lewiS,51,Female,AB+,Diabetes,2021-09-04,Douglas Moran,Palmer Inc,Blue Cross,2290.674290209172,436,Emergency,2021-09-06,Penicillin,Abnormal
