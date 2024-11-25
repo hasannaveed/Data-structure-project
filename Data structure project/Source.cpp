@@ -1,6 +1,8 @@
 #include <iostream>
 #include <fstream>
 #include"String.h"
+#include"RedBlack.h"
+
 using namespace std;
 
 void toString(int number, char* result) {
@@ -30,6 +32,8 @@ void toString(int number, char* result) {
 // for reading the csv file
 void FileReading(String filename) {
 
+    RedBlackTree<String> RBtree; // INSTANCE OF RB TREES FOR STORING
+    
     ifstream file(filename.getdata(), ios::in); // Open the file in read mode
 
     if (!file.is_open()) {
@@ -54,6 +58,8 @@ void FileReading(String filename) {
 
 
        String total = newfile + mid + lastTxt;
+        
+        RBtree.insert(total);//INSERTING IN RB TREES
 
         ofstream file1(total.getdata(), ios::out);  //for writing
 
@@ -63,6 +69,11 @@ void FileReading(String filename) {
     }
 
     file.close();  
+
+    
+    cout << "=========================";        // -----
+    cout << "=============================";    //     | ===>   FOR PRINTING THE RB TREES (JUST FOR CHECKING WETHER IT IS STORED AS NEEDED) ACTUAL IMPLEMENTATION WOULD BE DONE LATER
+    RBtree.inorder();                           //------
 }
 
 
