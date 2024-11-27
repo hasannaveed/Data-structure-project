@@ -20,16 +20,23 @@ private:
 public:
     DoublyLinkedList() : root(nullptr) {}
 
+    Double_Node<T>* getRoot() { return this->root; }
     // Insert data into a column (vertically)
+
+    T getData() {
+        return this->data;
+    }
+
+
     void insertInColumn(T data) {
-        cout << "Inserting in column: " << data << endl;
+      //  cout << "Inserting in column: " << data << endl;
 
         Double_Node<T>* newNode = new Double_Node<T>(data);
 
         // Case 1: If the list is empty, initialize root to the new node
         if (root == nullptr) {
             root = newNode;
-            cout << "Inserted at root." << endl;
+            //cout << "Inserted at root." << endl;
         }
         else {
             // Traverse down the column to find the last node
@@ -40,13 +47,13 @@ public:
 
             // Link the new node at the end of the column
             curr->down = newNode;
-            cout << "Inserted below the existing node in column." << endl;
+           // cout << "Inserted below the existing node in column." << endl;
         }
     }
 
     // Insert data into a row (horizontally)
     void insertInRow(T data) {
-        cout << "Inserting in row: " << data << endl;
+        //cout << "Inserting in row: " << data << endl;
 
         Double_Node<T>* newNode = new Double_Node<T>(data);
 
@@ -63,33 +70,34 @@ public:
 
         // Link the new node at the end of the row
         curr->next = newNode;
-        cout << "Inserted to the right of the existing node in row." << endl;
+      // cout << "Inserted to the right of the existing node in row." << endl;
     }
 
     // Attach another list horizontally
     void attachOtherList(DoublyLinkedList<T>& other) {
-        if (root == nullptr || other.root == nullptr) return;
+        if (!root || !other.root) return; // If either list is empty, do nothing
 
-        Double_Node<T>* curr = root;
-        Double_Node<T>* otherCurr = other.root;
+        Double_Node<T>* curr = root;  // Pointer to the current list
+        Double_Node<T>* otherCurr = other.root;  // Pointer to the other list
 
-        // Traverse through the list and attach the other list
+        // Traverse down the rows of the current list and the other list
         while (curr != nullptr && otherCurr != nullptr) {
-            // Traverse horizontally, linking the columns
-            if (curr->next == nullptr) { // If curr is the last node in the row
-                curr->next = otherCurr; // Link the two lists horizontally
-            }
-            else {
-                Double_Node<T>* nextCurr = curr->next;
-                curr->next = otherCurr;
-                otherCurr->down = nextCurr;
+            Double_Node<T>* currRow = curr;  // Traverse horizontally on the current list's row
+            Double_Node<T>* otherRow = otherCurr;  // Traverse horizontally on the other list's row
+
+            // Traverse horizontally, linking the rows
+            while (currRow->next != nullptr) {
+                currRow = currRow->next;
             }
 
-            // Move down the columns in the current list and the other list
+            // Now link the last node of the current row to the first node of the other row
+            currRow->next = otherRow;
+
+            // Move down to the next row for both lists
             curr = curr->down;
             otherCurr = otherCurr->down;
         }
-    }
+    } 
 
     // Display the linked list
     void display() {
@@ -99,38 +107,47 @@ public:
         }
 
         Double_Node<T>* row = root;
-        while (row != nullptr) {
+
+        int count = 0;
+
+        while (row != nullptr ) {
+
             Double_Node<T>* col = row;
-            while (col != nullptr) {
-                cout << col->data << " ";
+            int count2 = 0;
+
+            while (col != nullptr ) {
+                cout << col->data <<endl;
                 col = col->down; // Move down to next column
             }
             cout << "\n";
-            row = row->next; // Move right to next row
+            row = row->next;
         }
     }
 
-    // Destructor to clean up memory
-    ~DoublyLinkedList() {
-        clear();
-    }
-
-    // Clear all the nodes in the list
-    void clear() {
+    void displayRow(int w) {
         Double_Node<T>* row = root;
-        while (row != nullptr) {
+
+        // Navigate to the desired row
+        while (row != nullptr && w > 0) {
+            row = row->down;
+            w--;
+        }
+
+        // If the row is found, traverse horizontally and display the data
+        if (row != nullptr) {
             Double_Node<T>* col = row;
             while (col != nullptr) {
-                Double_Node<T>* temp = col;
-                col = col->down;
-                delete temp;
+                cout << col->data << "\t"; // Using tab for better alignment
+                col = col->next;
             }
-            Double_Node<T>* tempRow = row;
-            row = row->next;
-            delete tempRow;
+            cout << endl;
         }
-        root = nullptr;
+        else {
+            cout << "Row not found!" << endl;
+        }
     }
+
+   
 };
 
 
