@@ -1,90 +1,97 @@
 #include <iostream>
 #include <fstream>
-#include"String.h"
-#include"RedBlack.h"
-
+#include "RedBlack.h"
+#include "String.h"   // Custom String library
+#include "LinkedList.h"
 using namespace std;
 
-void toString(int number, char* result) {
+DoublyLinkedList<String> List;
 
+// Convert an integer to a character array representation
+void toString(int number, char* result) {
     char temp[20];
     int index = 0;
 
-    // Extract digits and store them in reverse order
-    while (number > 0) {
-        temp[index++] = '0' + (number % 10); // Store last digit
-        number /= 10; // Remove last digit
-    }
+    // Extract digits and store them
+    do {
+        temp[index++] = '0' + (number % 10);
+        number /= 10;
+    } while (number > 0);
 
-    temp[index] = '\0';  // Null-terminate the temporary string
+    temp[index] = '\0';
 
-    // Reverse the string and store it in the result array
+    // Reverse the string into the result
     int j = 0;
     for (int i = index - 1; i >= 0; --i) {
         result[j++] = temp[i];
     }
-
-    result[j] = '\0';  // Null-terminate the result string
+    result[j] = '\0';
 }
 
-
-
-// for reading the csv file
+// Read and process a CSV file
 void FileReading(String filename) {
-
-    RedBlackTree<String> RBtree; // INSTANCE OF RB TREES FOR STORING
-    
     ifstream file(filename.getdata(), ios::in); // Open the file in read mode
 
-    if (!file.is_open()) {
-        cout << "Error opening file: " << filename << endl;
+    if (!file) {
+        cout << "Error: Unable to open file." << endl;
         return;
     }
 
-    int i = 0;
-    char buffer[1024];  // Buffer to hold each line
+    char buffer[1024]; // Buffer to hold a single line
+    bool firstLine = true;  // Flag to track the first line
 
+    // Read each line of the CSV file
     while (file.getline(buffer, sizeof(buffer))) {
-        i++;
+        char arr[1024];  // Array to store a field's characters
+        int arrIndex = 0;
+        int i = 0;
 
-        String rowReading(buffer); // Store row data as String
+        DoublyLinkedList<String> temp;  // Temporary list to store columns for this row
 
-        char newchar[10];  // temp character array for string 
-        toString(i, newchar);  //int to string func 
+        // Traverse through the buffer
+        while (buffer[i] != '\0') { 
+            if (buffer[i] == ',') { 
+                arr[arrIndex] = '\0'; 
+                String newArr(arr); 
+                temp.insertInColumn(newArr);   
+                arrIndex = 0; 
+            }
+            else {
 
-        String newfile = "path of folder where to store all files";  //path of folder to sstore files 
-        String mid = newchar;
-       String lastTxt = ".txt";  //adding the file extension 
+                arr[arrIndex] = buffer[i]; 
+                arrIndex++; 
+            }
+            i++;
+        }
 
+        if (arrIndex > 0) {  // Handle last element after the last comma
+            arr[arrIndex] = '\0';
+            String newArr(arr);
+            temp.insertInColumn(newArr);  
+        }
 
-       String total = newfile + mid + lastTxt;
-        
-        RBtree.insert(total);//INSERTING IN RB TREES
-
-        ofstream file1(total.getdata(), ios::out);  //for writing
-
-        file1 << rowReading;  // Write the row data to the new file
-
-        cout << "Row: " << i << " : " << rowReading << endl;
+        if (firstLine) {
+            // Insert the first line into List directly 
+            List = temp;  
+            firstLine = false;
+        }
+        else {
+            // Attach subsequent rows to List
+            List.attachOtherList(temp);   
+        }
     }
 
-    file.close();  
-
-    
-    cout << "=========================";        // -----
-    cout << "=============================";    //     | ===>   FOR PRINTING THE RB TREES (JUST FOR CHECKING WETHER IT IS STORED AS NEEDED) ACTUAL IMPLEMENTATION WOULD BE DONE LATER
-    RBtree.inorder();                           //------
+    file.close();  // Close the file
 }
 
+int main() {
+    String file = "C:/Users/ha797/Downloads/HealthCare-dataset/healthcare_dataset.csv"; // Path to CSV file
+    cout << "===================================" << endl;
+    cout << "          READING CSV FILE" << endl;
+    cout << "===================================" << endl;
+    FileReading(file);
 
-int main()
-{
-   String file = "csv file path";  //add the file path of csv file 
-   FileReading(file);
-
-  
-
-
+    List.display();
 
     return 0;
 }
