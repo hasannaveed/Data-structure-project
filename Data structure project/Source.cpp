@@ -8,10 +8,16 @@ using namespace std;
 DoublyLinkedList<String> List;
 RedBlackTree<String> RBTree;
 
+//================================================================================================================================================================================\
+// USE THE READ FILE ROWS FUNC TO READ THE ADRESS STORED IN THE FILES AND IT THEN PRINTS THE WHOLE ROW OF THAT ADDRESS                                                             \
+// MAKE SURE THAT YOU HAVE THE PATH OF THE FOLDER TO STORE THE CREATED FILE AND THEN TO CHECK THE FILE AND READ THE ROWS FIRST ADD IT TO THE PROJ DIRECTORY AND THEN READ THE ROWS /
+///================================================================================================================================================================================/
+
 //======================function prototypes================================================
 void AppendInTree(int input, int TreeInput); // For appending in the tree
 void FileReading(String filename);          // Reading the CSV file and storing into files
 void ReadSpecificRow( String& csvFilePath,  String& pointerFilePath); // Reading a specific row using pointer
+void ReadFileRows(String& csvfilePath, String& filepath);
 //=========================================================================================
 
 void FileReading(String filename) {
@@ -69,7 +75,7 @@ void FileReading(String filename) {
         }
 
         // Construct the filename and open the file for appending
-        String path = "C:/Users/ha797/source/repos/Data-structure-project2/Data structure project/Files/";
+        String path = "C:/Users/ha797/source/repos/Data-structure-project2/Data structure project/Files/"; //ADD A FOLDER TO STORE FILES AT
         String outputFileName = path + str + ".txt";
         ofstream outFile(outputFileName.getdata(), ios::app);  // Open file in append mode
 
@@ -92,7 +98,44 @@ void FileReading(String filename) {
     cin >> pointerFileName;
     String fullPath =  pointerFileName ;  
     fullPath = fullPath + ".txt"; 
-    ReadSpecificRow(filename, fullPath);  
+    ReadFileRows(filename, fullPath);  
+}
+
+//for reading the whole file of pointers and then displying each entry
+
+void ReadFileRows(String& csvfilePath, String& filepath) {
+
+    ifstream file(csvfilePath.getdata(), ios::in);
+    ifstream pFile(filepath.getdata(), ios::in);
+
+    if (!pFile) {
+        cout << "Error:Pointer File " << endl;
+        return;
+    }
+    if (!file) {
+        cout << "Error:CSV File " << endl;
+        return;
+    }
+
+    cout << "======================================="<< endl;
+    cout << "    THE FILE HAS FOLLOWING ENTRIES " << endl;
+    cout << "=======================================" << endl;
+
+    long long position;
+    int count =1;
+    while (pFile >> position) {
+
+        file.seekg(position);
+        char temp[1024];
+
+        file.getline(temp, sizeof(temp));
+        String tempStr(temp);
+
+        cout <<"Row " << count << "." << tempStr << endl;
+        count++;
+    }
+    file.close();
+    pFile.close();
 }
 
 void ReadSpecificRow( String& csvFilePath,  String& pointerFilePath) {
@@ -132,7 +175,7 @@ void ReadSpecificRow( String& csvFilePath,  String& pointerFilePath) {
     }
 
     //for testing purposes     
-  //  file.seekg(1073790);
+  //  file.seekg(1073790);      
   //  file.getline(buffer, sizeof(buffer));
   //  String newL(buffer);
   //  cout << newL;
@@ -143,7 +186,7 @@ void ReadSpecificRow( String& csvFilePath,  String& pointerFilePath) {
 
 int main() {
     // Define the path to your CSV file
-    String file = "C:/Users/ha797/Downloads/HealthCare-dataset/healthcare_dataset.csv"; // Path to CSV file
+    String file = "C:/Users/ha797/Downloads/HealthCare-dataset/healthcare_dataset.csv"; // Path to CSV file 
     cout << "===================================" << endl;
     cout << "          READING CSV FILE" << endl;
     cout << "===================================" << endl;
@@ -151,13 +194,7 @@ int main() {
     // Read and process the CSV file
     FileReading(file);  
 
-   /* cout << "\nEnter the filename containing pointers to verify a row: "; 
-    String pointerFileName; 
-    cin >> pointerFileName; 
-    pointerFileName =pointerFileName + ".txt";
-    cout << "Pointer file path: " << pointerFileName << endl;*/
 
-    //ReadSpecificRow(file, pointerFileName);
     
 
 
