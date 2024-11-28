@@ -1,1 +1,0 @@
-DavId WattS,35,Male,AB+,Obesity,2023-01-27,Eric Johnson,LLC Cantrell,Medicare,11938.371591233452,162,Emergency,2023-01-28,Ibuprofen,Normal

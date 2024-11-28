@@ -1,1 +1,0 @@
-asHlEY bell,42,Male,AB-,Arthritis,2020-04-09,Donald Maynard,"Hill, Murphy and Stewart",Blue Cross,11641.62885015552,396,Emergency,2020-04-11,Penicillin,Inconclusive

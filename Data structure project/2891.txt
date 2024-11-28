@@ -1,1 +1,0 @@
-regiNa smITH,41,Male,A+,Arthritis,2023-10-28,Maria Martinez,"Ruiz, Goodwin and Dominguez",UnitedHealthcare,44765.12031801176,201,Emergency,2023-11-26,Aspirin,Normal

@@ -1,1 +1,0 @@
-Anne grEEN,78,Male,B-,Hypertension,2020-02-25,Daniel Hoffman,Bennett-Moses,Medicare,3123.222773468568,277,Emergency,2020-03-08,Penicillin,Normal

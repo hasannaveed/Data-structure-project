@@ -1,1 +1,0 @@
-bRIDGet prICE,42,Male,AB-,Hypertension,2019-12-21,Charles Brown,Barber-Chandler,Aetna,22299.207453292387,383,Elective,2019-12-25,Ibuprofen,Abnormal

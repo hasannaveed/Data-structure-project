@@ -1,1 +1,0 @@
-marisa GOlDEN,28,Male,AB+,Arthritis,2022-10-21,James Young,Hansen-Torres,Medicare,46657.686081891465,265,Urgent,2022-10-22,Penicillin,Inconclusive

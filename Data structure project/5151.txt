@@ -1,1 +1,0 @@
-connOr hERmAN,77,Male,AB+,Asthma,2020-02-19,Gregory Pruitt,Frey Ltd,Medicare,38146.04079272983,436,Emergency,2020-03-15,Paracetamol,Abnormal

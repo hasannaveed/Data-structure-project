@@ -1,1 +1,0 @@
-LeSLie joNES,58,Female,O-,Hypertension,2020-03-12,Susan Garza,"Gomez, and Martin Smith",Cigna,6334.547373572905,312,Elective,2020-03-16,Penicillin,Inconclusive

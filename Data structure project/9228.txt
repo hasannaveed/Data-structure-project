@@ -1,1 +1,0 @@
-tAnNER wRiGHT,49,Male,AB-,Asthma,2023-10-29,Lisa James,Inc Hardy,Cigna,27998.62792324865,306,Urgent,2023-11-11,Penicillin,Normal

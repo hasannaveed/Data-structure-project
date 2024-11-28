@@ -1,1 +1,0 @@
-daNiEl WEST,42,Female,AB+,Diabetes,2023-08-14,Benjamin Donaldson,Rodriguez-Decker,Aetna,20234.278153842693,200,Urgent,2023-09-11,Penicillin,Inconclusive

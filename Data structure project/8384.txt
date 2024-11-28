@@ -1,1 +1,0 @@
-Julia coOk,46,Female,B+,Arthritis,2020-01-10,Douglas Smith,LLC Gibson,Cigna,13512.150100420331,112,Emergency,2020-02-02,Penicillin,Abnormal

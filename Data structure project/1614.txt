@@ -1,1 +1,0 @@
-RoBErT robBiNS,42,Male,AB+,Diabetes,2024-01-07,John Woodard,"Fuller Perez Scott, and",Cigna,23890.559941311687,493,Emergency,2024-01-25,Ibuprofen,Inconclusive

@@ -1,1 +1,0 @@
-CURTiS rOgeRS,64,Female,AB+,Arthritis,2024-04-07,Jason Mcgee,"and Cain Wilcox Smith,",Medicare,2171.0729759030883,212,Emergency,2024-04-17,Paracetamol,Normal

@@ -1,1 +1,0 @@
-jenNiFER CALLaHAn,71,Male,AB-,Obesity,2020-04-13,Roger Martinez,"Baker and Zimmerman, Powell",Aetna,35381.290937450925,390,Urgent,2020-04-16,Lipitor,Normal

@@ -1,1 +1,0 @@
-Anne SMITH,42,Male,B-,Arthritis,2020-09-06,Anna Cunningham,"and Smith, Walker Hernandez",Medicare,15668.275594298677,341,Emergency,2020-10-02,Lipitor,Inconclusive

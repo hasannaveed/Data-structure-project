@@ -1,1 +1,0 @@
-rhonDA floyd,22,Male,A-,Diabetes,2024-04-28,Alexander Gibson,"Mcguire and Brown, Weeks",UnitedHealthcare,7290.475852823623,314,Elective,2024-05-18,Lipitor,Abnormal

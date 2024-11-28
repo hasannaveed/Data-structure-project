@@ -1,1 +1,0 @@
-PAuL BRAun,30,Male,O+,Asthma,2019-06-22,Mark West,PLC Baker,Cigna,7743.798729163234,493,Elective,2019-06-30,Lipitor,Inconclusive

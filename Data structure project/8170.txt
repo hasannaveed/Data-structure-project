@@ -1,1 +1,0 @@
-brandOn FIsher,33,Female,O+,Diabetes,2021-04-23,Jeff Nunez,Steele-Gross,Cigna,5011.62438162757,302,Elective,2021-04-30,Aspirin,Abnormal

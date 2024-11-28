@@ -1,1 +1,0 @@
-TiFFANy cAsE,61,Female,O+,Cancer,2019-11-22,William Hebert,Jones-Washington,Medicare,40536.91450411599,152,Elective,2019-11-24,Aspirin,Inconclusive

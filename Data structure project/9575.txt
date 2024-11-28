@@ -1,1 +1,0 @@
-lIndA PArker,75,Female,O-,Cancer,2022-06-11,Valerie Lopez,Matthews-Stone,Aetna,20091.03840455055,279,Elective,2022-06-12,Aspirin,Normal

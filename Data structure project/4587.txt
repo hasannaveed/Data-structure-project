@@ -1,1 +1,0 @@
-roBerT PHAM,31,Female,B-,Arthritis,2023-12-06,Pamela Morton,"Vance Powell Myers, and",Cigna,21803.09708790306,481,Urgent,2023-12-28,Penicillin,Normal

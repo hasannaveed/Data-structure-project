@@ -1,1 +1,0 @@
-carla BaileY,63,Female,AB-,Asthma,2022-02-21,Jason Todd,Frederick Inc,Blue Cross,26688.68231856185,255,Emergency,2022-02-25,Paracetamol,Abnormal

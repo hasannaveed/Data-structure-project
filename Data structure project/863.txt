@@ -1,1 +1,0 @@
-LIsa LopeZ,81,Male,AB+,Obesity,2023-12-07,David Keller,Group Evans,Aetna,27828.93951814778,226,Emergency,2023-12-13,Ibuprofen,Abnormal

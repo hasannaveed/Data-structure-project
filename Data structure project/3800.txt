@@ -1,1 +1,0 @@
-davId cOlLInS,60,Male,B+,Cancer,2021-12-24,Randall Golden,"and Leon Cooper, Smith",Aetna,44864.13366217436,371,Emergency,2022-01-21,Aspirin,Abnormal

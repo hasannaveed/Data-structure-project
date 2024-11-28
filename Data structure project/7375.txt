@@ -1,1 +1,0 @@
-eRIC SmiTH,31,Male,B+,Diabetes,2021-11-17,Taylor Newman,"Davis Merritt and Payne,",Cigna,9908.35015919713,199,Emergency,2021-12-14,Ibuprofen,Inconclusive

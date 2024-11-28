@@ -1,1 +1,0 @@
-pauL soto,73,Male,B+,Arthritis,2019-05-09,Melanie George,Johnson-Smith,Aetna,28745.048411652424,108,Urgent,2019-05-22,Ibuprofen,Normal

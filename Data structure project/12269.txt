@@ -1,1 +1,0 @@
-lIsA TaYLOR,45,Female,AB-,Diabetes,2022-02-19,Henry Jacobs,Williams-Mason,Medicare,14653.006440955563,362,Emergency,2022-02-27,Ibuprofen,Normal

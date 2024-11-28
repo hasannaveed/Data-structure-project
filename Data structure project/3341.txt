@@ -1,1 +1,0 @@
-AdRiaN mcBRiDe,50,Female,B+,Diabetes,2022-05-25,Jasmine Hernandez,"Smith and Gomez, Cook",Blue Cross,49224.118352881844,451,Emergency,2022-05-31,Ibuprofen,Inconclusive

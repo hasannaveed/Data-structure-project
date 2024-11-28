@@ -1,1 +1,0 @@
-CArLA miTCHell,30,Female,O+,Diabetes,2022-12-02,Carmen Jones,Miller-Gardner,Cigna,16998.250963199545,233,Emergency,2022-12-25,Aspirin,Normal

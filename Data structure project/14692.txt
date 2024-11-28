@@ -1,1 +1,0 @@
-CoRy Ruiz,80,Male,B+,Cancer,2020-11-06,Eric Castillo,Harrison Group,UnitedHealthcare,1458.7868367439228,278,Emergency,2020-11-25,Penicillin,Normal

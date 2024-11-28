@@ -1,1 +1,0 @@
-AAron SMItH,25,Male,B-,Asthma,2022-10-01,Greg Dillon,"Hall Reed and Kaiser,",Medicare,48796.76076987105,435,Emergency,2022-10-03,Aspirin,Normal

@@ -1,1 +1,0 @@
-bruCE cox,75,Female,A+,Obesity,2020-09-24,Sara Page,Williams-Hill,Cigna,44516.09118965858,494,Emergency,2020-09-26,Penicillin,Inconclusive

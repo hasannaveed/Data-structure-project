@@ -1,1 +1,0 @@
-RobErt WAlLace,64,Male,A+,Arthritis,2020-08-05,Daisy Nash,"Hernandez Ford, and Pena",Blue Cross,17488.283136042868,115,Elective,2020-08-21,Aspirin,Inconclusive

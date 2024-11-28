@@ -1,1 +1,0 @@
-RoBin barnETt,57,Male,O+,Diabetes,2022-01-08,Samuel Hendricks,Armstrong Inc,Medicare,9522.12762287297,256,Elective,2022-01-27,Paracetamol,Abnormal

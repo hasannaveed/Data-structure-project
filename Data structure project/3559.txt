@@ -1,1 +1,0 @@
-duStin BELL,23,Male,A+,Asthma,2020-08-08,Matthew Calderon,Nguyen-Walters,Blue Cross,29162.672442443723,384,Urgent,2020-08-11,Aspirin,Normal

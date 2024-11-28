@@ -1,1 +1,0 @@
-morgan johnsOn,22,Male,O+,Asthma,2020-07-04,Shawn Kim,"Lopez Vasquez and Henson,",Blue Cross,45099.02425764529,208,Urgent,2020-07-21,Lipitor,Inconclusive

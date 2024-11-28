@@ -1,1 +1,0 @@
-mark AlVARADO,56,Male,A-,Hypertension,2019-08-22,Ronald Mata,"Henry, Cervantes and Garcia",Medicare,35907.58287010162,150,Emergency,2019-08-26,Penicillin,Normal

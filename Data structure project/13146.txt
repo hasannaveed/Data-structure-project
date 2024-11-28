@@ -1,1 +1,0 @@
-LISa randolph,45,Male,A-,Arthritis,2021-07-13,Edward Ramirez,"and Brewer Thompson, Lloyd",Medicare,5992.380126345767,372,Emergency,2021-08-04,Lipitor,Normal

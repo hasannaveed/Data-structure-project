@@ -1,1 +1,0 @@
-kAthY sMITH,28,Male,O+,Arthritis,2019-11-14,Amber Perry,"Wilcox, Parker and White",Cigna,46.80336480941264,435,Urgent,2019-11-19,Paracetamol,Inconclusive

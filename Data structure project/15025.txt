@@ -1,1 +1,0 @@
-GREGoRY young,39,Female,AB+,Obesity,2019-05-08,Shannon Russell,Sexton-Harding,Cigna,23249.431964247084,487,Elective,2019-05-28,Penicillin,Normal

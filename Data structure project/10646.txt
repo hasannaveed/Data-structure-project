@@ -1,1 +1,0 @@
-BENjAMIN ScOTt,45,Male,O-,Diabetes,2022-11-14,Teresa Garcia,Singleton-Dean,Medicare,49000.78784279721,126,Emergency,2022-11-20,Lipitor,Inconclusive

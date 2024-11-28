@@ -1,1 +1,0 @@
-PAtriCk sMith,80,Male,O-,Arthritis,2023-02-02,Carmen Lee,"Adams Morris, and Griffin",Blue Cross,31309.30683408816,351,Elective,2023-02-28,Ibuprofen,Abnormal

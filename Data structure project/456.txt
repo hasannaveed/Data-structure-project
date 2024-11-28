@@ -1,1 +1,0 @@
-jOrdan LEON,51,Female,O+,Arthritis,2023-08-11,Christina Lopez,Dennis-Roth,Cigna,21534.715569914784,198,Emergency,2023-08-20,Penicillin,Normal

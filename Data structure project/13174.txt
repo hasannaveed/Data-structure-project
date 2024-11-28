@@ -1,1 +1,0 @@
-mARY harPeR,56,Male,B-,Hypertension,2021-08-06,Joseph Brock,White-Wallace,Cigna,47536.87143041306,191,Urgent,2021-08-29,Aspirin,Inconclusive

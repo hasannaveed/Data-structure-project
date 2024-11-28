@@ -1,1 +1,0 @@
-cYNTHIA wellS,50,Male,B-,Asthma,2021-08-22,Jason Torres,Johnson Inc,Aetna,34417.98074945809,298,Emergency,2021-08-27,Paracetamol,Abnormal

@@ -1,1 +1,0 @@
-CALViN johNSoN,31,Female,A+,Diabetes,2023-03-04,Joseph Faulkner,LLC Green,Blue Cross,32036.531476352633,248,Emergency,2023-03-11,Aspirin,Normal

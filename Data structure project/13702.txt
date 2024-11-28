@@ -1,1 +1,0 @@
-NAnCY kelleY,82,Male,B+,Diabetes,2020-01-27,Brian Hensley,Greer-Cortez,Medicare,16992.159657588374,350,Urgent,2020-01-28,Lipitor,Abnormal

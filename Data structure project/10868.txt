@@ -1,1 +1,0 @@
-AMAnDA johnSOn,20,Female,B+,Arthritis,2022-04-15,Rebecca Garcia,PLC Pratt,Medicare,32203.36544381502,380,Emergency,2022-04-27,Lipitor,Inconclusive

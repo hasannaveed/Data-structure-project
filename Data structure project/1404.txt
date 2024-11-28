@@ -1,1 +1,0 @@
-rAndY sHAW,84,Female,B+,Diabetes,2020-02-06,Karen Ramirez,Ryan-Miller,Aetna,16972.595476496856,374,Emergency,2020-02-08,Ibuprofen,Normal

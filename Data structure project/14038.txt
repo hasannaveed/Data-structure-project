@@ -1,1 +1,0 @@
-JASMINE joHNS,61,Female,AB-,Diabetes,2024-02-05,Christy Brewer,"Sanchez, Galloway and Green",Aetna,25056.658556170016,482,Emergency,2024-02-10,Lipitor,Normal

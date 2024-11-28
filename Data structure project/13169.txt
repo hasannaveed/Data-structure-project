@@ -1,1 +1,0 @@
-LUIS hERnANdez,43,Female,A+,Diabetes,2021-03-20,Julie Graham,"Prince Hall and Crane,",Aetna,27159.42757307974,273,Emergency,2021-04-08,Aspirin,Normal

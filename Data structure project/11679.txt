@@ -1,1 +1,0 @@
-scOtT lAne,37,Male,O+,Arthritis,2020-01-05,Travis Long,Moore-Patton,Medicare,36392.608047636466,322,Emergency,2020-01-19,Ibuprofen,Normal

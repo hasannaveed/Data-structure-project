@@ -1,1 +1,0 @@
-RobERt smith,24,Female,O-,Diabetes,2023-03-05,George James,Love-Harris,UnitedHealthcare,38042.31794898365,193,Emergency,2023-03-07,Lipitor,Inconclusive

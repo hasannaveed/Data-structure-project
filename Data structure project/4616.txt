@@ -1,1 +1,0 @@
-AUSTIn ellIs,48,Female,A-,Cancer,2022-07-01,Tina Aguirre,Lee-Wallace,Aetna,44624.79925212564,131,Urgent,2022-07-22,Aspirin,Inconclusive

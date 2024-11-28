@@ -1,1 +1,0 @@
-PAMeLA DuncaN,26,Female,B+,Asthma,2023-10-05,Paula Herrera,Massey Inc,Cigna,3573.0164287635776,119,Emergency,2023-10-18,Aspirin,Normal

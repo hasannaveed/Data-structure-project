@@ -1,1 +1,0 @@
-pam jOhNsOn,56,Male,O-,Hypertension,2019-12-19,Dr. Laura Johnson,Ltd Mcclure,Aetna,48154.97956858187,263,Elective,2020-01-09,Ibuprofen,Normal

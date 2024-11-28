@@ -1,1 +1,0 @@
-STEPhanIe bLaCk,76,Female,A+,Cancer,2020-09-14,Anthony Perez,Mays-Crawford,Blue Cross,4594.423864767388,444,Emergency,2020-09-25,Penicillin,Normal

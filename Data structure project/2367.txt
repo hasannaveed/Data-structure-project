@@ -1,1 +1,0 @@
-jOhn BOWEN,71,Female,AB+,Hypertension,2022-01-07,Jesse Thompson,Smith-Smith,Medicare,38449.531612716906,213,Emergency,2022-01-26,Paracetamol,Abnormal

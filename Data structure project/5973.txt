@@ -1,1 +1,0 @@
-BObBy CARtEr,78,Male,A+,Obesity,2023-05-09,Sarah Brennan,"Lopez, and Jackson Gomez",Blue Cross,32777.70073481855,132,Elective,2023-05-28,Lipitor,Inconclusive

@@ -1,1 +1,0 @@
-tina toRRES,23,Male,O+,Asthma,2023-11-16,Carol Gallegos,Wright Ltd,Cigna,41142.860847575124,259,Urgent,2023-11-20,Aspirin,Inconclusive

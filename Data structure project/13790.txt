@@ -1,1 +1,0 @@
-liSA maRtINEZ,32,Male,O-,Hypertension,2022-02-03,Timothy Perkins,Anderson Inc,Aetna,24056.923891059694,425,Urgent,2022-02-15,Penicillin,Normal

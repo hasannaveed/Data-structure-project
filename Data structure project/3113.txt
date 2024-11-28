@@ -1,1 +1,0 @@
-ALLiSOn aNdErson,83,Male,B-,Diabetes,2019-11-16,Mark Williams,Johnston-Jones,Medicare,43275.23190566438,287,Emergency,2019-11-28,Ibuprofen,Abnormal

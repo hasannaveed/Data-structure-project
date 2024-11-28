@@ -1,1 +1,0 @@
-aNDrea SMith,27,Male,A+,Diabetes,2023-04-06,Andrew Grant,Ramos-Brown,Blue Cross,37806.96965626052,241,Emergency,2023-04-19,Paracetamol,Normal

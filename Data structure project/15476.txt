@@ -1,1 +1,0 @@
-RobERT harrIS,64,Male,O-,Asthma,2022-12-31,Vanessa Schultz,"Obrien, and Chapman Baker",Aetna,19840.861199126542,219,Emergency,2023-01-10,Aspirin,Inconclusive

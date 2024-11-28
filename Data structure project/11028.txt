@@ -1,1 +1,0 @@
-LANCE lonG,26,Male,O-,Arthritis,2023-11-04,Brian Jones,Haas-Holmes,UnitedHealthcare,7557.836795951309,387,Urgent,2023-11-15,Penicillin,Normal

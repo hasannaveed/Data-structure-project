@@ -1,1 +1,0 @@
-CarLoS HAll,50,Male,AB-,Cancer,2020-03-09,Nathan Rivera,Grant PLC,Cigna,40009.06263255412,144,Elective,2020-03-19,Aspirin,Inconclusive

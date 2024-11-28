@@ -1,1 +1,0 @@
-cHRISTopHEr PalmER,84,Male,AB-,Cancer,2023-12-29,Dr. Steven Johnson,Richards-Mack,Aetna,35435.17015269561,458,Elective,2024-01-16,Ibuprofen,Abnormal

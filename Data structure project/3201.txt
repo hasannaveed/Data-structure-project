@@ -1,1 +1,0 @@
-NIcolE PerRy,83,Female,O-,Asthma,2020-02-08,Susan Miranda,Inc Soto,Cigna,33497.37645880271,264,Urgent,2020-02-20,Lipitor,Inconclusive

@@ -1,1 +1,0 @@
-BRItTAny OlSON,64,Female,A-,Obesity,2020-06-04,Jerry Rodriguez,"Powers Smith and Vaughn,",Cigna,33435.67626890415,286,Elective,2020-06-23,Aspirin,Normal

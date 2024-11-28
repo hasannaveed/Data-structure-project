@@ -1,1 +1,0 @@
-CAssiDy orTiz,42,Male,O-,Arthritis,2022-02-01,Erin Gaines,Burnett-Hart,UnitedHealthcare,34445.07822903776,447,Urgent,2022-02-12,Penicillin,Normal

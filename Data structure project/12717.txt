@@ -1,1 +1,0 @@
-TRACEY CarteR,58,Male,AB-,Cancer,2022-10-05,Nicole Lucas,Bell-Harris,Medicare,35700.848889881294,163,Urgent,2022-11-01,Penicillin,Normal

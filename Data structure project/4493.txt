@@ -1,1 +1,0 @@
-robERT MacIaS,24,Male,O+,Obesity,2020-01-13,Denise Cain,"and Hall, Webb Meza",Cigna,33588.80781473213,454,Elective,2020-01-25,Paracetamol,Inconclusive

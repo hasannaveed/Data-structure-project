@@ -1,1 +1,0 @@
-lIsA maldOnaDo,63,Male,B+,Diabetes,2022-11-09,Nicholas Holmes,Sawyer Inc,Cigna,41225.915169468586,336,Urgent,2022-11-17,Paracetamol,Abnormal

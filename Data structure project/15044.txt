@@ -1,1 +1,0 @@
-ANNA aDkInS,30,Female,AB-,Diabetes,2021-02-24,Robert Glover,"Rivera and Lindsey, Liu",Cigna,32368.135108550567,341,Elective,2021-02-27,Paracetamol,Abnormal

@@ -1,1 +1,0 @@
-JASoN SMITh,81,Female,O+,Cancer,2022-01-06,Sara Cantu,Bailey-White,Cigna,12009.048759992374,459,Emergency,2022-01-19,Paracetamol,Abnormal

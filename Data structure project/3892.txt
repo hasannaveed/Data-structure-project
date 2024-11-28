@@ -1,1 +1,0 @@
-jEnNiFER hAYES,32,Female,AB-,Diabetes,2020-11-17,Theresa Lynch,Black-Kirby,Blue Cross,34445.4239307234,291,Urgent,2020-11-18,Penicillin,Abnormal

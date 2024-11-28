@@ -1,1 +1,0 @@
-JaCOB loPez,76,Female,B-,Obesity,2019-09-13,Gina Richards,Rios Ltd,Medicare,17263.948978830806,394,Emergency,2019-09-19,Penicillin,Abnormal

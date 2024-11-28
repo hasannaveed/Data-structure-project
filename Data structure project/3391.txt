@@ -1,1 +1,0 @@
-rileY StanleY,27,Female,A+,Obesity,2022-10-24,Shelley Martinez,Mcclure-Williams,Aetna,32656.774516185425,306,Emergency,2022-11-17,Lipitor,Inconclusive

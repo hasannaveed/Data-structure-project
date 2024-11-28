@@ -1,1 +1,0 @@
-AlAn brIghT,42,Male,B+,Hypertension,2019-11-25,Jerry Lopez,Group Brown,Aetna,4683.372857833268,285,Urgent,2019-11-28,Aspirin,Abnormal

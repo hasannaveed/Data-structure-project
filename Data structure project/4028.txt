@@ -1,1 +1,0 @@
-STACEY COWAn,52,Male,B+,Cancer,2020-07-03,Devin James,Smith-Davis,Medicare,16097.865126355213,385,Emergency,2020-07-11,Lipitor,Abnormal

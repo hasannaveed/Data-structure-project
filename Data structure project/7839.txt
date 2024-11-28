@@ -1,1 +1,0 @@
-juliA FRanciS,27,Female,AB+,Obesity,2019-09-03,Michael Carrillo,Group Johnson,Medicare,42283.496325922635,402,Urgent,2019-09-05,Penicillin,Normal

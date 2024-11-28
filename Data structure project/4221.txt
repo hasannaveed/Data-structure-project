@@ -1,1 +1,0 @@
-morGAn LIn,82,Male,O+,Diabetes,2021-07-09,John Price,"Bryan, and Cook Patrick",Aetna,38174.67940908466,373,Elective,2021-07-27,Lipitor,Abnormal

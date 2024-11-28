@@ -1,1 +1,0 @@
-FRanCisCo byrd,75,Male,A+,Obesity,2022-12-16,Brian Nelson,Sanders-Dickson,Aetna,2887.6593891675234,278,Elective,2023-01-02,Penicillin,Normal

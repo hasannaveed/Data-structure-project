@@ -1,1 +1,0 @@
-mAtTHew RObERTs,23,Male,B-,Diabetes,2022-08-29,Amber Olsen,Miller-Guzman,Cigna,2231.593619082466,489,Emergency,2022-08-30,Ibuprofen,Inconclusive

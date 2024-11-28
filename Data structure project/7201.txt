@@ -1,1 +1,0 @@
-mARk caNtu,34,Male,O-,Asthma,2021-01-26,Steven Ingram,Moreno LLC,Cigna,16794.118669882584,237,Emergency,2021-01-30,Aspirin,Inconclusive

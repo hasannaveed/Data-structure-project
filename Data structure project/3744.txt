@@ -1,1 +1,0 @@
-DAVId MOrgAn,78,Male,AB+,Cancer,2020-05-21,Kelly Wilson,Farmer-Rogers,Aetna,15646.432967141805,272,Elective,2020-06-02,Penicillin,Inconclusive

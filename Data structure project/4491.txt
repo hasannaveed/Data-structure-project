@@ -1,1 +1,0 @@
-RyaN aNDerson,37,Female,AB+,Diabetes,2021-03-05,Wendy Gill,Frost Inc,Aetna,36918.16456273931,151,Emergency,2021-03-30,Paracetamol,Normal

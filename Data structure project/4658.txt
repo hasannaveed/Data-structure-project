@@ -1,1 +1,0 @@
-CHRisToPhEr cArr,55,Female,A+,Hypertension,2020-12-11,Fred Ewing,"Jackson, and Mitchell Moyer",Cigna,21850.04761335427,479,Urgent,2021-01-01,Aspirin,Abnormal

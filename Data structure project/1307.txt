@@ -1,1 +1,0 @@
-RaymoND bRuCe,35,Male,AB+,Diabetes,2020-05-13,Amy Murillo,"and Nelson Blake, Gutierrez",Cigna,38101.625596836326,187,Elective,2020-05-25,Lipitor,Abnormal

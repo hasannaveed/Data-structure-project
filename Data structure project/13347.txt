@@ -1,1 +1,0 @@
-cHarLES meNdoZA,56,Female,AB+,Arthritis,2021-03-19,Chris Alvarez,Garner-Flores,Medicare,38217.624455837824,351,Elective,2021-03-28,Ibuprofen,Abnormal

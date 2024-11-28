@@ -1,1 +1,0 @@
-spEncER RoSS,79,Male,A-,Obesity,2021-08-14,Diane Marshall,Proctor Inc,Blue Cross,14892.596664552775,207,Emergency,2021-08-30,Penicillin,Normal

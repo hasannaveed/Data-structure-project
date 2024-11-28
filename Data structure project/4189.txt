@@ -1,1 +1,0 @@
-AlaN jones,62,Male,A-,Cancer,2019-05-26,Bryan Leonard,White-Levine,Cigna,45457.65179103557,162,Elective,2019-06-03,Paracetamol,Normal

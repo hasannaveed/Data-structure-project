@@ -1,1 +1,0 @@
-james porteR,32,Male,B+,Diabetes,2020-01-16,Alexandra Cardenas,Sandoval-Barnes,Cigna,11694.68112923628,236,Emergency,2020-01-28,Penicillin,Abnormal

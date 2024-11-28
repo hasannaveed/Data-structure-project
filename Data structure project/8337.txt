@@ -1,1 +1,0 @@
-RoBert TayLor,43,Male,B-,Arthritis,2020-11-12,James Luna,"Fowler and Williams, Henry",Aetna,16298.875239335737,346,Urgent,2020-11-19,Lipitor,Inconclusive

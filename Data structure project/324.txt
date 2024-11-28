@@ -1,1 +1,0 @@
-RoBErT sExtON,54,Male,A-,Cancer,2020-11-19,Richard Buchanan,Sherman-Martinez,Blue Cross,3771.237165573879,426,Urgent,2020-11-27,Penicillin,Abnormal

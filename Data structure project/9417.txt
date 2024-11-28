@@ -1,1 +1,0 @@
-SaMuEL Smith,32,Female,A+,Arthritis,2020-08-06,Timothy Mccormick,Inc Smith,Aetna,12789.84498858006,177,Urgent,2020-08-13,Penicillin,Normal

@@ -1,1 +1,0 @@
-Travis wOOD,62,Male,A-,Obesity,2020-04-16,Jose Buckley,Hernandez-Wagner,Cigna,18330.738627599436,178,Urgent,2020-04-18,Penicillin,Inconclusive

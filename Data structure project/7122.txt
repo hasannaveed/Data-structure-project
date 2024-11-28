@@ -1,1 +1,0 @@
-shellY alleN,65,Male,B+,Asthma,2021-03-06,Amy Smith,"Brown Mills and Brooks,",UnitedHealthcare,50398.77815335308,304,Emergency,2021-03-20,Lipitor,Inconclusive

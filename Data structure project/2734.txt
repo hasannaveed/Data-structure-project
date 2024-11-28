@@ -1,1 +1,0 @@
-JOHN LOPeZ,36,Male,AB+,Cancer,2023-02-12,James Myers,Brown-Taylor,Medicare,44089.55073575097,273,Emergency,2023-02-15,Paracetamol,Abnormal

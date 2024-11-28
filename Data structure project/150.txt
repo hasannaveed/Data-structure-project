@@ -1,1 +1,0 @@
-RoBErt hIGGInS,42,Male,AB-,Asthma,2021-05-06,Scott Davis,"and Ford Lee, Rodriguez",Medicare,13355.782085480903,451,Elective,2021-05-29,Ibuprofen,Inconclusive

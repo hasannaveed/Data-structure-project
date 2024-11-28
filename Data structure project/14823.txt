@@ -1,1 +1,0 @@
-stEVEn HaLL,34,Female,AB+,Arthritis,2019-07-11,Robert Petersen,Inc Watson,Blue Cross,313.87553588844276,248,Urgent,2019-07-28,Penicillin,Normal

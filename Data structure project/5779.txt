@@ -1,1 +1,0 @@
-MARk floRes,23,Male,B-,Diabetes,2020-11-18,Charles Kirby,"Leblanc, Cole Simon and",Cigna,35644.823110435515,392,Emergency,2020-12-15,Ibuprofen,Normal

@@ -1,1 +1,0 @@
-jaMeS green,56,Female,AB-,Diabetes,2020-07-06,Benjamin White DDS,Group Parker,Aetna,18664.589364875163,370,Urgent,2020-07-31,Aspirin,Normal

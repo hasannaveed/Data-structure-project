@@ -1,1 +1,0 @@
-reBEccA sANtIAGO,51,Female,A+,Diabetes,2022-03-21,Ryan Herring,Morris-Franklin,Medicare,20909.583198974204,214,Emergency,2022-03-22,Ibuprofen,Inconclusive

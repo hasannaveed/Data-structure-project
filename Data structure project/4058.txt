@@ -1,1 +1,0 @@
-JOHN JACkSON,74,Male,O-,Asthma,2021-08-31,Elizabeth Bautista,LLC Simmons,Cigna,32835.6104592237,247,Elective,2021-09-28,Aspirin,Inconclusive

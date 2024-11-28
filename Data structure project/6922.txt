@@ -1,1 +1,0 @@
-DavId bROWn,35,Female,AB-,Hypertension,2022-04-10,Meredith Mejia,Cox-Neal,Medicare,34508.51121379354,311,Urgent,2022-04-20,Paracetamol,Normal

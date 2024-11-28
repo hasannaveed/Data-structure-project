@@ -1,1 +1,0 @@
-RuSseLl colon,72,Female,B-,Diabetes,2020-11-11,Cesar Vega,"Foster Pierce, Anderson and",Blue Cross,4725.0951257943125,255,Emergency,2020-11-29,Lipitor,Abnormal

@@ -1,1 +1,0 @@
-bRAD boWMAN,41,Male,AB+,Cancer,2019-11-29,Roger Mccall,Burns-Bennett,UnitedHealthcare,35909.686966353074,288,Elective,2019-12-21,Penicillin,Normal

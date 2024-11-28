@@ -1,1 +1,0 @@
-COLLEen lOPez,46,Female,AB-,Diabetes,2020-06-18,Alexander Rodriguez,"Stone and Johnson, Scott",Blue Cross,15222.286426796378,121,Urgent,2020-06-22,Aspirin,Normal

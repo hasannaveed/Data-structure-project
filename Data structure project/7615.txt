@@ -1,1 +1,0 @@
-shelLy andeRSON,20,Female,AB+,Arthritis,2020-10-18,Mark Mendez,Benitez-French,Medicare,13575.103175295975,208,Elective,2020-10-23,Penicillin,Normal

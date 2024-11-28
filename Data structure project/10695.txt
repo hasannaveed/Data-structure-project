@@ -1,1 +1,0 @@
-COURTNey JOhNsOn,49,Female,A-,Diabetes,2020-12-03,Douglas Hughes,"Morrison, and Thompson Henderson",Medicare,41727.952339330965,196,Emergency,2020-12-24,Aspirin,Abnormal

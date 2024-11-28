@@ -1,1 +1,0 @@
-MARY WAlter,75,Male,A-,Obesity,2021-03-24,Jack Mendez,"Gray Booker and King,",Aetna,50174.621901254395,316,Emergency,2021-04-06,Paracetamol,Normal

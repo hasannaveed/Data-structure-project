@@ -1,1 +1,0 @@
-tyleR STout,55,Male,AB+,Asthma,2020-08-31,Michael Douglas,Gardner-Watts,Cigna,16527.557063350778,172,Emergency,2020-09-18,Penicillin,Normal

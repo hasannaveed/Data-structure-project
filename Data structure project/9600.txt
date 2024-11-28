@@ -1,1 +1,0 @@
-katHY JONES,50,Male,O-,Hypertension,2020-04-13,Jared Stone,Jacobs-Smith,Aetna,23130.705055519942,277,Emergency,2020-05-06,Lipitor,Abnormal

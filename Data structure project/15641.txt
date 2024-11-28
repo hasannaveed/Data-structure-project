@@ -1,1 +1,0 @@
-RoBerT RIcHArDS,82,Female,O-,Arthritis,2020-11-28,Kevin Macdonald,"Jennings and White Hudson,",Medicare,949.4767736244219,342,Emergency,2020-12-14,Paracetamol,Abnormal

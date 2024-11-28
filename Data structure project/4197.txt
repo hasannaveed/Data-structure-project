@@ -1,1 +1,0 @@
-cHelSEy Liu,21,Male,A+,Hypertension,2020-07-05,Jose Maldonado,Haas-Garner,Aetna,10467.646842463502,309,Emergency,2020-07-21,Paracetamol,Inconclusive

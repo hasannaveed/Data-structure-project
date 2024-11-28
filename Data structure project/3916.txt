@@ -1,1 +1,0 @@
-deREk pAtel,25,Male,B+,Diabetes,2022-04-12,Connor Booker,Pittman LLC,Medicare,40474.83027000407,245,Emergency,2022-04-17,Penicillin,Normal

@@ -1,1 +1,0 @@
-tINa paRrish,66,Male,AB+,Arthritis,2021-01-01,Sandra Davis,"Mcdonald and Smith, Smith",Aetna,29837.160088467626,354,Elective,2021-01-16,Aspirin,Inconclusive

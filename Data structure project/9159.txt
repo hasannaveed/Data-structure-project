@@ -1,1 +1,0 @@
-jaRed smIth,19,Male,B+,Obesity,2020-05-04,Patricia Stone,"and White Smith, Walls",UnitedHealthcare,29032.24481130966,453,Emergency,2020-05-18,Ibuprofen,Normal

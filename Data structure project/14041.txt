@@ -1,1 +1,0 @@
-micheLLE MAsOn,67,Female,AB+,Obesity,2022-03-21,Eugene Cruz,"Copeland, Davila and Pratt",Medicare,1781.8223212843516,323,Emergency,2022-03-25,Aspirin,Normal

@@ -1,1 +1,0 @@
-naTHAN cherRY,32,Female,B+,Obesity,2020-07-13,David Clay,Porter-Collins,Aetna,13984.222726699181,339,Emergency,2020-07-18,Lipitor,Abnormal

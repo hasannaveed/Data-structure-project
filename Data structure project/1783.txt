@@ -1,1 +1,0 @@
-brEnDA bELl,68,Male,A-,Arthritis,2022-01-22,Dr. Matthew Hamilton MD,Smith-Carter,Blue Cross,25344.198169138002,223,Emergency,2022-01-29,Aspirin,Abnormal

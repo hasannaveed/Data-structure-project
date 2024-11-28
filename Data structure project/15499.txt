@@ -1,1 +1,0 @@
-PaTriCIa anDeRson,31,Female,A-,Cancer,2022-08-09,Jason Russell,Ltd Cobb,Medicare,32867.62055283607,121,Emergency,2022-08-18,Penicillin,Normal

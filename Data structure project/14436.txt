@@ -1,1 +1,0 @@
-jeAN grAy,26,Male,A+,Diabetes,2022-06-01,Patrick Smith,Pierce-Thompson,Cigna,12725.560230729221,442,Urgent,2022-06-04,Aspirin,Normal

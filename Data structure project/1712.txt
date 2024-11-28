@@ -1,1 +1,0 @@
-tarA yOrK,24,Male,A+,Hypertension,2020-08-18,James Payne,Martinez-Farley,Cigna,43722.600550861775,198,Emergency,2020-09-01,Penicillin,Normal

@@ -1,1 +1,0 @@
-JAMes HOWaRd,31,Male,O+,Asthma,2020-12-01,Kevin Walton,"Randall and Vaughn, Austin",Medicare,42742.80480587684,116,Urgent,2020-12-15,Penicillin,Normal

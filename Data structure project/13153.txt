@@ -1,1 +1,0 @@
-JeffREY bakER,80,Male,O+,Diabetes,2022-11-22,Jacqueline Smith,Washington-Buckley,Medicare,44952.53664253313,127,Emergency,2022-11-23,Penicillin,Inconclusive

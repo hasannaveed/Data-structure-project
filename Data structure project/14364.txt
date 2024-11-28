@@ -1,1 +1,0 @@
-PAUl oCONnOR,38,Female,A-,Arthritis,2019-05-13,Preston Mercer,Harris-Galloway,Blue Cross,17046.003584616137,459,Emergency,2019-05-18,Ibuprofen,Inconclusive

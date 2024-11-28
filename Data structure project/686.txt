@@ -1,1 +1,0 @@
-mark hIcKs,25,Female,AB-,Diabetes,2020-06-18,Lisa Ruiz,"Cantu and Tanner Rojas,",Medicare,7437.418707997005,412,Emergency,2020-06-23,Paracetamol,Inconclusive

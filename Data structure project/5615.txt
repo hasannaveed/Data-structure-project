@@ -1,1 +1,0 @@
-bEnJAmIN MEDiNa,79,Male,O+,Asthma,2021-01-03,James Cook,Gilmore-Mills,Medicare,10626.348202548212,332,Emergency,2021-01-06,Lipitor,Normal

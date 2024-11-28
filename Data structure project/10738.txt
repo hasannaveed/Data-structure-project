@@ -1,1 +1,0 @@
-REbecCa ClinE,39,Female,B+,Asthma,2020-05-07,Rebecca Miller,"Stout Dougherty, and Washington",Cigna,-656.1530718064635,195,Emergency,2020-05-17,Ibuprofen,Abnormal

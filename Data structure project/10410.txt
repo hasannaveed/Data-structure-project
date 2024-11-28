@@ -1,1 +1,0 @@
-randAll SMith,52,Male,B-,Cancer,2024-04-16,William Sanders,Phelps-Dunlap,Medicare,5914.283317874655,185,Urgent,2024-04-22,Lipitor,Inconclusive

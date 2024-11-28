@@ -1,1 +1,0 @@
-JOHN eDwaRdS,75,Male,B+,Diabetes,2020-07-10,Sean Garcia,Alvarez-Zamora,Cigna,17938.892308272225,174,Elective,2020-08-01,Ibuprofen,Inconclusive

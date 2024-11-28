@@ -1,1 +1,0 @@
-TimotHy simMons,32,Female,A+,Hypertension,2020-12-04,Taylor Bell,LLC Drake,Cigna,29560.221565136657,112,Emergency,2020-12-05,Penicillin,Abnormal

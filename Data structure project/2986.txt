@@ -1,1 +1,0 @@
-roBERt VargAS,36,Female,O+,Hypertension,2022-10-01,Ann Baldwin,Glass-Taylor,Blue Cross,13972.898247164463,288,Elective,2022-10-16,Aspirin,Abnormal

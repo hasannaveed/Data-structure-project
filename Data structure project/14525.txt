@@ -1,1 +1,0 @@
-joAnnA ROSarIO,60,Male,O-,Obesity,2020-08-05,Ronald Reed,Ruiz-Hunt,Medicare,38064.17381702872,142,Elective,2020-08-11,Penicillin,Abnormal

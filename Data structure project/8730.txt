@@ -1,1 +1,0 @@
-laurEN BroWn,82,Male,AB+,Diabetes,2020-12-03,Abigail Hardy,"and Ford Horton, Gregory",Blue Cross,13631.930617043272,286,Elective,2020-12-12,Lipitor,Normal

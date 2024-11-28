@@ -1,1 +1,0 @@
-LISa hArTmAn,44,Male,B-,Arthritis,2020-02-03,Jason West,PLC Morris,Medicare,12123.252398836587,237,Elective,2020-02-29,Penicillin,Abnormal

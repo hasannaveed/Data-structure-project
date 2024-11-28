@@ -1,1 +1,0 @@
-BRIAN GoMeZ,42,Male,A+,Cancer,2021-07-05,Andrew Hooper,"Coleman, and Ramirez Wolf",Medicare,23959.572187289046,486,Elective,2021-07-06,Paracetamol,Inconclusive

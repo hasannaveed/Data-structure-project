@@ -1,1 +1,0 @@
-angEla cAmPbelL,56,Female,A+,Obesity,2020-04-06,Rachel Parrish,Thornton Inc,Aetna,30313.16370677249,269,Emergency,2020-04-24,Lipitor,Abnormal

@@ -1,1 +1,0 @@
-CAROLyN carSOn,51,Female,B-,Arthritis,2023-12-06,Zachary Thomas,"Winters and Patterson Banks,",Cigna,26625.63951045948,139,Elective,2023-12-16,Paracetamol,Normal

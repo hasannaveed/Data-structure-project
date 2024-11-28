@@ -1,1 +1,0 @@
-HenrY sCHMIDT,51,Male,O-,Arthritis,2020-10-04,Andrea Hernandez,Inc Miller,Blue Cross,48203.24720349549,414,Elective,2020-10-21,Ibuprofen,Normal

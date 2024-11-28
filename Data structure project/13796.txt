@@ -1,1 +1,0 @@
-eriC colemaN,42,Male,B-,Hypertension,2021-09-02,Lisa Winters,Webster-Bishop,Aetna,40026.101489170505,471,Emergency,2021-09-14,Paracetamol,Abnormal

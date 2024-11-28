@@ -1,1 +1,0 @@
-keVIN wong,76,Male,A+,Asthma,2019-09-22,Kara Stevens,"Watson Johnson Joseph, and",Aetna,13014.33000044748,108,Emergency,2019-09-28,Aspirin,Abnormal

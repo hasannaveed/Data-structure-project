@@ -1,1 +1,0 @@
-ERIc AllEN,77,Female,O-,Obesity,2021-08-05,Joseph Patel,"Cox Love, and Saunders",Aetna,35635.19842462985,202,Emergency,2021-08-08,Penicillin,Abnormal

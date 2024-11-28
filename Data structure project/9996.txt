@@ -1,1 +1,0 @@
-robERT JAMEs,32,Male,A-,Asthma,2022-03-25,Michael Hill,Banks-Callahan,Cigna,31311.161709566393,418,Elective,2022-04-21,Ibuprofen,Abnormal

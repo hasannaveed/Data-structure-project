@@ -1,1 +1,0 @@
-TiNa GentrY,40,Female,AB+,Obesity,2021-07-08,Mark Ramos,"Gonzalez and Larson Jenkins,",Cigna,12339.799776426022,498,Emergency,2021-07-16,Penicillin,Abnormal

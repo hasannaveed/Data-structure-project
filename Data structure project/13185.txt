@@ -1,1 +1,0 @@
-SARaH enGLish,24,Male,O+,Diabetes,2020-08-02,James Benitez,"Gonzalez Franco, Garza and",Aetna,29273.439006449753,296,Urgent,2020-08-21,Aspirin,Normal

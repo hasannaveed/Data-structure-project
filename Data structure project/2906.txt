@@ -1,1 +1,0 @@
-jasoN HEnSoN,71,Male,AB-,Obesity,2020-05-21,John Fernandez,Acevedo-Henderson,UnitedHealthcare,13030.313925258188,263,Emergency,2020-05-24,Paracetamol,Normal

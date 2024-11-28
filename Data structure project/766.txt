@@ -1,1 +1,0 @@
-GlENN maSSeY,51,Male,A-,Cancer,2020-08-06,Michael Villanueva,Inc Holloway,UnitedHealthcare,25152.2938878587,103,Emergency,2020-08-26,Lipitor,Abnormal

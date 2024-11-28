@@ -1,1 +1,0 @@
-megHAn ADAMS,39,Male,O-,Diabetes,2019-05-15,Daniel Reed,Harris-Snyder,Medicare,18832.768495910394,458,Elective,2019-06-14,Paracetamol,Inconclusive

@@ -4,6 +4,7 @@ using namespace std;
 //avl node struct
 template <typename t>
 struct AVL_node {
+	int key;
 	t data;
 	AVL_node* left;
 	AVL_node* right;

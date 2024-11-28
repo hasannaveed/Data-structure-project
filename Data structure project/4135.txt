@@ -1,1 +1,0 @@
-MAry simoN,63,Female,AB+,Obesity,2020-02-22,Mr. Jesse Flores,Serrano and Sons,Medicare,18362.83458334057,331,Emergency,2020-02-27,Aspirin,Abnormal

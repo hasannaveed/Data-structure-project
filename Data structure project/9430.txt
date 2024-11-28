@@ -1,1 +1,0 @@
-TINA beLL,24,Male,O+,Obesity,2022-04-26,Monica Mccarty,Brown-Jackson,Medicare,37627.917984005726,204,Emergency,2022-05-03,Ibuprofen,Inconclusive

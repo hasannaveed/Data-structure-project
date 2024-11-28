@@ -1,1 +1,0 @@
-toDD Knox,69,Male,O-,Arthritis,2023-01-26,Lisa Ray,"and Patterson, Martinez Arellano",Medicare,16199.1933470684,146,Urgent,2023-02-05,Paracetamol,Abnormal

@@ -1,1 +1,0 @@
-COdy STRiCKlAND,32,Male,B-,Asthma,2021-09-13,Nathan Gross,Sons Mcmillan and,Blue Cross,23319.285782995048,386,Urgent,2021-09-19,Penicillin,Normal

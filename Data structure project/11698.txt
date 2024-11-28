@@ -1,1 +1,0 @@
-geoRgE mARTin,50,Male,A+,Asthma,2021-04-09,Douglas Lewis,Brown-Jordan,Blue Cross,19918.73380815442,286,Elective,2021-04-24,Lipitor,Normal

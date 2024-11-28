@@ -1,1 +1,0 @@
-aMBer vilLarREAL,64,Male,O+,Cancer,2020-02-06,Monica Thompson,"Torres Hawkins, Morris and",Medicare,13910.407901047027,312,Urgent,2020-02-27,Aspirin,Normal

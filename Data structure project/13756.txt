@@ -1,1 +1,0 @@
-ROBertO thomAS,64,Female,B-,Asthma,2023-04-03,Christopher Myers,Wallace Group,Cigna,30867.2996133973,175,Urgent,2023-04-07,Paracetamol,Abnormal

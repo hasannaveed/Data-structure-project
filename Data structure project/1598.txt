@@ -1,1 +1,0 @@
-rOBeRT BURton,20,Female,O+,Obesity,2020-03-30,Nicole Perez,Patterson-Barber,Cigna,44577.89573899141,249,Urgent,2020-04-15,Aspirin,Inconclusive

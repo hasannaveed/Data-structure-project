@@ -1,1 +1,0 @@
-ChaRleS Grant,65,Male,O+,Diabetes,2020-09-27,Robert Miller,Group Cook,Blue Cross,34867.79022692474,246,Emergency,2020-09-29,Ibuprofen,Abnormal

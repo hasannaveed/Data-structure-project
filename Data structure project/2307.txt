@@ -1,1 +1,0 @@
-dALE petErsOn,81,Male,O-,Arthritis,2023-02-04,Angela Armstrong,Rodriguez Sons and,Aetna,33756.61488799653,449,Emergency,2023-02-18,Ibuprofen,Abnormal

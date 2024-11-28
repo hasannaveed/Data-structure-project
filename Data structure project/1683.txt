@@ -1,1 +1,0 @@
-jaSOn bakEr,52,Female,B+,Arthritis,2022-05-10,Robert Jimenez,Rice-Donaldson,Cigna,18961.03209601114,120,Emergency,2022-05-17,Paracetamol,Abnormal

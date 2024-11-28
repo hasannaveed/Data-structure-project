@@ -1,1 +1,0 @@
-SeTh ROCHa,64,Male,O+,Cancer,2020-02-06,Mitchell Smith,and Decker Sons,Cigna,25486.50371428471,478,Elective,2020-03-05,Ibuprofen,Normal

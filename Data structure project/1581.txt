@@ -1,1 +1,0 @@
-sEAN GRAY,44,Female,B+,Obesity,2022-06-03,William Hunter,Nguyen-Hart,Medicare,30206.874120107226,379,Elective,2022-06-22,Ibuprofen,Inconclusive

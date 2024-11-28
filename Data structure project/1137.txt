@@ -1,1 +1,0 @@
-NIChoLas bEll,49,Male,AB-,Obesity,2019-08-05,John Whitney,Gonzalez-Keith,Cigna,45777.43650158128,178,Elective,2019-08-08,Penicillin,Normal

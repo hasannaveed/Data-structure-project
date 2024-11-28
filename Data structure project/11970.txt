@@ -1,1 +1,0 @@
-RICHARd cHERry,56,Female,O+,Hypertension,2022-05-08,Thomas Gordon,Clark PLC,Aetna,18253.980485886797,141,Emergency,2022-05-30,Penicillin,Abnormal

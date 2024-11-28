@@ -1,1 +1,0 @@
-PeTER fiTzgeRaLd,73,Male,AB+,Obesity,2020-05-15,Angela Contreras,Garner-Bowman,Medicare,19746.83200760437,162,Urgent,2020-05-20,Aspirin,Abnormal

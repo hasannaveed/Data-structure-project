@@ -1,1 +1,0 @@
-CaRolyn HIlL,56,Female,AB-,Arthritis,2020-11-20,Marcus Anderson,Barnes Inc,Aetna,17661.086751443578,189,Urgent,2020-11-28,Penicillin,Normal

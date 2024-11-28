@@ -1,1 +1,0 @@
-shArOn wolF,45,Female,AB+,Hypertension,2023-01-02,Carolyn Lee,"Cox, Franklin and Brown",Medicare,37051.179102267415,280,Emergency,2023-01-29,Penicillin,Abnormal

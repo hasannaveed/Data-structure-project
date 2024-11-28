@@ -1,1 +1,0 @@
-cODY bURtOn,22,Male,A+,Asthma,2020-02-14,James Fuller,Archer Inc,Aetna,18284.58876323842,305,Emergency,2020-02-19,Aspirin,Abnormal

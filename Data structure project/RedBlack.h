@@ -2,31 +2,30 @@
 #include <iostream>
 using namespace std;
 
-// Node structure for the Red-Black Tree
-struct Node {
-    int data;
-    string color;
-    Node* left, * right, * parent;
-
-    Node(int data)
-        : data(data)
-        , color("RED")
-        , left(nullptr)
-        , right(nullptr)
-        , parent(nullptr)
-    {
-    }
-};
-
-// Red-Black Tree class
+template <typename T>
 class RedBlackTree {
 private:
+    struct Node {
+        T data;
+        string color; // "RED" or "BLACK"
+        Node* left, * right, * parent;
+
+        Node(const T& data)
+            : data(data)
+            , color("RED")
+            , left(nullptr)
+            , right(nullptr)
+            , parent(nullptr)
+        {}
+    };
+
     Node* root;
     Node* NIL;
 
+public:
+
     // Utility function to perform left rotation
-    void leftRotate(Node* x)
-    {
+    void leftRotate(Node* x) {
         Node* y = x->right;
         x->right = y->left;
         if (y->left != NIL) {
@@ -47,8 +46,7 @@ private:
     }
 
     // Utility function to perform right rotation
-    void rightRotate(Node* x)
-    {
+    void rightRotate(Node* x) {
         Node* y = x->left;
         x->left = y->right;
         if (y->right != NIL) {
@@ -68,10 +66,8 @@ private:
         x->parent = y;
     }
 
-    // Function to fix Red-Black Tree properties after
-    // insertion
-    void fixInsert(Node* k)
-    {
+    // Function to fix Red-Black Tree properties after insertion
+    void fixInsert(Node* k) {
         while (k != root && k->parent->color == "RED") {
             if (k->parent == k->parent->parent->left) {
                 Node* u = k->parent->parent->right; // uncle
@@ -114,8 +110,7 @@ private:
     }
 
     // Inorder traversal helper function
-    void inorderHelper(Node* node)
-    {
+    void inorderHelper(Node* node) {
         if (node != NIL) {
             inorderHelper(node->left);
             cout << node->data << " ";
@@ -124,8 +119,7 @@ private:
     }
 
     // Search helper function
-    Node* searchHelper(Node* node, int data)
-    {
+    Node* searchHelper(Node* node, const T& data) {
         if (node == NIL || data == node->data) {
             return node;
         }
@@ -135,19 +129,16 @@ private:
         return searchHelper(node->right, data);
     }
 
-public:
     // Constructor
-    RedBlackTree()
-    {
-        NIL = new Node(0);
+    RedBlackTree() {
+        NIL = new Node(T());
         NIL->color = "BLACK";
         NIL->left = NIL->right = NIL;
         root = NIL;
     }
 
     // Insert function
-    void insert(int data)
-    {
+    void insert(const T& data) {
         Node* new_node = new Node(data);
         new_node->left = NIL;
         new_node->right = NIL;
@@ -158,7 +149,7 @@ public:
         // BST insert
         while (current != NIL) {
             parent = current;
-            if (new_node->data < current->data) {
+            if (data < current->data) {
                 current = current->left;
             }
             else {
@@ -194,9 +185,7 @@ public:
     void inorder() { inorderHelper(root); }
 
     // Search function
-    Node* search(int data)
-    {
+    Node* search(const T& data) {
         return searchHelper(root, data);
     }
 };
-

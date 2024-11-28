@@ -1,1 +1,0 @@
-VicToR haLL,42,Female,A+,Obesity,2022-04-04,Joseph Burnett,and Bray Sons,Cigna,46792.522338953415,297,Elective,2022-04-10,Penicillin,Abnormal

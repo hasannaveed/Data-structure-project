@@ -1,1 +1,0 @@
-WILLIE west,64,Male,AB+,Hypertension,2022-12-20,Michael Vargas,"and Williams Miller, Holder",Blue Cross,27052.78229333285,402,Elective,2023-01-15,Paracetamol,Abnormal

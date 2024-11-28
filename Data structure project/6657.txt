@@ -1,1 +1,0 @@
-lIsa cRane,74,Male,B+,Cancer,2021-03-08,Kristen King,Hernandez-Thompson,Blue Cross,31034.562143347357,457,Emergency,2021-03-25,Aspirin,Abnormal

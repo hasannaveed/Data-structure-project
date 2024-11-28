@@ -1,1 +1,0 @@
-PAUL WALtERS,42,Male,AB+,Cancer,2022-08-26,Paul Anderson,"Terry Nixon, Cobb and",Blue Cross,27424.15858584629,267,Urgent,2022-09-08,Aspirin,Normal

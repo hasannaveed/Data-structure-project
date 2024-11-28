@@ -1,1 +1,0 @@
-kAITlyN pAuL,43,Male,AB-,Obesity,2020-05-02,Bradley David,"Vaughn Nelson, Gallagher and",Medicare,13192.085997234992,306,Emergency,2020-05-09,Ibuprofen,Abnormal

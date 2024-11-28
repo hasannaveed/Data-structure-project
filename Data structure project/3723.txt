@@ -1,1 +1,0 @@
-StEvEN SNYdER,30,Male,O-,Arthritis,2024-01-10,Bruce Keller,Lane Ltd,Medicare,40819.10384481369,359,Emergency,2024-01-13,Aspirin,Normal

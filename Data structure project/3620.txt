@@ -1,1 +1,0 @@
-RoBert bROwn,63,Male,A-,Arthritis,2022-09-04,Brittany Macias,Smith-Wilson,Blue Cross,36015.9187620955,359,Emergency,2022-09-27,Ibuprofen,Abnormal

@@ -1,1 +1,0 @@
-SaRA WaLteRs,42,Male,B-,Diabetes,2019-10-01,Mark Barajas,Butler-Banks,Medicare,11703.212349484837,181,Urgent,2019-10-08,Aspirin,Normal

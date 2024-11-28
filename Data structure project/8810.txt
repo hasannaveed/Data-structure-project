@@ -1,1 +1,0 @@
-ausTIN CHaPMAN,42,Male,A-,Hypertension,2022-02-04,Mark Graham,Moreno-Nelson,Aetna,24838.160947414348,237,Elective,2022-02-25,Ibuprofen,Normal

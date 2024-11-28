@@ -1,1 +1,0 @@
-larry abBott,29,Male,B-,Asthma,2020-01-02,Cassandra Keller,Sons Keller and,Aetna,34984.26991050082,467,Elective,2020-01-15,Lipitor,Abnormal

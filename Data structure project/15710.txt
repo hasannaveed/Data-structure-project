@@ -1,1 +1,0 @@
-DAVid FRY,43,Female,AB-,Cancer,2022-05-07,Steve Huang,Hernandez-Hayes,Cigna,2048.905068001477,298,Elective,2022-05-15,Lipitor,Normal

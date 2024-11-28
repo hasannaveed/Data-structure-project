@@ -1,1 +1,0 @@
-michAEL mOrSE,72,Male,A-,Arthritis,2022-01-15,Michael Cherry,"Williams, Palmer and Thomas",Medicare,40194.50637046547,478,Elective,2022-01-26,Paracetamol,Abnormal

@@ -1,1 +1,0 @@
-TerrI SMALL,73,Female,B+,Diabetes,2020-02-03,Michael Dillon,Chavez Sons and,Blue Cross,20573.855988122054,182,Emergency,2020-03-02,Paracetamol,Abnormal

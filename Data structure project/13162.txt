@@ -1,1 +1,0 @@
-LIsA towNsenD,52,Male,O-,Obesity,2022-08-20,William Gonzalez,"Moyer, and Fields Smith",Blue Cross,48105.01011775044,439,Emergency,2022-08-21,Penicillin,Abnormal

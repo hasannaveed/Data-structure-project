@@ -1,1 +1,0 @@
-javIER martin,83,Female,A-,Arthritis,2021-08-08,Cheryl Howard,"and Small Gonzalez, Kaufman",Medicare,37737.8453434111,433,Urgent,2021-08-16,Aspirin,Inconclusive

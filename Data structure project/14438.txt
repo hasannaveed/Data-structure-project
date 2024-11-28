@@ -1,1 +1,0 @@
-PEteR hOLMeS,47,Male,A+,Obesity,2020-03-09,Cindy Franco,"and Estes Horne Freeman,",Medicare,18728.864437549768,209,Emergency,2020-03-14,Lipitor,Normal

@@ -1,1 +1,0 @@
-michaEL NElSON,26,Female,B+,Hypertension,2020-03-03,Michele Harris,Nguyen-Adams,Aetna,35005.10906765746,310,Emergency,2020-03-04,Aspirin,Abnormal

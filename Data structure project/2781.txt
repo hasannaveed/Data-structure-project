@@ -1,1 +1,0 @@
-JaSon pATtERSoN,80,Male,O-,Hypertension,2022-05-11,Claudia Martinez,"and Butler, King Morton",Cigna,26395.43786896715,304,Emergency,2022-05-16,Ibuprofen,Inconclusive

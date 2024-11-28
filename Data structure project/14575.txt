@@ -1,1 +1,0 @@
-paTty mARtIn,59,Female,B+,Diabetes,2020-11-15,Oscar Miller,PLC Shepherd,Aetna,13296.65444576906,243,Elective,2020-11-20,Lipitor,Inconclusive

@@ -1,1 +1,0 @@
-tARA ColLIns,73,Male,B+,Diabetes,2023-04-03,Brian Griffin,Jones Group,Aetna,32243.2247941399,486,Emergency,2023-04-07,Aspirin,Inconclusive

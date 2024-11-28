@@ -1,1 +1,0 @@
-CaseY HamIlToN,60,Male,O-,Diabetes,2021-01-24,Stephanie Thompson,"Hendrix, Roberts and Pitts",UnitedHealthcare,3763.7724274942652,180,Urgent,2021-02-11,Paracetamol,Abnormal

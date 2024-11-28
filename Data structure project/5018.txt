@@ -1,1 +1,0 @@
-robErt petERSon,42,Female,AB+,Asthma,2020-12-17,Michele Walsh,Harding-Hatfield,UnitedHealthcare,11658.974028133292,471,Emergency,2021-01-04,Ibuprofen,Abnormal

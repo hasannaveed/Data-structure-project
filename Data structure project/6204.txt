@@ -1,1 +1,0 @@
-davId WasHinGTON,57,Female,AB+,Diabetes,2023-04-04,Jaime Elliott,"and Vazquez, Burns Smith",Aetna,36443.23027606307,434,Elective,2023-04-27,Penicillin,Normal

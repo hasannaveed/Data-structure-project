@@ -1,1 +1,0 @@
-SaNdra SMIth,79,Male,B-,Asthma,2024-03-09,Eric Montes,"Sanford and Jones, Martinez",Aetna,18704.225324220446,236,Urgent,2024-03-10,Penicillin,Abnormal

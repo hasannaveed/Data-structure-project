@@ -1,1 +1,0 @@
-susan Smith,40,Female,AB+,Arthritis,2023-09-13,Angela Foster,Roberts-Gomez,Medicare,12368.587706540573,303,Emergency,2023-09-15,Aspirin,Inconclusive

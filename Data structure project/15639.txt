@@ -1,1 +1,0 @@
-JOShua jaCKson,21,Female,AB+,Diabetes,2020-09-13,Kim Smith,Ltd Smith,Cigna,2741.53543684219,404,Emergency,2020-09-29,Penicillin,Abnormal

@@ -1,1 +1,0 @@
-CARLa bIShop,30,Male,AB+,Asthma,2021-03-29,Dawn Moore,Group Vazquez,Cigna,34730.23691324664,323,Emergency,2021-04-09,Penicillin,Abnormal

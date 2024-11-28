@@ -1,1 +1,0 @@
-georgE baKer,60,Male,A+,Arthritis,2022-06-04,Anthony Mitchell,and Palmer Sons,Aetna,32062.060589479897,111,Emergency,2022-06-19,Ibuprofen,Abnormal

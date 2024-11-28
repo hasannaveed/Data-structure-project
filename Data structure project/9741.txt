@@ -1,1 +1,0 @@
-MONICA edwARds,64,Female,B-,Asthma,2020-09-01,Tony Dalton,"Smith Arellano, and Stokes",Cigna,27112.529212896716,240,Urgent,2020-09-03,Ibuprofen,Normal

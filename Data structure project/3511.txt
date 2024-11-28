@@ -1,1 +1,0 @@
-RobIn oRTiz,49,Male,B+,Arthritis,2022-05-01,Eugene Cabrera,"Strong and Bell, Ortiz",Cigna,13330.265767251645,161,Elective,2022-05-20,Paracetamol,Inconclusive

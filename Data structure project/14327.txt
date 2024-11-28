@@ -1,1 +1,0 @@
-MaRk mEdina,25,Female,B-,Obesity,2022-12-25,Juan Smith,Klein Ltd,Blue Cross,6676.0858887265895,306,Elective,2023-01-08,Aspirin,Normal

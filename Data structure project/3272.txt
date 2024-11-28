@@ -1,1 +1,0 @@
-mariA halEY,60,Female,A+,Arthritis,2021-09-12,Jerry Hinton,Christian Inc,Aetna,51396.75863325918,486,Urgent,2021-09-26,Aspirin,Normal

@@ -1,1 +1,0 @@
-tAmAra toDd,70,Female,O-,Obesity,2019-09-02,Johnny Reed,Bradford-Andrews,Cigna,23792.250161739168,376,Emergency,2019-09-14,Aspirin,Normal

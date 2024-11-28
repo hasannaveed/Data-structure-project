@@ -1,1 +1,0 @@
-SheILA williams,81,Female,A-,Obesity,2019-11-05,Pamela Hall,"Rogers, French and Henry",Medicare,21638.004513104206,253,Urgent,2019-11-11,Paracetamol,Abnormal

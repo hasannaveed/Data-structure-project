@@ -1,1 +1,0 @@
-DiAna hALL,44,Male,B-,Diabetes,2020-01-21,Adriana Morrow,Johnson Group,Blue Cross,26437.77463014572,267,Emergency,2020-01-30,Ibuprofen,Abnormal

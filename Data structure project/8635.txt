@@ -1,1 +1,0 @@
-cory HiLL,83,Male,A+,Diabetes,2019-06-08,Kathy Brown,"and Nguyen Williams, Watson",Medicare,21254.73538964162,120,Urgent,2019-06-22,Paracetamol,Inconclusive

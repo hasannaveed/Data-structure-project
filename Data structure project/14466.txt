@@ -1,1 +1,0 @@
-DAle haRRIs,64,Male,A-,Diabetes,2023-06-01,Michael Lane,Ramirez-Carr,Aetna,11995.17476284071,273,Emergency,2023-06-19,Penicillin,Abnormal

@@ -1,1 +1,0 @@
-lINDSAY WOOd,80,Female,AB+,Obesity,2022-07-03,Robin Cruz,Group Lowe,Aetna,20884.04575373695,242,Emergency,2022-07-24,Ibuprofen,Inconclusive

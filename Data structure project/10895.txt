@@ -1,1 +1,0 @@
-brian curtis,48,Male,AB+,Diabetes,2020-02-09,Dr. Robyn Roberts,Sons and Schwartz,Cigna,30225.808641445365,153,Urgent,2020-02-19,Penicillin,Abnormal

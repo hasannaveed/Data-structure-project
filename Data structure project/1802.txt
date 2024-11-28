@@ -1,1 +1,0 @@
-BRIAN LOng,79,Male,O+,Diabetes,2021-11-12,Ryan Lewis,Simpson-Jennings,UnitedHealthcare,40860.8113872547,310,Emergency,2021-11-18,Ibuprofen,Inconclusive

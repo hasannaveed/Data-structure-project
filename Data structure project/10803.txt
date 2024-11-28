@@ -1,1 +1,0 @@
-JOHN nOblE,47,Male,A+,Diabetes,2019-11-18,Denise Huff,Wilson-Green,Cigna,14796.790425454214,258,Emergency,2019-12-11,Aspirin,Abnormal

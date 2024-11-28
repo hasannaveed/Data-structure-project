@@ -1,1 +1,0 @@
-CrAIg GRAY,85,Female,B+,Obesity,2022-06-15,Colleen Wilkins,Hall Inc,Cigna,4384.882202312079,470,Elective,2022-06-28,Aspirin,Abnormal

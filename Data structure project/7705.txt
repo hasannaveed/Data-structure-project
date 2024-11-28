@@ -1,1 +1,0 @@
-GLOriA TAylor,77,Male,O+,Obesity,2022-11-05,Charles Hays,Group Nunez,Medicare,26349.18882445336,277,Emergency,2022-11-15,Aspirin,Abnormal

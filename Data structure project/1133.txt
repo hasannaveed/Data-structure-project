@@ -1,1 +1,0 @@
-ambER rEid,41,Male,AB+,Hypertension,2020-12-17,Brian Wright,Moore-Arias,Blue Cross,1538.3943165504872,258,Emergency,2020-12-20,Lipitor,Normal

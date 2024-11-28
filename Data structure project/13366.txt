@@ -1,1 +1,0 @@
-GLEN wooDArD,24,Male,B-,Obesity,2020-11-05,Edward Richardson,Ramirez-Decker,Aetna,38644.30082971788,405,Emergency,2020-11-14,Ibuprofen,Abnormal

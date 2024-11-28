@@ -1,1 +1,0 @@
-cARrie black,72,Female,B+,Hypertension,2021-09-02,Joseph Miranda,"Burton and Curry, Parker",Cigna,7459.099357431387,333,Emergency,2021-10-02,Ibuprofen,Normal

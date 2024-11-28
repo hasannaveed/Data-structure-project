@@ -1,1 +1,0 @@
-DAVID fROst,31,Female,A+,Hypertension,2022-02-19,Greg Williams,Beck-Calhoun,Medicare,29435.9913202235,416,Urgent,2022-02-25,Ibuprofen,Normal

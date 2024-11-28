@@ -1,1 +1,0 @@
-liSa smiTh,20,Female,A-,Asthma,2020-10-16,Thomas Ramos,Sons Ruiz and,Cigna,13250.234263176873,414,Emergency,2020-10-24,Lipitor,Normal

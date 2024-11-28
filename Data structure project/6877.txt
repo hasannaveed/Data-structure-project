@@ -1,1 +1,0 @@
-LoRI cAStro,21,Male,B+,Diabetes,2022-07-10,Alan Long,"Adams West and Poole,",Blue Cross,31473.652807483926,293,Emergency,2022-07-28,Penicillin,Normal

@@ -1,1 +1,0 @@
-stepHeN huffman,84,Male,B-,Diabetes,2019-05-29,Henry Watson,"Burke Garcia Carter, and",Cigna,32614.431416226867,129,Elective,2019-06-10,Aspirin,Abnormal

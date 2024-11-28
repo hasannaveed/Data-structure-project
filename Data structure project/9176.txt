@@ -1,1 +1,0 @@
-roBert daVis,20,Male,AB+,Cancer,2020-08-13,Cassandra Bryant,"Huffman Molina, Garcia and",Blue Cross,10141.488772389295,262,Elective,2020-09-01,Penicillin,Inconclusive

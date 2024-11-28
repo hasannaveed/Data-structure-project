@@ -1,1 +1,0 @@
-ethan RObbINs,32,Male,AB-,Diabetes,2022-05-04,Russell Sawyer,"Mills, Morgan and White",Aetna,31974.217670188387,403,Urgent,2022-05-09,Lipitor,Abnormal

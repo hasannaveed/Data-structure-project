@@ -1,1 +1,0 @@
-james ward,50,Female,O-,Asthma,2020-12-02,Angela Carlson,Berg-Hanson,Medicare,14962.730356105929,473,Emergency,2020-12-04,Lipitor,Normal

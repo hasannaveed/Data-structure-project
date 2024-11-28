@@ -1,1 +1,0 @@
-CARLA foX,58,Male,A-,Asthma,2020-01-05,Olivia Jones,White Ltd,Cigna,6845.02128012064,498,Urgent,2020-01-15,Penicillin,Inconclusive

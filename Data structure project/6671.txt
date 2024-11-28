@@ -1,1 +1,0 @@
-MARY BOYd,52,Male,B-,Hypertension,2020-09-18,Michael Grimes,"and Edwards, Hancock Owens",Cigna,25984.668456295254,136,Elective,2020-09-21,Aspirin,Inconclusive

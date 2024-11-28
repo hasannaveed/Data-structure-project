@@ -1,1 +1,0 @@
-roBERT sTokEs,82,Male,A-,Asthma,2023-03-21,James Palmer,Jones-Hill,Cigna,28518.60271087789,165,Elective,2023-04-14,Paracetamol,Abnormal

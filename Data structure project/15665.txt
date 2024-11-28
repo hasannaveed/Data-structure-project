@@ -1,1 +1,0 @@
-GREGORy FOSter,20,Male,O+,Obesity,2022-03-09,Sandra Smith,Inc Fischer,Cigna,19520.966210052622,335,Urgent,2022-03-24,Paracetamol,Normal

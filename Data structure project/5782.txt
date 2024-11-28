@@ -1,1 +1,0 @@
-mary MCDOweLL,41,Male,A+,Arthritis,2020-01-23,Alicia Moore,Wilson PLC,Cigna,897.3351291635491,215,Elective,2020-01-24,Lipitor,Inconclusive

@@ -1,1 +1,0 @@
-cAndaCE SMITH,22,Male,AB+,Obesity,2020-01-19,Tiffany Jennings,"Morrow and Bauer Oconnor,",UnitedHealthcare,35517.27045317345,180,Emergency,2020-02-05,Penicillin,Normal

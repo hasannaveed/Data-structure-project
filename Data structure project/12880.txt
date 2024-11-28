@@ -1,1 +1,0 @@
-AngEla cAStiLlo,79,Female,O+,Diabetes,2019-12-02,Mark Oneal,Reese-Ortiz,Aetna,25073.058542971587,138,Emergency,2019-12-04,Aspirin,Normal

@@ -1,1 +1,0 @@
-JacqUeLine pAteL,37,Female,AB+,Asthma,2023-01-15,Samuel Lopez,Phelps-Hunter,Medicare,29466.15091876177,289,Emergency,2023-01-17,Lipitor,Abnormal

@@ -1,1 +1,0 @@
-AusTIN WooD,43,Male,B-,Obesity,2020-04-03,Tara Tucker,"Mcgee and Smith, Cabrera",Cigna,44072.24753762481,346,Elective,2020-04-08,Lipitor,Abnormal

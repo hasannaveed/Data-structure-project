@@ -1,1 +1,0 @@
-MARK priCE,18,Male,B-,Arthritis,2022-09-22,Krystal Fox,"Hall Roberts and Duarte,",Medicare,31485.9731617159,440,Emergency,2022-10-14,Ibuprofen,Normal

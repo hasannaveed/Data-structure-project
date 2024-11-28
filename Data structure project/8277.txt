@@ -1,1 +1,0 @@
-PhilIP birD,60,Male,O-,Obesity,2020-03-03,Lee Love,Cameron-Buchanan,Medicare,22030.566987466573,364,Urgent,2020-03-06,Lipitor,Abnormal

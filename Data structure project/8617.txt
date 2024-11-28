@@ -1,1 +1,0 @@
-cAROLYN smIth,58,Male,O+,Cancer,2020-07-02,Dave Smith,"Martinez, and Zimmerman Davis",UnitedHealthcare,39607.44273963993,474,Emergency,2020-07-20,Penicillin,Abnormal

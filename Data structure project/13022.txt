@@ -1,1 +1,0 @@
-CHarLes croSs,79,Female,O-,Arthritis,2021-11-09,David White,Miller-Jenkins,Aetna,21578.809647713308,408,Emergency,2021-11-30,Penicillin,Inconclusive

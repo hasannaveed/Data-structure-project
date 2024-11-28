@@ -1,1 +1,0 @@
-lIsA GArNeR,50,Male,O+,Arthritis,2021-08-03,Gary Jones,Navarro Inc,Blue Cross,2119.534368552267,258,Elective,2021-08-10,Penicillin,Abnormal

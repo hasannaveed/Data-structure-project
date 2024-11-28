@@ -1,1 +1,0 @@
-SeTH marshALl,75,Female,A+,Asthma,2021-11-19,Lee Barajas,PLC Williams,Cigna,3529.1282459171634,429,Elective,2021-12-07,Ibuprofen,Normal

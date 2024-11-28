@@ -1,1 +1,0 @@
-MIcHAel GOodWin,19,Male,B-,Diabetes,2020-09-11,James Hill,Jones Inc,Medicare,36786.41959492881,170,Emergency,2020-09-21,Paracetamol,Abnormal

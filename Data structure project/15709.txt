@@ -1,1 +1,0 @@
-SCott ALLen,23,Female,AB+,Hypertension,2023-06-02,Evelyn Moody,"and Andersen Miller Jones,",Medicare,36698.948276670046,349,Elective,2023-06-09,Aspirin,Normal

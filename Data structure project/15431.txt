@@ -1,1 +1,0 @@
-ROy Fox,60,Male,AB+,Hypertension,2022-06-13,Sara Glover,Williams Ltd,Aetna,37899.74691019586,183,Elective,2022-06-24,Ibuprofen,Inconclusive

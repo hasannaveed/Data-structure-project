@@ -1,1 +1,0 @@
-DORIS BEst,85,Male,AB-,Diabetes,2023-01-18,Lindsey Stewart,Walker Inc,Medicare,19715.721310850615,210,Elective,2023-02-16,Aspirin,Normal

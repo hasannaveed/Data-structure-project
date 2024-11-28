@@ -1,1 +1,0 @@
-mEgan Crane,65,Male,B+,Cancer,2019-11-22,Elizabeth Zuniga,Butler-Hines,Medicare,47293.526771280005,406,Urgent,2019-11-29,Ibuprofen,Inconclusive

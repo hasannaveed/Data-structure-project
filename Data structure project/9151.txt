@@ -1,1 +1,0 @@
-joANN gREen,71,Male,A+,Hypertension,2022-07-16,Penny Morgan,Ward PLC,Aetna,39789.13452792121,455,Emergency,2022-07-27,Ibuprofen,Abnormal

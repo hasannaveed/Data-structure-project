@@ -1,1 +1,0 @@
-rEBEccA wAtts,22,Male,B+,Diabetes,2019-09-13,Jerome Torres,Jennings-Smith,Cigna,5783.718061351391,375,Emergency,2019-09-23,Lipitor,Normal

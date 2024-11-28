@@ -1,1 +1,0 @@
-RObin petErsOn,60,Male,B-,Diabetes,2020-04-06,Emily Humphrey,"Moody Richards Randall, and",Blue Cross,26819.260725505123,117,Emergency,2020-04-12,Penicillin,Abnormal

@@ -1,1 +1,0 @@
-ChAd ellis,50,Male,AB+,Cancer,2020-05-09,Ryan Williams,"Hopkins and Randolph, Mitchell",Blue Cross,44724.24882205182,137,Emergency,2020-05-29,Penicillin,Inconclusive

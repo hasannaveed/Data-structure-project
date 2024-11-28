@@ -1,1 +1,0 @@
-dAnIEL OcONnOR,75,Male,AB+,Diabetes,2022-12-05,John Jones,Brown-Graham,Blue Cross,42014.42604007082,350,Elective,2022-12-16,Aspirin,Normal

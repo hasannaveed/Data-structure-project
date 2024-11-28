@@ -1,1 +1,0 @@
-DaVId AlLEn,21,Female,AB-,Cancer,2020-02-11,Sarah Hart,"and Webster, Martinez Wolfe",Medicare,13574.442648678529,175,Urgent,2020-02-20,Penicillin,Inconclusive

@@ -1,1 +1,0 @@
-CaMerON wilCox,42,Female,A+,Cancer,2022-08-11,Amber Smith,"Fischer Henderson, and Nguyen",Aetna,7592.7246202528595,122,Elective,2022-08-30,Lipitor,Normal

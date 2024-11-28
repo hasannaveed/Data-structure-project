@@ -1,1 +1,0 @@
-jaSoN FOlEy,54,Male,B+,Diabetes,2022-06-17,Douglas Li,"Perez and Ochoa White,",Medicare,35521.58214827759,130,Elective,2022-06-24,Paracetamol,Normal

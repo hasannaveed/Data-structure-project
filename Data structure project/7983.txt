@@ -1,1 +1,0 @@
-maRk ayalA,20,Female,AB+,Obesity,2023-02-11,Jennifer Kemp,Rich-Kennedy,Blue Cross,43067.922191376754,415,Emergency,2023-02-25,Lipitor,Normal

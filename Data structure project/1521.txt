@@ -1,1 +1,0 @@
-JACob FarmER,75,Female,B-,Hypertension,2021-03-22,Michael Thomas,Johnson-Mckinney,UnitedHealthcare,17144.735991287256,201,Elective,2021-03-30,Lipitor,Normal

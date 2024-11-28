@@ -1,1 +1,0 @@
-MARk simOn,55,Female,A+,Obesity,2020-03-21,Tyler Chen,Harris Inc,Aetna,14839.123182439589,316,Emergency,2020-04-15,Lipitor,Inconclusive

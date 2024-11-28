@@ -1,1 +1,0 @@
-AarOn walteR,20,Female,A+,Arthritis,2022-12-07,Nicholas Campos,"Grant, and Wood Larsen",Cigna,27319.480430501066,195,Emergency,2022-12-31,Aspirin,Inconclusive

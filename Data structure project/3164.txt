@@ -1,1 +1,0 @@
-jennifeR BenNEtt,32,Male,A+,Arthritis,2020-10-20,Matthew Alexander,Inc Jackson,Cigna,2270.5092859149386,218,Urgent,2020-10-23,Lipitor,Normal

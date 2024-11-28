@@ -1,1 +1,0 @@
-RoBERT LARSOn,84,Male,A+,Obesity,2022-05-10,Kelly Blevins,Smith-Lewis,Cigna,27276.04822957843,288,Elective,2022-05-13,Paracetamol,Inconclusive

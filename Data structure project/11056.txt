@@ -1,1 +1,0 @@
-sTacY haLE,33,Male,O-,Diabetes,2022-11-02,Jessica Jimenez,Tucker Sons and,Cigna,49391.33442239714,296,Emergency,2022-11-30,Aspirin,Normal

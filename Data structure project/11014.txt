@@ -1,1 +1,0 @@
-dEBorAh riverA,78,Male,B-,Arthritis,2021-02-03,Michael Reid,"Brown and Jimenez, Russo",Cigna,38167.90205298968,201,Emergency,2021-02-08,Lipitor,Inconclusive

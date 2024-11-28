@@ -1,1 +1,0 @@
-caRLA riverA,34,Male,O+,Hypertension,2023-05-12,Monique Hardy,"Johnson, Kane Johnson and",Medicare,35538.508474727794,282,Urgent,2023-06-11,Aspirin,Normal

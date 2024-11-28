@@ -1,1 +1,0 @@
-chARles MUrPHY,42,Male,A+,Diabetes,2021-05-10,David Soto,and Sons Williams,Cigna,2784.0205310263505,241,Urgent,2021-05-16,Penicillin,Abnormal

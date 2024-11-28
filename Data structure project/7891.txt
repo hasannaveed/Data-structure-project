@@ -1,1 +1,0 @@
-CAssandra MItcHELL,57,Male,B-,Hypertension,2019-12-08,Ethan Warren,Vasquez-Buckley,UnitedHealthcare,39227.359663313524,309,Urgent,2019-12-23,Ibuprofen,Normal

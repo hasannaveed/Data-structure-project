@@ -1,1 +1,0 @@
-brian SMITH,33,Female,B+,Cancer,2021-03-08,Yolanda Bryant,Decker Ltd,Cigna,16771.35808190047,278,Emergency,2021-03-23,Ibuprofen,Normal

@@ -1,1 +1,0 @@
-SArah ALI,54,Male,O+,Hypertension,2021-12-05,David Russell,"Johnson, and Smith Brown",Aetna,14294.627637081623,371,Emergency,2021-12-25,Aspirin,Abnormal

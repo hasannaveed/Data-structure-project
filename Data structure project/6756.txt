@@ -1,1 +1,0 @@
-JenNIFer philLIps,41,Female,AB+,Asthma,2020-05-03,Steven Harris,Gonzalez Inc,UnitedHealthcare,11418.565126224647,325,Urgent,2020-05-09,Aspirin,Inconclusive

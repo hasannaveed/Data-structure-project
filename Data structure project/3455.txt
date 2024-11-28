@@ -1,1 +1,0 @@
-DerEK SMItH,78,Male,AB+,Arthritis,2021-07-04,David Gross,Bridges-Lynch,Medicare,7241.307500390221,273,Emergency,2021-07-25,Ibuprofen,Normal

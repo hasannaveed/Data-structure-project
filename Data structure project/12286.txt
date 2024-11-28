@@ -1,1 +1,0 @@
-JOHN fORd,50,Male,AB+,Diabetes,2022-07-04,Mr. Christopher Ramirez,Inc Arellano,Aetna,9956.332950020385,431,Emergency,2022-07-07,Paracetamol,Inconclusive

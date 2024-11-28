@@ -1,1 +1,0 @@
-brANDon roBERtsOn,27,Female,AB+,Cancer,2022-06-05,Sean Silva,Jones-Wade,Blue Cross,3749.7505164867302,103,Elective,2022-06-07,Paracetamol,Inconclusive

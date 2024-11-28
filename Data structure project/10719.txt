@@ -1,1 +1,0 @@
-jAmES wiLsON,78,Male,B+,Cancer,2019-12-03,Karen Hernandez,Miller-Brady,Cigna,37019.46593453861,377,Emergency,2019-12-29,Aspirin,Normal

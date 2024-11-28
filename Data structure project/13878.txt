@@ -1,1 +1,0 @@
-marY dAvis,65,Male,A-,Diabetes,2022-01-05,Daniel Vargas,Jones-Rodriguez,Aetna,22862.311344092457,484,Emergency,2022-01-12,Paracetamol,Normal

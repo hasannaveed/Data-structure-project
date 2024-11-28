@@ -1,1 +1,0 @@
-SophiA ReId,26,Male,B-,Cancer,2023-11-28,Anna Ward,"and Short Davis, Romero",Aetna,50118.13333837247,378,Emergency,2023-12-27,Paracetamol,Abnormal

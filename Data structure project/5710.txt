@@ -1,1 +1,0 @@
-JosEPh cOx,23,Male,AB-,Diabetes,2019-10-13,Peter Smith,Inc Ward,Blue Cross,-353.86518565064034,271,Elective,2019-10-25,Lipitor,Inconclusive

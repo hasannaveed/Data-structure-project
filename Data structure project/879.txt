@@ -1,1 +1,0 @@
-CAROLine sWanSoN,52,Female,A+,Arthritis,2021-01-10,Richard Rodgers,Group Schneider,Aetna,25685.625760964696,260,Emergency,2021-01-25,Paracetamol,Abnormal

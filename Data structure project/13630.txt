@@ -1,1 +1,0 @@
-krISTin GATEs,41,Male,A-,Diabetes,2020-07-12,Thomas Bishop,Inc Mckee,Cigna,13530.165644046141,338,Emergency,2020-07-16,Penicillin,Normal

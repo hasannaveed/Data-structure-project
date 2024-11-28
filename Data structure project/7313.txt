@@ -1,1 +1,0 @@
-NorMan long,78,Male,AB+,Arthritis,2021-05-23,Joshua Aguirre,Harrison PLC,Medicare,19002.303469740003,373,Elective,2021-06-18,Paracetamol,Inconclusive

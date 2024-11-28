@@ -1,1 +1,0 @@
-DalE MilleR,60,Male,O-,Obesity,2019-05-19,Mr. Daniel Richard,Avery-Alvarez,Blue Cross,4527.055879475055,422,Emergency,2019-05-23,Paracetamol,Abnormal

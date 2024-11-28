@@ -1,1 +1,0 @@
-STepHaNie kEnt,42,Female,A-,Cancer,2019-06-15,Mary Moss,Beck-Galloway,Aetna,14681.016360125932,234,Emergency,2019-07-05,Ibuprofen,Abnormal

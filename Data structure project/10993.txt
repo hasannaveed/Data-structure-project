@@ -1,1 +1,0 @@
-liSA rOBERts,55,Female,A-,Obesity,2021-01-02,Theodore Tate,Lyons Inc,Aetna,44703.17417869932,335,Urgent,2021-01-12,Aspirin,Inconclusive

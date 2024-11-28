@@ -1,1 +1,0 @@
-MiCHeal mILLEr,32,Female,A+,Cancer,2024-02-01,Rebecca Bennett,Zhang Inc,Medicare,40986.48420907616,492,Urgent,2024-02-13,Aspirin,Normal

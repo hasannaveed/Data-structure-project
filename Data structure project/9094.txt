@@ -1,1 +1,0 @@
-KELLy penA,67,Male,O-,Obesity,2021-01-11,Kari Booth,PLC Saunders,Cigna,31814.06625698073,483,Urgent,2021-01-29,Ibuprofen,Inconclusive

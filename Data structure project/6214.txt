@@ -1,1 +1,0 @@
-JACoB WArd,39,Male,A-,Arthritis,2020-07-15,Robert Lewis,Group Peters,UnitedHealthcare,6019.2818926110795,103,Elective,2020-08-13,Ibuprofen,Inconclusive

@@ -1,1 +1,0 @@
-Paul DEleon,58,Male,AB-,Cancer,2019-06-15,Mary Sharp,Padilla-Meyer,Medicare,13345.704725286409,225,Urgent,2019-06-27,Lipitor,Normal

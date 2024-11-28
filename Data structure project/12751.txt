@@ -1,1 +1,0 @@
-paulA CLaRK,22,Female,B+,Arthritis,2020-10-16,Melissa Mcdonald,Gillespie-Reed,Medicare,5093.012291540426,304,Urgent,2020-10-31,Lipitor,Abnormal

@@ -1,1 +1,0 @@
-KAren PriCE,41,Male,B-,Arthritis,2019-09-23,Carla Burgess,Castro-Gomez,Medicare,29465.817089085107,271,Urgent,2019-09-26,Lipitor,Abnormal

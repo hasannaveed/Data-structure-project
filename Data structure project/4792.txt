@@ -1,1 +1,0 @@
-AnTONIO mARSH,32,Male,A-,Diabetes,2022-04-20,Robert Esparza,LLC Hanson,Cigna,18644.17206527765,239,Emergency,2022-04-30,Aspirin,Abnormal

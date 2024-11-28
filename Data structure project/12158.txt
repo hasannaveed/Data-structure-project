@@ -1,1 +1,0 @@
-GiNA boWMAN,47,Male,AB+,Obesity,2019-09-29,Johnny Ramos,"Taylor Williams and Brown,",Aetna,25522.365433260362,155,Emergency,2019-10-01,Lipitor,Normal

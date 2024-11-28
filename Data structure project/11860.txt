@@ -1,1 +1,0 @@
-TeResA ROSs,72,Female,B+,Cancer,2020-02-02,Gregory Andrade,"Cook and Curtis Morris,",Cigna,43039.61824753887,360,Emergency,2020-02-26,Lipitor,Inconclusive

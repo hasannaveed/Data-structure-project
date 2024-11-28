@@ -1,1 +1,0 @@
-dUstin LEon,74,Male,B+,Asthma,2020-07-09,John Austin,Chung-Young,Blue Cross,37357.67942781127,166,Elective,2020-07-21,Ibuprofen,Inconclusive

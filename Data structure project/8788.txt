@@ -1,1 +1,0 @@
-GLOriA gArZa,23,Female,A-,Cancer,2023-04-16,Mr. Carlos Haley,Davis-Joyce,Medicare,8765.890433065131,150,Emergency,2023-04-27,Lipitor,Normal

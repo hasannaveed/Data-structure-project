@@ -1,1 +1,0 @@
-alBERT pAYnE,71,Male,B+,Arthritis,2019-11-12,Samantha Higgins,Hernandez-Carey,Cigna,38536.76271080253,400,Elective,2019-11-14,Penicillin,Normal

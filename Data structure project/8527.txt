@@ -1,1 +1,0 @@
-JenNifER CurrY,79,Female,O+,Hypertension,2021-05-13,Robert Wright,Wilson-Thomas,Aetna,9998.328491376697,440,Emergency,2021-05-23,Paracetamol,Abnormal

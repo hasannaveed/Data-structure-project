@@ -1,1 +1,0 @@
-ANGEL ClArk,28,Male,B-,Diabetes,2019-12-09,Melissa Green,"Marsh, Lee and Murphy",Aetna,37657.37630244128,103,Urgent,2020-01-05,Penicillin,Inconclusive

@@ -1,1 +1,0 @@
-AngELA AdAmS,70,Female,AB+,Obesity,2020-09-06,Thomas Jackson,Lowe Group,Aetna,27378.719844013875,351,Emergency,2020-09-10,Ibuprofen,Inconclusive

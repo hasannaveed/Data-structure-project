@@ -1,1 +1,0 @@
-paTRicK Long,41,Female,O+,Diabetes,2023-05-06,Peter Sanchez,"and Solis, Bauer Allen",Aetna,23258.574754159377,247,Emergency,2023-05-12,Penicillin,Abnormal

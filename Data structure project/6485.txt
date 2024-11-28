@@ -1,1 +1,0 @@
-AnITa BarnES,41,Male,O+,Arthritis,2023-01-19,Tony Barron,Sullivan-Lewis,Aetna,2620.845932035569,408,Emergency,2023-01-26,Aspirin,Inconclusive

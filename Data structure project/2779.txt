@@ -1,1 +1,0 @@
-Mary smith,58,Female,A-,Asthma,2022-10-18,Jason Patel,"Johnson Thompson and Crawford,",UnitedHealthcare,9579.863646419486,284,Elective,2022-11-09,Ibuprofen,Abnormal

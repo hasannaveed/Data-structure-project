@@ -1,1 +1,0 @@
-Sean MartIn,81,Male,O-,Obesity,2022-06-20,Donna Rodriguez,"Rodriguez Farmer, and Neal",Aetna,28046.62240836981,139,Emergency,2022-06-21,Lipitor,Abnormal

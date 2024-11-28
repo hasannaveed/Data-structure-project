@@ -1,1 +1,0 @@
-CASEy DEAn,20,Male,AB+,Asthma,2022-06-13,Eric Ward,Boone Inc,UnitedHealthcare,27614.458895512227,252,Elective,2022-06-24,Ibuprofen,Abnormal

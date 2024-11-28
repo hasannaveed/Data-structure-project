@@ -1,1 +1,0 @@
-scoTt wADE,66,Male,A+,Arthritis,2022-02-13,Dustin Wolf,"Smith, Elliott and Blackburn",Medicare,36086.57207805436,266,Urgent,2022-02-23,Paracetamol,Normal

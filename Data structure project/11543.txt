@@ -1,1 +1,0 @@
-rOBERT cONnER,27,Male,B+,Asthma,2024-03-13,Christopher Lynch,Pittman-Bush,UnitedHealthcare,28190.295275945773,317,Urgent,2024-03-15,Ibuprofen,Abnormal

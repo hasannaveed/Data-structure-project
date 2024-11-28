@@ -1,1 +1,0 @@
-theodore ALLEN,20,Female,B+,Hypertension,2023-05-01,Thomas Rodriguez,Gonzalez Group,Medicare,27272.521268060693,445,Urgent,2023-05-08,Penicillin,Abnormal

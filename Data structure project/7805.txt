@@ -1,1 +1,0 @@
-RObERT dOdSON,74,Female,AB-,Obesity,2019-12-04,Anthony Gray,PLC Johnson,Cigna,2188.964308220545,432,Urgent,2019-12-30,Penicillin,Normal

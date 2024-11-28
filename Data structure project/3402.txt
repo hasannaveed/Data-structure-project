@@ -1,1 +1,0 @@
-katElYN case,26,Male,O-,Cancer,2022-09-28,James Clark,Inc Brewer,Blue Cross,30935.637029400725,367,Elective,2022-10-26,Penicillin,Inconclusive

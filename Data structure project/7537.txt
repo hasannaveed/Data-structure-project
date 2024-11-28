@@ -1,1 +1,0 @@
-JaSOn ROBbINs,42,Female,AB+,Obesity,2021-02-12,Chloe May,Jones-Goodman,Medicare,26054.782019172686,422,Urgent,2021-02-24,Lipitor,Inconclusive

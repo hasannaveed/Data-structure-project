@@ -1,1 +1,0 @@
-dAvId acoSTA,23,Male,A+,Asthma,2019-05-09,Rick Burns,"Macias and Perez Thompson,",Medicare,27601.032417399376,207,Urgent,2019-05-14,Aspirin,Inconclusive

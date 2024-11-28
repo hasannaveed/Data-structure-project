@@ -1,1 +1,0 @@
-BRIAn AnDErSON,23,Male,A+,Diabetes,2019-11-23,James Houston,"Alvarez Garcia, and Watkins",Blue Cross,39214.32216348669,462,Urgent,2019-11-26,Penicillin,Inconclusive

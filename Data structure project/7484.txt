@@ -1,1 +1,0 @@
-aPrIL wAtson,39,Male,A+,Cancer,2020-05-19,Dr. Stacey Baker MD,"Burch Drake, and Hogan",Medicare,5197.233103526264,219,Urgent,2020-05-23,Penicillin,Inconclusive

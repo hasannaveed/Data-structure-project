@@ -1,1 +1,0 @@
-robiN coX,36,Male,O-,Obesity,2020-01-11,Frank Gonzalez,Downs PLC,Cigna,23892.552669226494,268,Emergency,2020-01-16,Aspirin,Normal

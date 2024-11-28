@@ -1,1 +1,0 @@
-KEnNeth hart,50,Male,A-,Asthma,2020-01-05,Maria Norton,Rivera-Scott,Cigna,6571.049713653854,391,Urgent,2020-01-14,Aspirin,Abnormal

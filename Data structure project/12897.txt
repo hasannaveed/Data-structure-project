@@ -1,1 +1,0 @@
-cInDY RoBeRTS,80,Male,A+,Obesity,2024-02-10,Jason Anderson,Williams Inc,Blue Cross,3889.9425979551365,168,Urgent,2024-02-12,Penicillin,Inconclusive

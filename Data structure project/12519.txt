@@ -1,1 +1,0 @@
-VIncENt colEMAN,63,Male,AB+,Diabetes,2021-06-08,Brianna Fields,Hernandez-Phillips,Cigna,48240.2542161307,409,Urgent,2021-06-17,Aspirin,Normal

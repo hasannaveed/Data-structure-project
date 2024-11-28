@@ -1,1 +1,0 @@
-mitCHEll greEn,31,Female,B-,Asthma,2020-01-02,John Waller,Mcneil-Rivera,UnitedHealthcare,37415.75122924655,213,Urgent,2020-01-24,Aspirin,Inconclusive

@@ -1,1 +1,0 @@
-connOR HANsEn,75,Female,A+,Diabetes,2019-12-12,Kenneth Fletcher,"Powers Miller, and Flores",Cigna,43282.28335770435,134,Emergency,2019-12-28,Penicillin,Abnormal

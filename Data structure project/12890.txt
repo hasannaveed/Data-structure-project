@@ -1,1 +1,0 @@
-heIdi PaRKS,52,Female,AB+,Obesity,2022-11-03,John Clayton,Miller-Cummings,Cigna,36014.55281310507,127,Emergency,2022-11-20,Penicillin,Normal

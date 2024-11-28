@@ -1,1 +1,0 @@
-mariA CaRteR,85,Male,A+,Arthritis,2021-08-09,Mike Moore,"Bates Gomez, and Larson",Medicare,18189.853945399835,312,Elective,2021-09-08,Aspirin,Abnormal

@@ -1,1 +1,0 @@
-liSa CRAne,23,Male,AB+,Arthritis,2020-08-01,Nicholas Simmons DDS,"Jones Miller and Williams,",Cigna,3181.348716264334,362,Emergency,2020-08-24,Ibuprofen,Abnormal

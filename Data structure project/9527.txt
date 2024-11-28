@@ -1,1 +1,0 @@
-MegAn tYLER,40,Male,O-,Obesity,2020-05-08,James Gardner,Hess-Wilson,Aetna,25694.504014104827,490,Emergency,2020-05-30,Lipitor,Normal

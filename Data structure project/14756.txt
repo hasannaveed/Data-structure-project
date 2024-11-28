@@ -1,1 +1,0 @@
-elizabeTh SMITH,51,Female,AB-,Arthritis,2020-06-01,Daniel Herrera,Neal-Torres,Aetna,29754.622379474386,484,Elective,2020-06-23,Paracetamol,Normal

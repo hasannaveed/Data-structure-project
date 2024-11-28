@@ -1,1 +1,0 @@
-JuLIE lambeRT,21,Male,O-,Obesity,2021-03-04,Charles Johnson,"and Lloyd Wells Smith,",Aetna,10570.87243916768,405,Elective,2021-03-09,Ibuprofen,Normal

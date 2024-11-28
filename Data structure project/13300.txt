@@ -1,1 +1,0 @@
-lIsa BerGer,29,Male,AB+,Arthritis,2019-11-15,Joshua Vargas,"Newman Blair and Harvey,",Cigna,35648.835020275605,220,Emergency,2019-11-17,Paracetamol,Normal

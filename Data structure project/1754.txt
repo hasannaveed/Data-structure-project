@@ -1,1 +1,0 @@
-maRy MillEr,60,Male,O+,Hypertension,2020-06-11,Mary Miller,"Reese Adams, Lara and",Cigna,2948.5457903048873,151,Emergency,2020-06-28,Paracetamol,Inconclusive

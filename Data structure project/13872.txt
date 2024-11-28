@@ -1,1 +1,0 @@
-doNalD ROse,58,Male,B-,Cancer,2020-08-12,Kelsey Farmer,"Le Meyers, Smith and",Blue Cross,36317.96775291872,405,Elective,2020-08-25,Paracetamol,Normal

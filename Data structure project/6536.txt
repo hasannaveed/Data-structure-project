@@ -1,1 +1,0 @@
-brEndA li,64,Female,AB+,Asthma,2019-10-14,Jennifer Haley,Ltd Ford,Aetna,37359.950841341546,106,Emergency,2019-11-09,Aspirin,Inconclusive

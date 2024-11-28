@@ -1,1 +1,0 @@
-StEVEN olsEN,50,Female,A+,Obesity,2023-04-23,Bradley Miller,"Vega and Herrera Ford,",Aetna,10125.089699079117,107,Emergency,2023-05-09,Paracetamol,Normal

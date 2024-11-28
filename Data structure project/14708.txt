@@ -1,1 +1,0 @@
-lInDsey hOFFMAN,35,Male,AB+,Arthritis,2020-01-02,George Perez,"and Hansen, Smith Santiago",UnitedHealthcare,5298.473260677341,426,Urgent,2020-01-04,Aspirin,Abnormal

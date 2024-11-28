@@ -1,1 +1,0 @@
-andRe prAtt,62,Male,O+,Hypertension,2022-12-24,Robert Johnson,Miller-Green,Blue Cross,12157.747781938913,111,Emergency,2022-12-26,Penicillin,Normal

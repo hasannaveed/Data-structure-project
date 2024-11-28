@@ -1,1 +1,0 @@
-rodney CHOI,65,Female,AB+,Obesity,2021-08-17,Kenneth Parker,Bradley Inc,Cigna,25622.431522128245,348,Urgent,2021-08-25,Penicillin,Normal

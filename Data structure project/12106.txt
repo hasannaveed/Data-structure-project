@@ -1,1 +1,0 @@
-CurTIS MccorMICK,83,Male,AB+,Diabetes,2019-08-14,Lance Grant,Hall-Grant,Aetna,12108.685442845715,440,Elective,2019-08-27,Ibuprofen,Normal

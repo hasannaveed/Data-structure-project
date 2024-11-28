@@ -1,1 +1,0 @@
-SPEncEr JaCksON,29,Male,AB-,Diabetes,2021-11-25,Christine Johnson,Burgess-Lee,Medicare,5331.745888490188,288,Emergency,2021-12-10,Aspirin,Normal

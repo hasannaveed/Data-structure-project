@@ -1,1 +1,0 @@
-mELIssa DaViS,45,Male,AB+,Obesity,2021-04-20,Michael Bowen,Williams-Stuart,Cigna,2188.1533468291304,494,Emergency,2021-04-26,Penicillin,Normal

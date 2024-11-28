@@ -1,1 +1,0 @@
-CaRoL PalmeR,42,Female,B+,Diabetes,2019-11-30,Taylor Weeks,"Davis and Taylor, Higgins",Cigna,17481.577549521084,414,Urgent,2019-12-14,Aspirin,Normal

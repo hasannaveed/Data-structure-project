@@ -1,1 +1,0 @@
-LisA cArTER,25,Female,AB+,Diabetes,2021-03-06,Matthew Miller,PLC Thomas,Cigna,21417.86210183009,201,Urgent,2021-03-18,Paracetamol,Normal

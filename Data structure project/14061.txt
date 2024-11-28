@@ -1,1 +1,0 @@
-eRiCA glOVER,70,Male,B+,Arthritis,2022-10-23,Nicholas Richardson,Scott-Mathews,Cigna,10382.735061079942,183,Elective,2022-11-14,Ibuprofen,Normal

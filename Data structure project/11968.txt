@@ -1,1 +1,0 @@
-doNALD aViLA,85,Female,AB-,Asthma,2022-09-17,Christopher Allen,"Holmes and Howard Castro,",Aetna,14042.748907644913,199,Emergency,2022-09-27,Aspirin,Abnormal

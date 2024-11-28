@@ -1,1 +1,0 @@
-JOSeph NOble,85,Male,AB-,Arthritis,2020-10-10,Tyler Morales,Johnson-Thomas,Aetna,36349.14640423814,134,Emergency,2020-10-18,Ibuprofen,Abnormal

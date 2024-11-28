@@ -1,1 +1,0 @@
-JANET jAcksOn,31,Male,AB-,Diabetes,2022-10-22,Carrie Douglas,Jimenez-Smith,Medicare,22073.571195332064,420,Elective,2022-11-17,Aspirin,Inconclusive

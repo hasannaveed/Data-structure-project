@@ -1,1 +1,0 @@
-marc ArmstRoNG,72,Male,O-,Hypertension,2020-02-01,Susan Munoz,Johnson-Armstrong,Medicare,43505.08871640664,334,Emergency,2020-03-01,Lipitor,Abnormal

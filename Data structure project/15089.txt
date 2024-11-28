@@ -1,1 +1,0 @@
-PaTRICk paRks,25,Male,AB+,Hypertension,2023-06-05,Stephanie Smith,PLC Thompson,Aetna,26928.054351767012,449,Urgent,2023-06-25,Penicillin,Inconclusive

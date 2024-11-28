@@ -1,1 +1,0 @@
-paTrICK QuiNN,33,Female,AB+,Diabetes,2022-05-07,Lauren Greene,Johnson-Sanchez,UnitedHealthcare,2701.796588493834,124,Urgent,2022-05-14,Penicillin,Abnormal

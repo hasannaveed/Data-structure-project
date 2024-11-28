@@ -1,1 +1,0 @@
-aLEX patTeRsOn,37,Female,B+,Diabetes,2023-10-01,Mark Paul,Lee-Miller,Aetna,20798.40122979119,349,Emergency,2023-10-28,Ibuprofen,Inconclusive

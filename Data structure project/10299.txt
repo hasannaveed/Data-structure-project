@@ -1,1 +1,0 @@
-rObERt GRANT,51,Male,B-,Obesity,2022-10-24,Steve Hester,Scott-Williams,Cigna,49740.007608164924,489,Elective,2022-11-05,Lipitor,Normal

@@ -1,1 +1,0 @@
-PatRiCK WaLSH,26,Male,AB-,Arthritis,2021-06-21,David Schroeder,PLC Bell,Cigna,6303.395931500048,247,Emergency,2021-06-26,Ibuprofen,Abnormal

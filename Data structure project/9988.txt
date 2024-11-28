@@ -1,1 +1,0 @@
-pAul OlSON,44,Female,B-,Diabetes,2020-04-01,Jeremy Hardin,Inc Jones,UnitedHealthcare,13619.342612149285,455,Urgent,2020-04-11,Lipitor,Abnormal

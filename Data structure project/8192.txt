@@ -1,1 +1,0 @@
-rOBERT MoRTon,60,Male,A-,Diabetes,2023-02-03,Jordan Brown,"Wright Woodard, Jones and",Medicare,39303.0269015409,317,Urgent,2023-02-06,Lipitor,Abnormal

@@ -1,1 +1,0 @@
-clauDIA barry,34,Male,B-,Hypertension,2020-07-07,Jordan Wolfe,Gibson LLC,Aetna,21654.64814140736,201,Urgent,2020-07-31,Penicillin,Normal

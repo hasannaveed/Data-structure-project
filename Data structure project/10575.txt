@@ -1,1 +1,0 @@
-James LaMbert,83,Male,A-,Arthritis,2020-07-31,Brian Roberts,Abbott-Castillo,UnitedHealthcare,18397.74214816412,144,Urgent,2020-08-25,Ibuprofen,Abnormal

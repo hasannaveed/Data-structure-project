@@ -1,1 +1,0 @@
-RobERT avila,30,Female,O-,Diabetes,2020-10-13,Johnny Wood,Stone-Reese,Medicare,35947.07877676423,363,Urgent,2020-10-25,Aspirin,Inconclusive
