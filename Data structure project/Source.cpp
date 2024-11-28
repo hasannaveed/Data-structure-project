@@ -6,15 +6,13 @@
 using namespace std;
 
 DoublyLinkedList<String> List;
-RedBlackTree<String>RBTree;
+RedBlackTree<String> RBTree;
 
 //======================function prototypes================================================
-void AppendInTree(int input, int TreeInput); //for appending in the tree
-void FileReading(String filename); //reading the csv file and storing into the linked list
+void AppendInTree(int input, int TreeInput); // For appending in the tree
+void FileReading(String filename);          // Reading the CSV file and storing into files
+void ReadSpecificRow( String& csvFilePath,  String& pointerFilePath); // Reading a specific row using pointer
 //=========================================================================================
-
-
-
 
 void FileReading(String filename) {
     ifstream file(filename.getdata(), ios::in);  // Open the file in read mode
@@ -25,9 +23,7 @@ void FileReading(String filename) {
     }
 
     char buffer[1024]; // Buffer to hold a single line
-    bool firstLine = true;  // Flag to track the first line
-    int count = 0;
-    file.getline(buffer, sizeof(buffer));
+    file.getline(buffer, sizeof(buffer)); 
 
     String curr(buffer);
 
@@ -45,16 +41,19 @@ void FileReading(String filename) {
     int choice;
     cin >> choice;
 
-    int rowNumber = 1;
-
     // Read each line of the CSV file
-    while (file.getline(buffer, sizeof(buffer)) ) { // Reading the file line by line
-        rowNumber++;
-        int spaces = choice;
+    while (file.good()) {
+        streampos rowPointer = file.tellg(); // Save the position before reading the line 
+
+        if (!file.getline(buffer, sizeof(buffer))) {
+            break;
+        }
+
         String temp(buffer);
         int index = 0;
+        int spaces = choice;
 
-        // Skip through the chosen column
+        // Skip to the chosen column
         while (spaces != 0) {
             if (temp[index] == ',') {
                 spaces--;
@@ -79,77 +78,88 @@ void FileReading(String filename) {
             continue;
         }
 
-        // Write the row number to the corresponding file
-        outFile << rowNumber << '\n';
+        // Write the pointer (file position) to the corresponding file
+        outFile << rowPointer << '\n'; 
 
         outFile.close(); // Close the file
-        count++;
     }
 
     file.close(); // Close the CSV file
+
+    // Example call to verify specific row reading
+    cout << "\nEnter the filename containing pointers to verify a row: ";
+    String pointerFileName;
+    cin >> pointerFileName;
+    String fullPath =  pointerFileName ;  
+    fullPath = fullPath + ".txt"; 
+    ReadSpecificRow(filename, fullPath);  
 }
 
+void ReadSpecificRow( String& csvFilePath,  String& pointerFilePath) {
+
+    ifstream file(csvFilePath.getdata(), ios::in);
+    ifstream pointerFile(pointerFilePath.getdata(), ios::in);
+
+    if (!pointerFile) {
+        cout << "Error: Unable to open pointer file." << endl;
+        return;
+    }
+
+    if (!file) {
+        cout << "Error: Unable to open CSV file." << endl;
+        return;
+    }
+
+    long long position;
+    pointerFile >> position; // Read the saved position as a long long integer
+
+    if (pointerFile.fail()) {
+        cout << "Error: Invalid data in pointer file." << endl;
+        return;
+    }
+
+    streampos rowPointer = static_cast<streampos>(position); // Convert to streampos
+    file.seekg(rowPointer); // Move to the saved position in the CSV file
+
+    char buffer[1024];
+    file.getline(buffer, sizeof(buffer)); // Read the specific row
+
+    if (file.fail()) {
+        cout << "Error: Unable to read the row from the CSV file." << endl;
+    }
+    else {
+        cout << "Row content: " << buffer << endl;
+    }
+
+    //for testing purposes     
+  //  file.seekg(1073790);
+  //  file.getline(buffer, sizeof(buffer));
+  //  String newL(buffer);
+  //  cout << newL;
+    file.close();
+    pointerFile.close();
+}
+
+
 int main() {
-    // Define the path to your CSV file (update the file path as needed)
+    // Define the path to your CSV file
     String file = "C:/Users/ha797/Downloads/HealthCare-dataset/healthcare_dataset.csv"; // Path to CSV file
     cout << "===================================" << endl;
     cout << "          READING CSV FILE" << endl;
     cout << "===================================" << endl;
 
     // Read and process the CSV file
-    FileReading(file);
+    FileReading(file);  
+
+   /* cout << "\nEnter the filename containing pointers to verify a row: "; 
+    String pointerFileName; 
+    cin >> pointerFileName; 
+    pointerFileName =pointerFileName + ".txt";
+    cout << "Pointer file path: " << pointerFileName << endl;*/
+
+    //ReadSpecificRow(file, pointerFileName);
+    
+
 
     return 0;
 }
-
-
-
-//void AppendInTree(int input, int TreeInput) {
-//    Double_Node<String>* curr = List.getRoot();
-//    Double_Node<String>* iterator = List.getRoot();
-//    // Traverse to the selected column
-//    while (curr != nullptr && input > 0) {
-//        curr = curr->down;
-//        input--;
-//    }
-//
-//    if (!curr) {
-//        cout << "Error: Invalid column selection!" << endl;
-//        return;
-//    }
-//    iterator = iterator->next;
-//    curr = curr->next;
-//
-//    while (curr != nullptr) {
-//
-//        String category = curr->data;
-//        String fileName = category + ".txt";  // Create a filename for the category
-//        ofstream outFile(fileName.getdata(), ios::app);  // Open file in append mode
-//
-//        if (!outFile) {
-//            cout << "Error: Unable to create or open file for category " << category.getdata() << endl;
-//            return;
-//        }
-//
-//        // Write the entire column to the file
-//        Double_Node<String>* temp = iterator;
-//        while (temp != nullptr) {
-//            outFile << temp->data << " ";
-//            temp = temp->down;
-//        }
-//        outFile << "\n";
-//
-//
-//
-//        outFile.close(); // Close the file after writing
-//        cout << "Data successfully written to " << fileName.getdata() << endl;
-//        curr = curr->next;
-//        iterator = iterator->next;
-//    }
-//
-//    if (TreeInput == 1) {
-//
-//        //RBTree.insert();
-//    }
-//}
-
