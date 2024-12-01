@@ -1,11 +1,9 @@
-<<<<<< < trees_creation
-    ====== =
 #include <iostream>
 #include <fstream>
 #include "RedBlack.h"
 #include "String.h"   // Custom String library
 #include "LinkedList.h"
-    using namespace std;
+using namespace std;
 
 DoublyLinkedList<String> List;
 RedBlackTree<String>RBTree;
@@ -179,4 +177,3 @@ int main() {
 
     return 0;
 }
->>>>>> > master
