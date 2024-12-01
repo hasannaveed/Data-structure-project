@@ -337,5 +337,3 @@ int String::getLength() {
 String::operator int() const {
     return size;
 }
-
-
