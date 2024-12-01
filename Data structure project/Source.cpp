@@ -49,25 +49,25 @@ void FileReading(String filename) {
     int count = 0;
     int length = 0;
     // Read each line of the CSV file
-    while (file.getline(buffer, sizeof(buffer)) && count < 8) {
+    while (file.getline(buffer, sizeof(buffer)) && count<8) {
         char arr[1024];  // Array to store a field's characters
         int arrIndex = 0;
         int i = 0;
-
+       
         DoublyLinkedList<String> temp;  // Temporary list to store columns for this row
         // Traverse through the buffer
-        while (buffer[i] != '\0') {
-            if (buffer[i] == ',') {
-                arr[arrIndex] = '\0';
-                String newArr(arr);
-                length++;
-                temp.insertInColumn(newArr);
-                arrIndex = 0;
+        while (buffer[i] != '\0') { 
+            if (buffer[i] == ',') { 
+                arr[arrIndex] = '\0'; 
+                String newArr(arr); 
+                length++ ;
+                temp.insertInColumn(newArr);   
+                arrIndex = 0; 
             }
             else {
 
-                arr[arrIndex] = buffer[i];
-                arrIndex++;
+                arr[arrIndex] = buffer[i]; 
+                arrIndex++; 
             }
             i++;
         }
@@ -75,20 +75,20 @@ void FileReading(String filename) {
         if (arrIndex > 0) {  // Handle last element after the last comma
             arr[arrIndex] = '\0';
             String newArr(arr);
-            length++;
-            temp.insertInColumn(newArr);
+            length++; 
+            temp.insertInColumn(newArr);  
         }
 
         if (firstLine) {
             // Insert the first line into List directly 
-            temp.display();
-            List = temp;
+            temp.display(); 
+            List = temp;  
             firstLine = false;
         }
         else {
             // Attach subsequent rows to List
 
-            List.attachOtherList(temp);
+            List.attachOtherList(temp);   
         }
         count++;
     }
@@ -124,11 +124,11 @@ void AppendInTree(int input, int TreeInput) {
         return;
     }
     iterator = iterator->next;
-    curr = curr->next;
+    curr = curr->next; 
 
     while (curr != nullptr) {
 
-        String category = curr->data;
+        String category = curr->data; 
         String fileName = category + ".txt";  // Create a filename for the category
         ofstream outFile(fileName.getdata(), ios::app);  // Open file in append mode
 
@@ -140,12 +140,12 @@ void AppendInTree(int input, int TreeInput) {
         // Write the entire column to the file
         Double_Node<String>* temp = iterator;
         while (temp != nullptr) {
-            outFile << temp->data << " ";
+            outFile << temp->data<<" ";
             temp = temp->down;
         }
         outFile << "\n";
 
-
+      
 
         outFile.close(); // Close the file after writing
         cout << "Data successfully written to " << fileName.getdata() << endl;
