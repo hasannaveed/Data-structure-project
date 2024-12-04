@@ -1,12 +1,14 @@
 #include <iostream>
 #include <fstream>
 #include "RedBlack.h"
+#include "AVL.h"
 #include "String.h"   // Custom String library
 #include "LinkedList.h"
+#include "Utility_functions.h"
 using namespace std;
 
 DoublyLinkedList<String> List;
-RedBlackTree<String>RBTree;
+//RedBlackTree<String>RBTree;
 
 //======================function prototypes================================================
 void AppendInTree(int input, int TreeInput); //for appending in the tree
@@ -105,7 +107,23 @@ void FileReading(String filename) {
     int treeInput;
     cin >> treeInput;
 
-    AppendInTree(input, treeInput);
+    //AppendInTree(input, treeInput);
+    if (treeInput < 1 || treeInput>3)
+    {
+        cout << "Invalid input: " << endl;
+    }
+    else if (treeInput == 3)
+    {
+        ifstream file(filename.getdata(), ios::in); // Open the file in read mode
+        int count = 0;
+        AVL_tree<String> t;
+        file.getline(buffer, sizeof(buffer));//get rid of the headings
+        while (file.getline(buffer, sizeof(buffer)) && count < 50000)
+        {
+            t.insert(buffer, t.root, input+1);//4 will be changed to input
+            count++;
+        }
+    }
 
 }
 
@@ -164,16 +182,16 @@ void AppendInTree(int input, int TreeInput) {
 
 
 int main() {
-    String file = "C:/Users/ha797/Downloads/HealthCare-dataset/healthcare_dataset.csv"; // Path to CSV file
+    String file = "C:/Users/hasan/Downloads/HealthCare-dataset/healthcare_dataset.csv";//"C:/Users/ha797/Downloads/HealthCare-dataset/healthcare_dataset.csv"; // Path to CSV file
     cout << "===================================" << endl;
     cout << "          READING CSV FILE" << endl;
     cout << "===================================" << endl;
     FileReading(file);
 
-    List.displayRow(0);
-    List.displayRow(1);
-    List.displayRow(2);
-    List.displayRow(3);
+    //List.displayRow(0);
+    //List.displayRow(1);
+    //List.displayRow(2);
+    //List.displayRow(3);
 
     return 0;
 }

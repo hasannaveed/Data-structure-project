@@ -21,6 +21,12 @@
     <ClInclude Include="Btree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="RedBlack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility_functions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">

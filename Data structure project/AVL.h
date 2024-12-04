@@ -2,6 +2,7 @@
 #include <fstream>
 #include <cstdio>
 #include "String.h"
+#include "Utility_functions.h"
 using namespace std;
 
 //const char* stringToCstring(String &s)
@@ -18,58 +19,59 @@ using namespace std;
 //
 //	return cstr;
 //}
-void replaceLine(String filename, int l, String replace)
-{
-	ifstream file(filename.getdata());
-	String arr[4];
-	char* buffer = new char[1000];
-	for (int i = 0;i < 4;i++)
-	{
-		file.getline(buffer, 1000);
-		if (i == l - 1)
-		{
-			arr[i] = replace;
-		}
-		else
-		{
-			arr[i] = buffer;
-		}
-	}
-	file.close();
 
-	ofstream updated_file(filename.getdata());
-
-	for (int i = 0;i < 4;i++)
-	{
-		updated_file << arr[i] << '\n';
-	}
-	updated_file.close();
-	return;
-}
-
-char* getLineFile(String filename, int l)
-{
-	ifstream file(filename.getdata());
-	char* buffer = new char[1000];
-	for (int i = 0;i < l;i++)
-	{
-		file.getline(buffer, 1000);
-	}
-	return buffer;
-}
-int stringToInt(String& s) {
-	int result = 0;
-	int index = 0;
-
-	int length = s.getLength();
-
-	for (int i = index; i < length; i++) {
-		result = result * 10 + (s[i] - '0');
-	}
-
-	return result;
-}
-
+//void replaceLine(String filename, int l, String replace)
+//{
+//	ifstream file(filename.getdata());
+//	String arr[4];
+//	char* buffer = new char[1000];
+//	for (int i = 0;i < 4;i++)
+//	{
+//		file.getline(buffer, 1000);
+//		if (i == l - 1)
+//		{
+//			arr[i] = replace;
+//		}
+//		else
+//		{
+//			arr[i] = buffer;
+//		}
+//	}
+//	file.close();
+//
+//	ofstream updated_file(filename.getdata());
+//
+//	for (int i = 0;i < 4;i++)
+//	{
+//		updated_file << arr[i] << '\n';
+//	}
+//	updated_file.close();
+//	return;
+//}
+//
+//char* getLineFile(String filename, int l)
+//{
+//	ifstream file(filename.getdata());
+//	char* buffer = new char[1000];
+//	for (int i = 0;i < l;i++)
+//	{
+//		file.getline(buffer, 1000);
+//	}
+//	return buffer;
+//}
+//int stringToInt(String& s) {
+//	int result = 0;
+//	int index = 0;
+//
+//	int length = s.getLength();
+//
+//	for (int i = index; i < length; i++) {
+//		result = result * 10 + (s[i] - '0');
+//	}
+//
+//	return result;
+//}
+//
 char* extract(String s, int col, char end)
 {
 	int curr = 1;
@@ -148,11 +150,13 @@ public:
 		int rt = height(right);
 		return max(lt, rt) + 1;
 	}
-	void leftRotate(String& r)
+	void leftRotate(String& r, int pos)
 	{
 		String parent(getLineFile(r, 4));//store parent of current root
 		String k(getLineFile(r, 3));//right child of root
 		replaceLine(r, 3, getLineFile(k, 2));//roots right is k's left
+		if (getLineFile(k, 2) != nullptr)
+			replaceLine(getLineFile(k, 2), 4, r);//update parent of ks right to root
 		//r->right = k->left;
 		replaceLine(k, 2, r);//ks left is r
 		replaceLine(r, 4, k);//rs parent is k
@@ -166,13 +170,13 @@ public:
 		}
 		else
 		{
-			replaceLine(parent, 3, k);
+			replaceLine(parent, pos, k);//initially 3 at pos
 			replaceLine(k, 4, parent);//k s parent is roots parent initially
 		}
 
 	}
 
-	void rightRotate(String& r)
+	void rightRotate(String& r, int pos)
 	{
 		/*AVL_node<t>* k = r->left;
 		r->left = k->right;
@@ -182,7 +186,8 @@ public:
 		String parent(getLineFile(r, 4));//store parent of current root
 		String k(getLineFile(r, 2));//leftt child of root
 		replaceLine(r, 2, getLineFile(k, 3));//roots left is k's right
-
+		if(getLineFile(k, 3)!=nullptr)
+			replaceLine(getLineFile(k, 3), 4, r);//update parent of ks right to root
 		replaceLine(k, 3, r);//ks right is r
 		replaceLine(r, 4, k);//rs parent is k
 
@@ -195,7 +200,7 @@ public:
 		}
 		else
 		{
-			replaceLine(parent, 2, k);
+			replaceLine(parent, pos, k);		//initially 2 at pos
 			replaceLine(k, 4, parent);//k s parent is roots parent initially
 
 		}
@@ -206,7 +211,7 @@ public:
 	{
 		if (r == "nullptr")
 		{
-			String temp(extract(val, col, ';'));
+			String temp(extract(val, col, ','));
 			temp = temp + ".txt";
 			this->root = temp;
 			ofstream root(temp.getdata());
@@ -227,7 +232,7 @@ public:
 				std::cerr << "Failed to open file: " << r.getdata() << '\n';
 				return;
 			}
-			String new_val(extract(val, col, ';'));
+			String new_val(extract(val, col, ','));
 			int new_intVal;
 			int root_val;
 			//we need to check wether to treat value as integer or charachter
@@ -297,13 +302,13 @@ public:
 						//single rotaion case
 						if (height(getLineFile(left_child, 3)) - height(getLineFile(left_child, 2)) < 0)
 						{
-							rightRotate(r);
+							rightRotate(r, 2);
 						}
 						//double rotation case
 						else
 						{
-							leftRotate(r);
-							rightRotate(r);
+							leftRotate(left_child, 2);
+							rightRotate(r, 2);
 						}
 					}
 
@@ -367,13 +372,13 @@ public:
 						//single rotaion case
 						if (height(getLineFile(right_child, 3)) - height(getLineFile(right_child, 2)) > 0)
 						{
-							leftRotate(r);
+							leftRotate(r, 3);
 						}
 						//double rotation case
 						else
 						{
-							rightRotate(r);
-							leftRotate(r);
+							rightRotate(right_child, 3);
+							leftRotate(r, 3);
 						}
 					}
 
@@ -487,13 +492,13 @@ public:
 			//single rotaion case
 			if (height(getLineFile(left_child, 3)) - height(getLineFile(left_child, 2)) < 0)
 			{
-				rightRotate(r);
+				rightRotate(r, 2);
 			}
 			//double rotation case
 			else
 			{
-				leftRotate(r);
-				rightRotate(r);
+				leftRotate(r, 2);
+				rightRotate(r, 2);
 			}
 		}
 
@@ -504,13 +509,13 @@ public:
 			//single rotaion case
 			if (height(getLineFile(right_child, 3)) - height(getLineFile(right_child, 2)) > 0)
 			{
-				leftRotate(r);
+				leftRotate(r, 3);
 			}
 			//double rotation case
 			else
 			{
-				rightRotate(r);
-				leftRotate(r);
+				rightRotate(r, 3);
+				leftRotate(r, 3);
 			}
 		}
 		return;

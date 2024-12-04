@@ -2,80 +2,81 @@
 #include <fstream>
 #include <string>
 #include "String.h"
+#include "Utility_functions.h"
 
 using namespace std;
 
-void replaceLine(String filename, int line, String replace)
-{
-    ifstream file(filename.getdata());
-    String arr[5];
-    char *buffer = new char[1000];
-    for (int i = 0; i < 5; i++)
-    {
-        file.getline(buffer, 1000);
-        if (i == line - 1)
-        {
-            arr[i] = replace;
-        }
-        else
-        {
-            arr[i] = buffer;
-        }
-    }
-    file.close();
-
-    ofstream updated_file(filename.getdata());
-    for (int i = 0; i < 5; i++)
-    {
-        updated_file << arr[i] << '\n';
-    }
-    updated_file.close();
-}
-
-char *getLineFile(String filename, int line)
-{
-    ifstream file(filename.getdata());
-    char *buffer = new char[1000];
-    for (int i = 0; i < line; i++)
-    {
-        file.getline(buffer, 1000);
-    }
-    return buffer;
-}
-
-char *extract(String s, int col, char end)
-{
-    int curr = 1;
-    int count = 0;
-    int length = s.getLength();
-    int i = 0;
-    for (; length; i++)
-    {
-        if (curr > col)
-        {
-            break;
-        }
-        if (s[i] == end)
-        {
-            curr++;
-            continue;
-        }
-        if (curr == col)
-        {
-            count++;
-        }
-    }
-
-    char *result = new char[count + 1];
-    int j = i - count - 1;
-    int k = 0;
-    for (; k < count; j++)
-    {
-        result[k++] = s[j];
-    }
-    result[count] = '\0';
-    return result;
-}
+//void replaceLine(String filename, int line, String replace)
+//{
+//    ifstream file(filename.getdata());
+//    String arr[5];
+//    char *buffer = new char[1000];
+//    for (int i = 0; i < 5; i++)
+//    {
+//        file.getline(buffer, 1000);
+//        if (i == line - 1)
+//        {
+//            arr[i] = replace;
+//        }
+//        else
+//        {
+//            arr[i] = buffer;
+//        }
+//    }
+//    file.close();
+//
+//    ofstream updated_file(filename.getdata());
+//    for (int i = 0; i < 5; i++)
+//    {
+//        updated_file << arr[i] << '\n';
+//    }
+//    updated_file.close();
+//}
+//
+//char *getLineFile(String filename, int line)
+//{
+//    ifstream file(filename.getdata());
+//    char *buffer = new char[1000];
+//    for (int i = 0; i < line; i++)
+//    {
+//        file.getline(buffer, 1000);
+//    }
+//    return buffer;
+//}
+//
+//char *extract(String s, int col, char end)
+//{
+//    int curr = 1;
+//    int count = 0;
+//    int length = s.getLength();
+//    int i = 0;
+//    for (; length; i++)
+//    {
+//        if (curr > col)
+//        {
+//            break;
+//        }
+//        if (s[i] == end)
+//        {
+//            curr++;
+//            continue;
+//        }
+//        if (curr == col)
+//        {
+//            count++;
+//        }
+//    }
+//
+//    char *result = new char[count + 1];
+//    int j = i - count - 1;
+//    int k = 0;
+//    for (; k < count; j++)
+//    {
+//        result[k++] = s[j];
+//    }
+//    result[count] = '\0';
+//    return result;
+//}
 
 class RedBlackTree
 {
@@ -340,18 +341,18 @@ public:
     }
 };
 
-int main()
-{
-    RedBlackTree rbt;
-
-    rbt.Insert("10", "nullptr", 1);
-    rbt.Insert("20", rbt.getRoot(), 1);
-    rbt.Insert("30", rbt.getRoot(), 1);
-    rbt.Insert("40", rbt.getRoot(), 1);
-    rbt.Insert("50", rbt.getRoot(), 1);
-
-    cout << "In-Order Traversal:" << endl;
-    rbt.inOrderTraversal(rbt.getRoot());
-
-    return 0;
-}
+//int main()
+//{
+//    RedBlackTree rbt;
+//
+//    rbt.Insert("10", "nullptr", 1);
+//    rbt.Insert("20", rbt.getRoot(), 1);
+//    rbt.Insert("30", rbt.getRoot(), 1);
+//    rbt.Insert("40", rbt.getRoot(), 1);
+//    rbt.Insert("50", rbt.getRoot(), 1);
+//
+//    cout << "In-Order Traversal:" << endl;
+//    rbt.inOrderTraversal(rbt.getRoot());
+//
+//    return 0;
+//}
