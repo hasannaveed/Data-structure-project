@@ -22,6 +22,11 @@ public:
 
     char* getdata(); // returns the string inside the object
 
+    const char* getdataCstr()
+    {
+        return s;
+    }
+
     // Subscript Operator
     const char operator[](int i) const; // returns the character at index [x]
 
@@ -37,9 +42,20 @@ public:
     String& operator=(const String&); // copies one String to another
     String& operator=(const char*); // copies one c-string to another
 
+
+
     // Logical Operators
     bool operator==(const String&) const; // returns true if two Strings are equal
     bool operator==(const char*) const; // returns true if the c-string is equal to the String
+
+    bool operator!=(const String&) const; // returns true if two Strings are equal
+    bool operator!=(const char*) const; // returns true if the c-string is equal to the String
+
+    bool operator<(const String&) const;
+    //bool operator<(const char*) const;
+
+    bool operator>(const String&) const;
+    //bool operator>(const char*) const;
 
     // Unary Operators
     bool operator!(); // returns true if the String is empty
@@ -132,8 +148,12 @@ const char String::operator[](int i) const {
     if (i < 0) {
         i = size + i; // handle negative indices
     }
-    if (i < 0 || i >= size) {
+    if (i < 0 || i > size) {
         throw std::out_of_range("Index out of range");
+    }
+    if (i == size)
+    {
+        return '\0';
     }
     return s[i];
 }
@@ -226,6 +246,7 @@ String String::operator-(const char* str) {
             result.s[i] = result.s[i + len];
         }
         result.s[size - len] = '\0';
+        result.size = size - len;
     }
     return result;
 }
@@ -284,6 +305,29 @@ bool String::operator==(const char* cs) const {
     return cs[i] == s[i];
 }
 
+bool String::operator !=(const String& cs) const {
+    if (size != cs.size) {
+        return true;
+    }
+    for (int i = 0; i < size; i++) {
+        if (s[i] != cs.s[i]) {
+            return true;
+        }
+    }
+    return false;
+}
+
+bool String::operator!=(const char* cs) const {
+    int i = 0;
+    while (cs[i] != '\0' && s[i] != '\0') {
+        if (cs[i] != s[i]) {
+            return true;
+        }
+        i++;
+    }
+    return !(cs[i] == s[i]);
+}
+
 int String::operator()(char c) const {
     for (int i = 0; i < size; i++) {
         if (s[i] == c) {
@@ -336,4 +380,67 @@ int String::getLength() {
 
 String::operator int() const {
     return size;
+}
+
+bool String::operator<(const String& cs) const {
+
+
+    int i = 0;
+    while (s[i] != '\0' && cs[i] != '\0')
+    {
+
+        if (s[i] < cs[i])
+        {
+            return true;
+        }
+        else if (s[i] > cs[i])
+        {
+            return false;
+        }
+
+        i++;
+    }
+
+    if (s[i] == '\0' && cs[i] != '\0')
+    {
+        return true;
+    }
+    else if (s[i] != '\0' && cs[i] == '\0')
+    {
+        return false;
+    }
+
+    return false;
+}
+
+
+bool String::operator >(const String& cs) const {
+
+
+    int i = 0;
+    while (s[i] != '\0' && cs[i] != '\0')
+    {
+
+        if (s[i] > cs[i])
+        {
+            return true;
+        }
+        else if (s[i] < cs[i])
+        {
+            return false;
+        }
+
+        i++;
+    }
+
+    if (s[i] == '\0' && cs[i] != '\0')
+    {
+        return false;
+    }
+    else if (s[i] != '\0' && cs[i] == '\0')
+    {
+        return true;
+    }
+
+    return false;
 }
