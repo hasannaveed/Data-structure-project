@@ -244,16 +244,16 @@ public:
 					break;
 				}
 			}
-			//if col is integer eg we base on id
-			if (i < new_val.getLength() && i>0)
-			{
-				new_intVal = stringToInt(new_val);
-				String temp_root = r;
-				temp_root = temp_root - ".txt";
-				root_val = stringToInt(temp_root);
-			}
-			else//if col is string
-			{
+			////if col is integer eg we base on id
+			//if (i < new_val.getLength() && i>0)
+			//{
+			//	new_intVal = stringToInt(new_val);
+			//	String temp_root = r;
+			//	temp_root = temp_root - ".txt";
+			//	root_val = stringToInt(temp_root);
+			//}
+			//else//if col is string
+			//{
 				//if less then we go to the left;
 				if (new_val < r - ".txt")
 				{
@@ -391,7 +391,7 @@ public:
 				}
 
 
-			}
+			//}
 
 
 		}

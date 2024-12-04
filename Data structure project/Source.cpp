@@ -118,7 +118,7 @@ void FileReading(String filename) {
         int count = 0;
         AVL_tree<String> t;
         file.getline(buffer, sizeof(buffer));//get rid of the headings
-        while (file.getline(buffer, sizeof(buffer)) && count < 50000)
+        while(file.getline(buffer, sizeof(buffer))&&count<30)
         {
             t.insert(buffer, t.root, input+1);//4 will be changed to input
             count++;

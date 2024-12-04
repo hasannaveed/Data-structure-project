@@ -1,12 +1,11 @@
 #pragma once
-
 //Name: Muhammad Hasan Naveed
 //Roll no: 23I-0797
 //Assignment #2
 
 #include <iostream>
+//#include "Utility_functions.h"
 using namespace std;
-
 class String {
     // Private data members
     char* s;
@@ -70,7 +69,7 @@ public:
 
     // Utility Functions
     int getLength(); // returns the length of the string
-
+    int stringToInt()const;
     // Friend functions for input/output
     friend std::ostream& operator<<(std::ostream& output, const String& str);
 
@@ -384,7 +383,29 @@ String::operator int() const {
 
 bool String::operator<(const String& cs) const {
 
+    //we need to check if we are comparing int or string
+    bool isInt = true;
+    for (int i = 0;s[i] != '\0';i++)
+    {
+        if (s[i] < '0' || s[i]>'9')
+        {
+            isInt = false;
+            break;
+        }
+    }
+    for (int i = 0;cs[i] != '\0';i++)
+    {
+        if (cs[i] < '0' || cs[i]>'9')
+        {
+            isInt = false;
+            break;
+        }
+    }
+    if (isInt)
+    {
 
+        return stringToInt() < cs.stringToInt();
+    }
     int i = 0;
     while (s[i] != '\0' && cs[i] != '\0')
     {
@@ -416,7 +437,28 @@ bool String::operator<(const String& cs) const {
 
 bool String::operator >(const String& cs) const {
 
+    bool isInt = true;
+    for (int i = 0;s[i] != '\0';i++)
+    {
+        if (s[i] < '0' || s[i]>'9')
+        {
+            isInt = false;
+            break;
+        }
+    }
+    for (int i = 0;cs[i] != '\0';i++)
+    {
+        if (cs[i] < '0' || cs[i]>'9')
+        {
+            isInt = false;
+            break;
+        }
+    }
+    if (isInt)
+    {
 
+        return stringToInt() > cs.stringToInt();
+    }
     int i = 0;
     while (s[i] != '\0' && cs[i] != '\0')
     {
@@ -443,4 +485,18 @@ bool String::operator >(const String& cs) const {
     }
 
     return false;
+}
+
+
+int String::stringToInt() const {
+    int result = 0;
+    int index = 0;
+
+    int length = size;
+
+    for (int i = index; i < length; i++) {
+        result = result * 10 + (s[i] - '0');
+    }
+
+    return result;
 }
