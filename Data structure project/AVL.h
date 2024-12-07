@@ -892,81 +892,57 @@ public:
         replaceLine(node1, 6, update);
         commits++;
     }
-
     void revertCommitsavl()
     {
         String targetDir = "./AVL/main/";
-        bool flag = true;
         if (commits == 0)
         {
             cout << "No commits to revert." << endl;
+            return; // Exit early if there are no commits to revert
         }
 
         if (commits == 1)
         {
-            // cout << this->pathDirectory << endl;
-            String nameFolder = pathDirectory + "Commit";
-            nameFolder = nameFolder + "0";
+            // Handle reverting to the initial state
+            String nameFolder = pathDirectory + "Commit0";
             String total = nameFolder + "/";
-            cout << nameFolder << endl;
+            cout << "Reverting to: " << nameFolder << endl;
+
             AVL_tree<t> newTree;
             copyavlTree(*this, newTree, root, total, targetDir);
             this->root = newTree.root;
-            // if (RemoveDirectory(nameFolder.getdata()))
-            // {
-            //     cout << "Folder removed successfully.\n";
-            // }
-            // else
-            // {
-            //     cerr << "Failed to remove folder.\n";
-            // }
 
-            commits--;
+            // Optionally remove the commit folder
+            // RemoveDirectory(nameFolder.getdata());
+
+            commits--; // Decrement commit count
+            return;
         }
-        else
-        {
-            int x = commits;
-            x = x - 1;
-            char arr[10];
-            toString(x, arr);
-            String xname = arr;
 
-            x = x - 2;
-            if (x == 0)
-            {
-                flag = false;
-            }
-            char arr2[10];
-            toString(x, arr2);
-            String xname1 = arr2;
+        // Handle reverting for commits > 1
+        int x = commits - 1;
+        char arr[10];
+        toString(x, arr);
+        String xname = arr;
 
-            String nameFolder = targetDir + "Commit";
-            String newFolder = nameFolder + xname;
-            String total = newFolder + "/";
-            cout << newFolder << endl;
-            cout << total << endl;
+        int prevX = x - 1;
+        char arr2[10];
+        toString(prevX, arr2);
+        String xname1 = (prevX == 0) ? "0" : arr2; // Handle edge case where prevX == 0
 
-            String prevCommit;
+        String nameFolder = targetDir + "Commit";
+        String newFolder = nameFolder + xname;
+        String total = newFolder + "/";
+        cout << "Reverting to: " << total << endl;
 
-            if (!flag)
-            {
-                prevCommit = targetDir + "Commit";
-                prevCommit = prevCommit + "0";
-                prevCommit = prevCommit + "/";
-                cout << prevCommit << endl;
-            }
-            else
-            {
-                prevCommit = targetDir + "Commit";
-                prevCommit = prevCommit + xname1;
-                prevCommit = prevCommit + "/";
-                cout << prevCommit << endl;
-            }
+        String prevCommit = nameFolder + xname1 + "/";
+        cout << "Previous commit path: " << prevCommit << endl;
 
-            AVL_tree<t> newTree;
-            copyavlTree(*this, newTree, root, total, prevCommit);
-            this->root = newTree.root;
-        }
+        AVL_tree<t> newTree;
+        copyavlTree(*this, newTree, root, total, prevCommit);
+        this->root = newTree.root;
+
+        commits--; // Decrement commit count
     }
 };
 
