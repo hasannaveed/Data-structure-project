@@ -1,197 +1,136 @@
-#include <iostream>
-#include <fstream>
-#include "RedBlack.h"
-#include "AVL.h"
-#include "String.h"   // Custom String library
-#include "LinkedList.h"
-#include "Utility_functions.h"
-using namespace std;
+// #include <iostream>
+// #include <fstream>
+// #include "RedBlack.h"
+// #include "Avl.h"
+// #include "String.h" // Custom String library
+// #include "Utility_functions.h"
+// // #include "MerkleTree.h"
+// using namespace std;
 
-DoublyLinkedList<String> List;
-//RedBlackTree<String>RBTree;
+// // RedBlackTree rbtree;
+// AVL_tree<String> avl;
+// RedBlackTree rbtree;
+// // MerkleTree mt;
+// void extractColumns(String filename, int col)
+// {
+//     ifstream file(filename.getdata(), ios::in); // Open the file in read mode
+//     char buffer[1000];
+//     int lineIndex = 0;
 
-//======================function prototypes================================================
-void AppendInTree(int input, int TreeInput); //for appending in the tree
-void toString(int number, char* result); //converting the numbers to string
-void FileReading(String filename); //reading the csv file and storing into the linked list
-//=========================================================================================
+//     while (file.getline(buffer, 1000))
+//     {
+//         if (lineIndex == 0)
+//         {
+//             lineIndex++;
+//             continue; // Skip first line
+//         }
 
-// Convert an integer to a character array representation
-void toString(int number, char* result) {
-    char temp[20];
-    int index = 0;
+//         String curr(buffer);
+//         String extracted = extract(curr, col, ',');
+//         String path = "./Files/";
+//         path = path + extracted + ".txt";
 
-    // Extract digits and store them
-    do {
-        temp[index++] = '0' + (number % 10);
-        number /= 10;
-    } while (number > 0);
+//         if (rbtree.search_node(extracted.getdata(), rbtree.getRoot()) == "nullptr")
+//         {
+//             rbtree.Insert(extracted, rbtree.getRoot(), 1, "./RedBlack/main/init/");
 
-    temp[index] = '\0';
+//             // mt.InsertInMerkle(path);
+//         }
+//         else
+//         {
+//             // cout << "duplicate value: " << extracted << endl;
+//         }
 
-    // Reverse the string into the result
-    int j = 0;
-    for (int i = index - 1; i >= 0; --i) {
-        result[j++] = temp[i];
-    }
-    result[j] = '\0';
-}
+//         ofstream newFile(path.getdata(), ios::app);
+//         newFile << curr << '\n';
 
-// Read and process a CSV file
-void FileReading(String filename) {
-    ifstream file(filename.getdata(), ios::in); // Open the file in read mode
+//         lineIndex++;
+//     }
+// }
 
-    if (!file) {
-        cout << "Error: Unable to open file." << endl;
-        return;
-    }
+// void FileReading(String filename)
+// {
+//     ifstream file(filename.getdata(), ios::in); // Open the file in read mode
 
-    char buffer[1024]; // Buffer to hold a single line
-    bool firstLine = true;  // Flag to track the first line
-    int count = 0;
-    int length = 0;
-    // Read each line of the CSV file
-    while (file.getline(buffer, sizeof(buffer)) && count<8) {
-        char arr[1024];  // Array to store a field's characters
-        int arrIndex = 0;
-        int i = 0;
-       
-        DoublyLinkedList<String> temp;  // Temporary list to store columns for this row
-        // Traverse through the buffer
-        while (buffer[i] != '\0') { 
-            if (buffer[i] == ',') { 
-                arr[arrIndex] = '\0'; 
-                String newArr(arr); 
-                length++ ;
-                temp.insertInColumn(newArr);   
-                arrIndex = 0; 
-            }
-            else {
+//     if (!file)
+//     {
+//         cout << "Error: Unable to open file." << endl;
+//         return;
+//     }
 
-                arr[arrIndex] = buffer[i]; 
-                arrIndex++; 
-            }
-            i++;
-        }
+//     char buffer[1024]; // Buffer to hold a single line
+//     file.getline(buffer, sizeof(buffer));
 
-        if (arrIndex > 0) {  // Handle last element after the last comma
-            arr[arrIndex] = '\0';
-            String newArr(arr);
-            length++; 
-            temp.insertInColumn(newArr);  
-        }
+//     String curr(buffer);
 
-        if (firstLine) {
-            // Insert the first line into List directly 
-            temp.display(); 
-            List = temp;  
-            firstLine = false;
-        }
-        else {
-            // Attach subsequent rows to List
+//     // Print out the first row as headers
+//     for (int i = 0; i < curr.getLength(); i++)
+//     {
+//         if (curr[i] == ',')
+//         {
+//             cout << endl;
+//         }
+//         else
+//         {
+//             cout << curr[i];
+//         }
+//     }
 
-            List.attachOtherList(temp);   
-        }
-        count++;
-    }
+//     cout << "\nSelect the column based on which you want to create the Trees: ";
+//     int choice;
+//     cin >> choice;
 
-    file.close();  // Close the file
+//     extractColumns(filename, choice);
 
-    cout << "Select the coulumn By which you want to create a tree (1-" << length << ") : ";
-    int input;
-    cin >> input;
+//     file.close(); // Close the CSV file
 
-    input--;
+//     // Example call to verify specific row reading
+//     // cout << "\nEnter the filename containing pointers to verify a row: ";
+//     // String pointerFileName;
+//     // cin >> pointerFileName;
+//     // String fullPath = pointerFileName;
+//     // fullPath = fullPath + ".txt";
+//     // ReadFileRows(filename, fullPath);
+// }
 
-    cout << "Which Tree You Want to Use (1.RB Trees , 2.B Trees , 3.AVL Trees) : ";
-    int treeInput;
-    cin >> treeInput;
+// void CommitChanges()
+// {
+// }
+// void addToTree()
+// {
+// }
+// // int main()
+// // {
+// // FileReading("data.csv");
+// // List.displayRow(0);
+// // List.displayRow(1);
+// // List.displayRow(2);
+// // List.displayRow(3);
 
-    //AppendInTree(input, treeInput);
-    if (treeInput < 1 || treeInput>3)
-    {
-        cout << "Invalid input: " << endl;
-    }
-    else if (treeInput == 3)
-    {
-        ifstream file(filename.getdata(), ios::in); // Open the file in read mode
-        int count = 0;
-        AVL_tree<String> t;
-        file.getline(buffer, sizeof(buffer));//get rid of the headings
-        while(file.getline(buffer, sizeof(buffer))&&count<30)
-        {
-            t.insert(buffer, t.root, input+1);//4 will be changed to input
-            count++;
-        }
-    }
+// int main()
+// {
+//     cout << "**********************************************" << endl;
+//     cout << "*               GIT LITE                    *" << endl;
+//     cout << "*      ----------------------------------    *" << endl;
+//     cout << "*      Hello and Welcome to GIT LITE!        *" << endl;
+//     cout << "*      ----------------------------------    *" << endl;
+//     cout << "**********************************************" << endl;
+//     cout << endl;
+//     while (true)
+//     {
+//         String input;
 
-}
+//         cout << "git_> ";
+//         cin >> input;
 
-
-void AppendInTree(int input, int TreeInput) {
-    Double_Node<String>* curr = List.getRoot();
-    Double_Node<String>* iterator = List.getRoot();
-    // Traverse to the selected column
-    while (curr != nullptr && input > 0) {
-        curr = curr->down;
-        input--;
-    }
-
-    if (!curr) {
-        cout << "Error: Invalid column selection!" << endl;
-        return;
-    }
-    iterator = iterator->next;
-    curr = curr->next; 
-
-    while (curr != nullptr) {
-
-        String category = curr->data; 
-        String fileName = category + ".txt";  // Create a filename for the category
-        ofstream outFile(fileName.getdata(), ios::app);  // Open file in append mode
-
-        if (!outFile) {
-            cout << "Error: Unable to create or open file for category " << category.getdata() << endl;
-            return;
-        }
-
-        // Write the entire column to the file
-        Double_Node<String>* temp = iterator;
-        while (temp != nullptr) {
-            outFile << temp->data<<" ";
-            temp = temp->down;
-        }
-        outFile << "\n";
-
-      
-
-        outFile.close(); // Close the file after writing
-        cout << "Data successfully written to " << fileName.getdata() << endl;
-        curr = curr->next;
-        iterator = iterator->next;
-    }
-
-    if (TreeInput == 1) {
-
-        //RBTree.insert();
-    }
-}
-
-
-
-
-
-int main() {
-    String file = "C:/Users/hasan/Downloads/HealthCare-dataset/healthcare_dataset.csv";//"C:/Users/ha797/Downloads/HealthCare-dataset/healthcare_dataset.csv"; // Path to CSV file
-    cout << "===================================" << endl;
-    cout << "          READING CSV FILE" << endl;
-    cout << "===================================" << endl;
-    FileReading(file);
-
-    //List.displayRow(0);
-    //List.displayRow(1);
-    //List.displayRow(2);
-    //List.displayRow(3);
-
-    return 0;
-}
+//         if (input == "init")
+//         {
+//             String fileName;
+//             cin >> fileName;
+//             cout << "The Columns of the Entered File are: " << endl;
+//             FileReading(fileName);
+//             rbtree.inOrderTraversal(rbtree.getRoot());
+//             break;
+//         }
+//     }
+// }
