@@ -1,6 +1,6 @@
-# Data Structure Project
+# GitLite
 
-This repository contains a C++ data-structures project built as a Visual Studio solution.
+This repository contains a C++ data-structures project built as a Visual Studio solution for a local purpose focused version control.
 
 ## Overview
 
